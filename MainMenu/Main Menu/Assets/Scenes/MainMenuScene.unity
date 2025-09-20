@@ -85,15 +85,24 @@ LightmapSettings:
     m_PVREnvironmentMIS: 1
     m_PVRCulling: 1
     m_PVRFilteringGaussRadiusDirect: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
     m_PVRFilteringGaussRadiusIndirect: 5
     m_PVRFilteringGaussRadiusAO: 2
+=======
+    m_PVRFilteringGaussRadiusIndirect: 1
+    m_PVRFilteringGaussRadiusAO: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LightingDataAsset: {fileID: 0}
+=======
+  m_LightingDataAsset: {fileID: 20201, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LightingSettings: {fileID: 0}
 --- !u!196 &4
 NavMeshSettings:
@@ -119,7 +128,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!1 &9864518
+=======
+--- !u!1 &46970870
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -127,22 +140,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 9864519}
   - component: {fileID: 9864521}
   - component: {fileID: 9864520}
   m_Layer: 5
   m_Name: Background
+=======
+  - component: {fileID: 46970871}
+  - component: {fileID: 46970874}
+  - component: {fileID: 46970873}
+  - component: {fileID: 46970872}
+  m_Layer: 5
+  m_Name: Scrollbar Vertical
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &9864519
+=======
+--- !u!224 &46970871
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 9864518}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -431,11 +458,15 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 56968220}
+=======
+  m_GameObject: {fileID: 46970870}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - {fileID: 682255474}
   m_Father: {fileID: 2138417947}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1256,19 +1287,33 @@ RectTransform:
   m_Children:
   - {fileID: 781284673}
   m_Father: {fileID: 2138417947}
+=======
+  - {fileID: 107775882}
+  m_Father: {fileID: 1911850248}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_SizeDelta: {x: 20, y: 0}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &476684111
+=======
+  m_SizeDelta: {x: 20, y: -20}
+  m_Pivot: {x: 1, y: 1}
+--- !u!114 &46970872
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 476684109}
+=======
+  m_GameObject: {fileID: 46970870}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
@@ -1302,22 +1347,38 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TargetGraphic: {fileID: 1026867672}
   m_HandleRect: {fileID: 1026867671}
   m_Direction: 2
   m_Value: 0
   m_Size: 0.2
+=======
+  m_TargetGraphic: {fileID: 107465271}
+  m_HandleRect: {fileID: 107465270}
+  m_Direction: 2
+  m_Value: 0
+  m_Size: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!114 &476684112
+=======
+--- !u!114 &46970873
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 476684109}
+=======
+  m_GameObject: {fileID: 46970870}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -1341,15 +1402,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &476684113
+=======
+--- !u!222 &46970874
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 476684109}
   m_CullTransparentMesh: 1
 --- !u!1 &494510336
+=======
+  m_GameObject: {fileID: 46970870}
+  m_CullTransparentMesh: 1
+--- !u!1 &107465269
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1357,28 +1428,45 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 494510337}
   - component: {fileID: 494510339}
   - component: {fileID: 494510338}
   m_Layer: 5
   m_Name: Fill
+=======
+  - component: {fileID: 107465270}
+  - component: {fileID: 107465272}
+  - component: {fileID: 107465271}
+  m_Layer: 5
+  m_Name: Handle
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &494510337
+=======
+--- !u!224 &107465270
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 494510336}
+=======
+  m_GameObject: {fileID: 107465269}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Father: {fileID: 149665973}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1387,12 +1475,26 @@ RectTransform:
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &494510338
+=======
+  m_Father: {fileID: 107775882}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 20, y: 20}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &107465271
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 494510336}
+=======
+  m_GameObject: {fileID: 107465269}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -1406,8 +1508,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Sprite: {fileID: 7518163173404267975, guid: 17026eb7ce293644f8ed852822b7a7b2, type: 3}
   m_Type: 0
+=======
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1416,15 +1523,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &494510339
+=======
+--- !u!222 &107465272
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 494510336}
   m_CullTransparentMesh: 1
 --- !u!1 &519420028
+=======
+  m_GameObject: {fileID: 107465269}
+  m_CullTransparentMesh: 1
+--- !u!1 &107775881
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1432,6 +1549,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
@@ -1585,32 +1703,56 @@ GameObject:
   - component: {fileID: 538260584}
   m_Layer: 5
   m_Name: Handle Slide Area
+=======
+  - component: {fileID: 107775882}
+  m_Layer: 5
+  m_Name: Sliding Area
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &538260584
+=======
+--- !u!224 &107775882
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 538260583}
+=======
+  m_GameObject: {fileID: 107775881}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - {fileID: 1399173751}
   m_Father: {fileID: 2145184107}
+=======
+  - {fileID: 107465270}
+  m_Father: {fileID: 46970871}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &552421872
+=======
+  m_SizeDelta: {x: -20, y: -20}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1 &331749433
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1618,22 +1760,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 552421873}
   - component: {fileID: 552421875}
   - component: {fileID: 552421874}
   m_Layer: 5
   m_Name: Image
+=======
+  - component: {fileID: 331749434}
+  - component: {fileID: 331749437}
+  - component: {fileID: 331749436}
+  - component: {fileID: 331749435}
+  m_Layer: 5
+  m_Name: Viewport
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &552421873
+=======
+--- !u!224 &331749434
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 552421872}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -1648,12 +1804,46 @@ RectTransform:
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &552421874
+=======
+  m_GameObject: {fileID: 331749433}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 726161672}
+  m_Father: {fileID: 1911850248}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 1}
+--- !u!114 &331749435
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 552421872}
+=======
+  m_GameObject: {fileID: 331749433}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Mask
+  m_ShowMaskGraphic: 0
+--- !u!114 &331749436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 331749433}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
@@ -1667,8 +1857,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Sprite: {fileID: -3068565433328477323, guid: 7bdb04714e45e094c92848d99e6249df, type: 3}
   m_Type: 0
+=======
+  m_Sprite: {fileID: 10917, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1677,15 +1872,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &552421875
+=======
+--- !u!222 &331749437
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 552421872}
   m_CullTransparentMesh: 1
 --- !u!1 &590145939
+=======
+  m_GameObject: {fileID: 331749433}
+  m_CullTransparentMesh: 1
+--- !u!1 &383844296
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1693,29 +1898,142 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 590145940}
   - component: {fileID: 590145943}
   - component: {fileID: 590145942}
   - component: {fileID: 590145941}
   m_Layer: 5
   m_Name: Tutorial
+=======
+  - component: {fileID: 383844297}
+  - component: {fileID: 383844298}
+  m_Layer: 5
+  m_Name: Circle
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &590145940
+=======
+--- !u!224 &383844297
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 590145939}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+=======
+  m_GameObject: {fileID: 383844296}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -8185.2627}
+  m_LocalScale: {x: 500, y: 50, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2139692147}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -578, y: -340}
+  m_SizeDelta: {x: 1.09, y: 4.03}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!212 &383844298
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 383844296}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Color: {r: 0.16078432, g: 0.3529412, b: 0.18039216, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!1 &502700907
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 502700908}
+  - component: {fileID: 502700911}
+  - component: {fileID: 502700910}
+  - component: {fileID: 502700909}
+  m_Layer: 5
+  m_Name: Battle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &502700908
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 502700907}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - {fileID: 1774489491}
   m_Father: {fileID: 1021656996}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1725,12 +2043,27 @@ RectTransform:
   m_SizeDelta: {x: 320, y: 120}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &590145941
+=======
+  - {fileID: 696624167}
+  m_Father: {fileID: 2139692147}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 658.5901, y: 237.59}
+  m_SizeDelta: {x: 497.32, y: 188.29}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &502700909
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 590145939}
+=======
+  m_GameObject: {fileID: 502700907}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -1746,10 +2079,17 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
     m_HighlightedColor: {r: 0.52156866, g: 0.74509805, b: 0.20392157, a: 1}
     m_PressedColor: {r: 0.23921569, g: 0.3882353, b: 0.09803922, a: 1}
     m_SelectedColor: {r: 0.12156863, g: 0.25882354, b: 0.03137255, a: 1}
     m_DisabledColor: {r: 0.0627451, g: 0.18431373, b: 0.03137255, a: 0.5019608}
+=======
+    m_HighlightedColor: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+    m_PressedColor: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    m_SelectedColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_DisabledColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -1764,6 +2104,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TargetGraphic: {fileID: 590145942}
   m_OnClick:
     m_PersistentCalls:
@@ -1781,27 +2122,47 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &590145942
+=======
+  m_TargetGraphic: {fileID: 502700910}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &502700910
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 590145939}
+=======
+  m_GameObject: {fileID: 502700907}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Sprite: {fileID: 21300000, guid: 65dc19086cb389a4d82b95bd24f371a9, type: 3}
   m_Type: 0
+=======
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1810,15 +2171,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &590145943
+=======
+--- !u!222 &502700911
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 590145939}
   m_CullTransparentMesh: 1
 --- !u!1 &619394800
+=======
+  m_GameObject: {fileID: 502700907}
+  m_CullTransparentMesh: 1
+--- !u!1 &548395358
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1826,6 +2197,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 619394802}
   - component: {fileID: 619394801}
   m_Layer: 0
@@ -2088,6 +2460,11 @@ GameObject:
   - component: {fileID: 796735025}
   - component: {fileID: 796735027}
   - component: {fileID: 796735026}
+=======
+  - component: {fileID: 548395359}
+  - component: {fileID: 548395361}
+  - component: {fileID: 548395360}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -2095,12 +2472,17 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &796735025
+=======
+--- !u!224 &548395359
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 796735024}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -2238,25 +2620,40 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834103860}
+=======
+  m_GameObject: {fileID: 548395358}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Father: {fileID: 2066058336}
+=======
+  m_Father: {fileID: 1336900865}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!114 &834103862
+=======
+--- !u!114 &548395360
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 834103860}
+=======
+  m_GameObject: {fileID: 548395358}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -2270,17 +2667,29 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_text: Button
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+=======
+  m_text: Trade
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: d0ccb4c701903194ab4bf5c966c92fa5, type: 2}
+  m_sharedMaterial: {fileID: 290569276110883636, guid: d0ccb4c701903194ab4bf5c966c92fa5, type: 2}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
     rgba: 4281479730
   m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+=======
+    rgba: 4280980725
+  m_fontColor: {r: 0.9607843, g: 0.5803922, b: 0.16470589, a: 1}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2297,13 +2706,22 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontSize: 24
   m_fontSizeBase: 24
+=======
+  m_fontSize: 150
+  m_fontSizeBase: 150
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontStyle: 0
+=======
+  m_fontStyle: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
@@ -2341,15 +2759,25 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &834103863
+=======
+--- !u!222 &548395361
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 834103860}
   m_CullTransparentMesh: 1
 --- !u!1 &871894882
+=======
+  m_GameObject: {fileID: 548395358}
+  m_CullTransparentMesh: 1
+--- !u!1 &696624166
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2357,28 +2785,45 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 871894883}
   - component: {fileID: 871894885}
   - component: {fileID: 871894884}
   m_Layer: 5
   m_Name: Label
+=======
+  - component: {fileID: 696624167}
+  - component: {fileID: 696624169}
+  - component: {fileID: 696624168}
+  m_Layer: 5
+  m_Name: Text (TMP)
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &871894883
+=======
+--- !u!224 &696624167
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 871894882}
+=======
+  m_GameObject: {fileID: 696624166}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Father: {fileID: 437577894}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -2387,12 +2832,26 @@ RectTransform:
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &871894884
+=======
+  m_Father: {fileID: 502700908}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &696624168
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 871894882}
+=======
+  m_GameObject: {fileID: 696624166}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
@@ -2406,17 +2865,29 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_text: LOW
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+=======
+  m_text: Battle
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: d0ccb4c701903194ab4bf5c966c92fa5, type: 2}
+  m_sharedMaterial: {fileID: 290569276110883636, guid: d0ccb4c701903194ab4bf5c966c92fa5, type: 2}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
     rgba: 4281479730
   m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+=======
+    rgba: 4280980725
+  m_fontColor: {r: 0.9622642, g: 0.5793611, b: 0.16642918, a: 1}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2433,14 +2904,24 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontSize: 14
   m_fontSizeBase: 14
+=======
+  m_fontSize: 150
+  m_fontSizeBase: 150
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontStyle: 0
   m_HorizontalAlignment: 1
+=======
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -2477,15 +2958,25 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &871894885
+=======
+--- !u!222 &696624169
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 871894882}
   m_CullTransparentMesh: 1
 --- !u!1 &884511002
+=======
+  m_GameObject: {fileID: 696624166}
+  m_CullTransparentMesh: 1
+--- !u!1 &726161671
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2493,22 +2984,33 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 884511003}
   - component: {fileID: 884511005}
   - component: {fileID: 884511004}
   m_Layer: 5
   m_Name: Panel
+=======
+  - component: {fileID: 726161672}
+  m_Layer: 5
+  m_Name: Content
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &884511003
+=======
+--- !u!224 &726161672
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 884511002}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -2523,26 +3025,239 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &884511004
+=======
+  m_GameObject: {fileID: 726161671}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 331749434}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0.000055299148}
+  m_SizeDelta: {x: 0, y: 300}
+  m_Pivot: {x: 0, y: 1}
+--- !u!1 &1174053732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1174053736}
+  - component: {fileID: 1174053735}
+  - component: {fileID: 1174053734}
+  - component: {fileID: 1174053733}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1174053733
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 884511002}
+=======
+  m_GameObject: {fileID: 1174053732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1174053734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174053732}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
+  m_UiScaleMode: 1
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1174053735
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174053732}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 1
+  m_Camera: {fileID: 1554895979}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1174053736
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174053732}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2139692147}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
+--- !u!1 &1336900864
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1336900865}
+  - component: {fileID: 1336900868}
+  - component: {fileID: 1336900867}
+  - component: {fileID: 1336900866}
+  m_Layer: 5
+  m_Name: Trade
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1336900865
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336900864}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 548395359}
+  m_Father: {fileID: 2139692147}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 658.5901, y: -271.59}
+  m_SizeDelta: {x: 497.32, y: 188.29}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1336900866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336900864}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+    m_PressedColor: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    m_SelectedColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_DisabledColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1336900867}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1336900867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1336900864}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Color: {r: 0.9547169, g: 0.9547169, b: 0.9547169, a: 0.392}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+=======
+  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2552,15 +3267,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &884511005
+=======
+--- !u!222 &1336900868
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 884511002}
   m_CullTransparentMesh: 1
 --- !u!1 &944199763
+=======
+  m_GameObject: {fileID: 1336900864}
+  m_CullTransparentMesh: 1
+--- !u!1 &1554895978
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2568,17 +3293,120 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 944199764}
   - component: {fileID: 944199767}
   - component: {fileID: 944199766}
   - component: {fileID: 944199765}
   m_Layer: 5
   m_Name: Settings
+=======
+  - component: {fileID: 1554895981}
+  - component: {fileID: 1554895979}
+  - component: {fileID: 1554895980}
+  m_Layer: 0
+  m_Name: Main Camera
+  m_TagString: MainCamera
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!20 &1554895979
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554895978}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 1
+  orthographic size: 5
+  m_Depth: -1
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
+--- !u!81 &1554895980
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554895978}
+  m_Enabled: 1
+--- !u!4 &1554895981
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1554895978}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/Lobby.unity
+--- !u!1 &1741658296
+========
+--- !u!1 &554315623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 554315625}
+  - component: {fileID: 554315624}
+  m_Layer: 0
+  m_Name: MenuManager
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &944199764
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2600,16 +3428,97 @@ RectTransform:
   m_SizeDelta: {x: 540, y: 125}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &944199765
+=======
+--- !u!114 &554315624
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 944199763}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
+=======
+  m_GameObject: {fileID: 554315623}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 510c9df0bcff84f1db44e7fa01987f8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MenuManager
+  storySceneName: StoryScene
+  mainMenuSceneName: MainMenuScene
+--- !u!4 &554315625
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 554315623}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &619394800
+>>>>>>>> Stashed changes:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1741658297}
+  - component: {fileID: 1741658299}
+  - component: {fileID: 1741658298}
+  m_Layer: 5
+  m_Name: Text (TMP)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1741658297
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741658296}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2008999591}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1741658298
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1741658296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+<<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/Lobby.unity
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+========
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
   m_Navigation:
     m_Mode: 3
@@ -2639,6 +3548,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TargetGraphic: {fileID: 944199766}
   m_OnClick:
     m_PersistentCalls:
@@ -2791,6 +3701,15 @@ MonoBehaviour:
       - m_Target: {fileID: 226166222}
         m_TargetAssemblyTypeName: confirmPanel, Assembly-CSharp
         m_MethodName: yesBtnClick
+=======
+  m_TargetGraphic: {fileID: 877743152}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 554315624}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: LoadStoryMode
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2800,18 +3719,30 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!114 &971880592
+=======
+--- !u!114 &877743152
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 971880589}
+=======
+  m_GameObject: {fileID: 877743149}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
+=======
+>>>>>>>> Stashed changes:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
@@ -2820,6 +3751,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Sprite: {fileID: 21300000, guid: efee20b64d1e73942a29ba61ce3379c3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -3535,13 +4467,24 @@ MonoBehaviour:
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 2d1094862de91164ca168a654d4e1fd5, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 506d1b2c119d25a47ae97d5fd70a7f4a, type: 2}
+=======
+  m_text: vs
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: d0ccb4c701903194ab4bf5c966c92fa5, type: 2}
+  m_sharedMaterial: {fileID: 290569276110883636, guid: d0ccb4c701903194ab4bf5c966c92fa5, type: 2}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
     rgba: 4294967295
   m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+=======
+    rgba: 4280980725
+  m_fontColor: {r: 0.9622642, g: 0.5793611, b: 0.16642918, a: 1}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3558,15 +4501,26 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontSize: 36
   m_fontSizeBase: 36
+=======
+  m_fontSize: 150
+  m_fontSizeBase: 150
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
+=======
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 512
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_textAlignment: 65535
   m_characterSpacing: 0
   m_wordSpacing: 0
@@ -3602,15 +4556,25 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &1223404937
+=======
+--- !u!222 &1741658299
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1223404934}
   m_CullTransparentMesh: 1
 --- !u!1 &1235851440
+=======
+  m_GameObject: {fileID: 1741658296}
+  m_CullTransparentMesh: 1
+--- !u!1 &1911850247
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3618,22 +4582,36 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 1235851441}
   - component: {fileID: 1235851443}
   - component: {fileID: 1235851442}
   m_Layer: 5
   m_Name: Text (TMP)
+=======
+  - component: {fileID: 1911850248}
+  - component: {fileID: 1911850251}
+  - component: {fileID: 1911850250}
+  - component: {fileID: 1911850249}
+  m_Layer: 5
+  m_Name: Leader Board
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &1235851441
+=======
+--- !u!224 &1911850248
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1235851440}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -3648,11 +4626,30 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1235851442
+=======
+  m_GameObject: {fileID: 1911850247}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 331749434}
+  - {fileID: 46970871}
+  m_Father: {fileID: 2139692147}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 69.07, y: -39}
+  m_SizeDelta: {x: 567.22, y: 697.47}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1911850249
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1235851440}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -3661,12 +4658,53 @@ MonoBehaviour:
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_GameObject: {fileID: 1911850247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.ScrollRect
+  m_Content: {fileID: 726161672}
+  m_Horizontal: 1
+  m_Vertical: 1
+  m_MovementType: 1
+  m_Elasticity: 0.1
+  m_Inertia: 1
+  m_DecelerationRate: 0.135
+  m_ScrollSensitivity: 1
+  m_Viewport: {fileID: 331749434}
+  m_HorizontalScrollbar: {fileID: 0}
+  m_VerticalScrollbar: {fileID: 46970872}
+  m_HorizontalScrollbarVisibility: 2
+  m_VerticalScrollbarVisibility: 2
+  m_HorizontalScrollbarSpacing: 0
+  m_VerticalScrollbarSpacing: -3
+  m_OnValueChanged:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &1911850250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1911850247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_text: Settings
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: d8b032dc0c003a741a0befad8623b54e, type: 2}
@@ -3739,14 +4777,33 @@ MonoBehaviour:
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
 --- !u!222 &1235851443
+=======
+  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  m_Type: 1
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1911850251
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1235851440}
   m_CullTransparentMesh: 1
 --- !u!1 &1280688777
+=======
+  m_GameObject: {fileID: 1911850247}
+  m_CullTransparentMesh: 1
+--- !u!1 &1940614249
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3754,9 +4811,15 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 1280688780}
   - component: {fileID: 1280688779}
   - component: {fileID: 1280688778}
+=======
+  - component: {fileID: 1940614252}
+  - component: {fileID: 1940614251}
+  - component: {fileID: 1940614250}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Layer: 0
   m_Name: EventSystem
   m_TagString: Untagged
@@ -3764,13 +4827,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!114 &1280688778
+=======
+--- !u!114 &1940614250
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1280688777}
+=======
+  m_GameObject: {fileID: 1940614249}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
@@ -3795,13 +4866,21 @@ MonoBehaviour:
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
   m_ScrollDeltaPerTick: 6
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!114 &1280688779
+=======
+--- !u!114 &1940614251
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1280688777}
+=======
+  m_GameObject: {fileID: 1940614249}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
@@ -3810,13 +4889,21 @@ MonoBehaviour:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!4 &1280688780
+=======
+--- !u!4 &1940614252
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1280688777}
+=======
+  m_GameObject: {fileID: 1940614249}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -3825,7 +4912,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!1 &1310569667
+=======
+--- !u!1 &2008999590
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3833,29 +4924,47 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 1310569668}
   - component: {fileID: 1310569671}
   - component: {fileID: 1310569670}
   - component: {fileID: 1310569669}
   m_Layer: 5
   m_Name: noButton
+=======
+  - component: {fileID: 2008999591}
+  - component: {fileID: 2008999594}
+  - component: {fileID: 2008999593}
+  - component: {fileID: 2008999592}
+  m_Layer: 5
+  m_Name: VS Battle
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &1310569668
+=======
+--- !u!224 &2008999591
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1310569667}
+=======
+  m_GameObject: {fileID: 2008999590}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - {fileID: 1968624390}
   m_Father: {fileID: 1938362106}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3865,12 +4974,27 @@ RectTransform:
   m_SizeDelta: {x: 310.54, y: 89.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1310569669
+=======
+  - {fileID: 1741658297}
+  m_Father: {fileID: 2139692147}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 658.5901, y: -16.999996}
+  m_SizeDelta: {x: 497.32, y: 188.29}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2008999592
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1310569667}
+=======
+  m_GameObject: {fileID: 2008999590}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
@@ -3886,10 +5010,17 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
     m_HighlightedColor: {r: 0.36862746, g: 0.3019608, b: 0.16862746, a: 1}
     m_PressedColor: {r: 0.25490198, g: 0.20784315, b: 0.16078432, a: 1}
     m_SelectedColor: {r: 0.21568629, g: 0.14901961, b: 0.06666667, a: 1}
     m_DisabledColor: {r: 0.10196079, g: 0.09411766, b: 0.09019608, a: 0.5019608}
+=======
+    m_HighlightedColor: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+    m_PressedColor: {r: 0.6, g: 0.6, b: 0.6, a: 1}
+    m_SelectedColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    m_DisabledColor: {r: 0.4, g: 0.4, b: 0.4, a: 1}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
@@ -3904,6 +5035,7 @@ MonoBehaviour:
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
   m_Interactable: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TargetGraphic: {fileID: 1310569670}
   m_OnClick:
     m_PersistentCalls:
@@ -3921,18 +5053,30 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1310569670
+=======
+  m_TargetGraphic: {fileID: 2008999593}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
+--- !u!114 &2008999593
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 1310569667}
+=======
+  m_GameObject: {fileID: 2008999590}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -6215,6 +7359,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+=======
+  m_Color: {r: 1, g: 1, b: 1, a: 0}
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6231,15 +7378,25 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!222 &2138417950
+=======
+--- !u!222 &2008999594
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 CanvasRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 2138417946}
   m_CullTransparentMesh: 1
 --- !u!1 &2145184106
+=======
+  m_GameObject: {fileID: 2008999590}
+  m_CullTransparentMesh: 1
+--- !u!1 &2139692146
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6247,21 +7404,34 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - component: {fileID: 2145184107}
   - component: {fileID: 2145184108}
   m_Layer: 5
   m_Name: SFXVol
+=======
+  - component: {fileID: 2139692147}
+  - component: {fileID: 2139692149}
+  - component: {fileID: 2139692148}
+  m_Layer: 5
+  m_Name: Background
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!224 &2145184107
+=======
+--- !u!224 &2139692147
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 2145184106}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -6280,11 +7450,33 @@ RectTransform:
   m_SizeDelta: {x: 160, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2145184108
+=======
+  m_GameObject: {fileID: 2139692146}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 383844297}
+  - {fileID: 1911850248}
+  - {fileID: 502700908}
+  - {fileID: 2008999591}
+  - {fileID: 1336900865}
+  m_Father: {fileID: 1174053736}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2139692148
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   m_GameObject: {fileID: 2145184106}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -6342,10 +7534,45 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+=======
+  m_GameObject: {fileID: 2139692146}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -7443756053782179069, guid: 2c9c344005c4aa3498f57ad8740401d8, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &2139692149
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2139692146}
+  m_CullTransparentMesh: 1
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
   - {fileID: 519420032}
   - {fileID: 619394802}
   - {fileID: 1280688780}
@@ -6353,3 +7580,16 @@ SceneRoots:
   - {fileID: 1191158249}
   - {fileID: 1032590890}
   - {fileID: 226166223}
+=======
+<<<<<<<< Updated upstream:MainMenu/Main Menu/Assets/Scenes/Lobby.unity
+  - {fileID: 1554895981}
+  - {fileID: 1174053736}
+  - {fileID: 1940614252}
+========
+  - {fileID: 519420032}
+  - {fileID: 619394802}
+  - {fileID: 1556777582}
+  - {fileID: 1280688780}
+  - {fileID: 554315625}
+>>>>>>>> Stashed changes:MainMenu/Main Menu/Assets/Scenes/MainMenuScene.unity
+>>>>>>> Stashed changes:Main Menu/Assets/Scenes/MainMenuScene.unity
