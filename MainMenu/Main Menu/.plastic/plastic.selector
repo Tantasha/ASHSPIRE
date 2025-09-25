@@ -1,4 +1,0 @@
-repository "Main Menu/Main Menu@17867583980524@cloud"
-  path "/"
-    br "/main"
-    co "/main"
