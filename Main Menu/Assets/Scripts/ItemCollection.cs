@@ -9,7 +9,12 @@ public class ItemCollection : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collision)
     {
         Debug.Log("Triggered with: " + collision.name);
-        if (collision.CompareTag("Gem") || collision.CompareTag("Food"))
+        if (collision.CompareTag("Gem") )
+        {
+            growthControl.AddProgress(progressPerGem);
+            Destroy(collision.gameObject);
+        }
+        else if (collision.CompareTag("Food"))
         {
             growthControl.AddProgress(progressPerGem);
             Destroy(collision.gameObject);
