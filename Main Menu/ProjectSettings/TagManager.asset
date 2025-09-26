@@ -6,6 +6,7 @@ TagManager:
   tags:
   - main
   - Gem
+  - Food
   layers:
   - Default
   - TransparentFX
