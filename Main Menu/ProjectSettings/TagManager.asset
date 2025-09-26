@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - main
+  - Gem
+  - Food
   layers:
   - Default
   - TransparentFX
@@ -40,6 +43,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2777733305
+    locked: 0
+  - name: Foreground
+    uniqueID: 2728909705
+    locked: 0
+  - name: UI
+    uniqueID: 3164782971
     locked: 0
   m_RenderingLayers:
   - Default
