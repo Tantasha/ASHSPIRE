@@ -340,8 +340,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Simulator\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 280.80002
-    y: 79.200005
+    x: 281.8
+    y: 24
     width: 733.2
     height: 372.4
   m_SerializedDataModeController:
@@ -371,7 +371,7 @@ MonoBehaviour:
   m_UseMipMap: 0
   m_SimulatorState:
     controlPanelVisible: 0
-    controlPanelWidth: 0
+    controlPanelWidth: NaN
     controlPanelFoldoutKeys:
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     - UnityEditor.Localization.DeviceSimulator.LocalizationDeviceSimulatorPlugin
@@ -414,7 +414,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79.200005
+    y: 24
     width: 279.8
     height: 372.4
   m_SerializedDataModeController:
@@ -436,18 +436,18 @@ MonoBehaviour:
       m_ExpandedIDs: 92a0feff6aa1feff50a2feff22a3feff26a4feff1ea5feff02a6feffeebffeffd0c0feff3e4affff164bffffce4bffff264dffff0a4effff424fffff3650ffffe85dffff0e5fffff0e9effff869fffff3ca4ffff08a5ffffd8a5ffffe8a6ffff08a8fffff2a8ffffb0a9ffff80aaffff86abffff80acffffe2adffffdeaeffff26b5fffff4b5ffff10b7ffffe8b7ffff5abbffff4ebcffff38beffffbabfffff32c1ffff62c2fffff0c6ffffc8c7ffff82c8fffffafaffffc8cd000032ce00006cce00008cce0000dace000058cf000096cf00000cd00000b0f6000056f70000c8fd00006c00010028020100ce02010058090100fc0b0100ba0d0100600e01007425010008440100ae440100a86501004e660100fa6c01009e6f0100787101001e7201002a8f0100b29001005891010000a00100a4a2010074a401001aa50100e0a7010054ac0100faac0100c0af010034b80100dab8010030d30100d6d301007cd40100eceb010012ec0100c2ef01000ef10100bef70100e4f70100befb0100e4fb010094ff0100e00002008e070200b4070200640b0200b00c0200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Background
-        m_OriginalName: Background
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 120356
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -939,7 +939,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -6.895834, y: -3.5833333, z: 90}
+    m_Target: {x: -5.6290903, y: -1.7722617, z: 2942.7166}
     speed: 2
     m_Value: {x: -6.895834, y: -3.5833333, z: 90}
   m_RenderMode: 0
@@ -991,7 +991,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 0.98829955
+    m_Target: 7.9755435
     speed: 2
     m_Value: 0.98829955
   m_Ortho:
@@ -1049,7 +1049,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 477.6
+    y: 422.4
     width: 1015
     height: 292.4
   m_SerializedDataModeController:
@@ -1094,7 +1094,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 243.6}
     m_SelectedIDs: b2d30000
     m_LastClickedID: 54194
-    m_ExpandedIDs: 0000000058d20000a0d30000a2d300005cd8000000ca9a3b
+    m_ExpandedIDs: 0000000056d20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1123,7 +1123,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000058d20000
+    m_ExpandedIDs: 0000000056d20000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1443,8 +1443,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1016
-    y: 79.200005
+    x: 1017
+    y: 24
     width: 519
     height: 690.8
   m_SerializedDataModeController:
