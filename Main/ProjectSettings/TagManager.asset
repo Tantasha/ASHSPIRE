@@ -5,11 +5,13 @@ TagManager:
   serializedVersion: 3
   tags:
   - main
+  - Gem
+  - Food
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Bar
   - Water
   - UI
   - 
