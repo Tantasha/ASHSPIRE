@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\HealthBar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +26,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCollection.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ItemCollection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T05:23:55.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T04:11:39.362Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +62,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\GrowthBarControl.cs",
               "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\GrowthBarControl.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwv0cAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T12:54:41.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HealthBar.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\HealthBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
@@ -43,8 +77,7 @@
               "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T13:43:18.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T13:43:18.767Z"
             }
           ]
         }
