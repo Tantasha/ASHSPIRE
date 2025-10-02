@@ -1,0 +1,11 @@
+{
+    "asset": "dbe544dfd5d9ad34f83755dfb8b8d6cc",
+    "fileName": "0199a412-3346-74b3-b914-00e07c5836c3.pose.json",
+    "prompt": "loading icon",
+    "negativePrompt": "",
+    "model": "a9c27ca4-3ec9-43e8-96cd-ee891aba64c5",
+    "modelName": "Text to Motion",
+    "customSeed": 141360924,
+    "w3CTraceId": "8ce4cf1ac8ad5785e4a5e18ad52ca197",
+    "isTrimmed": false
+}
