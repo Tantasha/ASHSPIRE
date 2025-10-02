@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.ai.generators@f55909672e13\\Modules\\Unity.AI.Image\\Services\\Stores\\Actions\\GenerationResultsActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ai.generators@f55909672e13\\Modules\\Unity.AI.Image\\Services\\Stores\\Actions\\GenerationResultsActions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GameScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\MapManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MapManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\LoadingSceneScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LoadingSceneScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\LoadingScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LoadingScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\Play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Play.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ItemCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,24 +58,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Light2DManager.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAmwIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T13:18:52.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GenerationResultsActions.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.ai.generators@f55909672e13\\Modules\\Unity.AI.Image\\Services\\Stores\\Actions\\GenerationResultsActions.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ai.generators@f55909672e13\\Modules\\Unity.AI.Image\\Services\\Stores\\Actions\\GenerationResultsActions.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.ai.generators@f55909672e13\\Modules\\Unity.AI.Image\\Services\\Stores\\Actions\\GenerationResultsActions.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ai.generators@f55909672e13\\Modules\\Unity.AI.Image\\Services\\Stores\\Actions\\GenerationResultsActions.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswLIAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:37:18.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GameScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameScene.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GameScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T11:05:13.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MapManager.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\MapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapManager.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\MapManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:14:37.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoadingScene.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\LoadingScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingScene.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\LoadingScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T09:10:56.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoadingSceneScript.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\LoadingSceneScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingSceneScript.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\LoadingSceneScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingSceneScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:55:16.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:25:26.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Play.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\Play.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Play.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\Play.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Play.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T08:52:35.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GrowthBarControl.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GrowthBarControl.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GrowthBarControl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T12:54:41.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ItemCollection.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ItemCollection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCollection.cs",
               "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ItemCollection.cs",
               "RelativeToolTip": "Assets\\Scripts\\ItemCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-02T05:23:55.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
@@ -51,25 +200,11 @@
               "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T04:11:39.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-02T04:11:39.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GrowthBarControl.cs",
-              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GrowthBarControl.cs",
-              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GrowthBarControl.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:54:41.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "HealthBar.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\HealthBar.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
