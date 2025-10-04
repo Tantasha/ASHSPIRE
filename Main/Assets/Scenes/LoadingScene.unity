@@ -225,9 +225,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 588aa848fdc94cf41bcb483d3221e23f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  sceneToLoad: controls
-  holdTime: 1
-  timer: 0
+  sceneToLoad: Map
+  delayBeforeLoad: 0.5
 --- !u!114 &171840463
 MonoBehaviour:
   m_ObjectHideFlags: 0

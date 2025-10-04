@@ -3,7 +3,7 @@ using UnityEngine.SceneManagement;
 
 public class LoadingScene : MonoBehaviour
 {
-    public string sceneToLoad = "controls";
+    public string sceneToLoad = "Map";
     public float delayBeforeLoad = 0.5f; // Give time for UI to render
 
     private float timer = 0f;
