@@ -11,10 +11,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Bar
+  - Background
   - Water
   - UI
-  - Minimap
+  - Map
   - 
   - 
   - 
@@ -55,3 +55,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  - map
