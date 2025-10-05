@@ -14,12 +14,20 @@ public class GrowthBarControl : MonoBehaviour
     public float growthPerGem = 20f; // Growth increase per gem collected
     private float growthValue = 0f;
 
+    public int dragonLevel = 1; // Current dragon level
+    public int maxDragonLevel = 2; // Maximum dragon level
+    public int currentXP = 0; // Current experience points
+    public int xpPerGem = 2; 
+    public int xpToNextLevel = 100; // Experience points needed to reach the next level
+
+
+
     public Transform dragonTransform;
     public float growthScale = 0.2f;
     public int gemToGrow = 2; // Number of gems required to grow
     public int gemCount = 0; // Current gem count
     public int growthStage = 0; // Current growth stage
-    public int maxGrowthStages = 5; // Maximum number of growth stages
+    public int maxGrowthStages = 2; // Maximum number of growth stages
 
     public SpriteRenderer dragonRenderer;
     public Sprite teenDragon;
@@ -56,7 +64,12 @@ public class GrowthBarControl : MonoBehaviour
                 new Color32(0, 255, 255, 255), // Cyan
                 new Color32(128, 0, 255, 255),   // Purple
                 new Color32(100, 149, 237, 255),   // blue
-                new Color32(255, 165, 0, 255)    // Orange
+                new Color32(255, 165, 0, 255),     // Orange
+                new Color32(255, 255, 0, 255),      // Yellow
+                new Color32(173, 216, 230, 255),  // Light Blue
+                new Color32(34, 139, 34, 255),   // Forest Green
+                new Color32(255, 20, 147, 255), // Deep Pink
+                new Color (178,34,34,255)  // Firebrick
 
             };
         }
@@ -98,6 +111,14 @@ public class GrowthBarControl : MonoBehaviour
         growthValue += growthPerGem;
         growthBar.value = Mathf.Clamp01(growthValue / 100f);
         gemCount++;
+        currentXP += xpPerGem;
+
+        if (currentXP >= xpToNextLevel && dragonLevel < maxDragonLevel)
+        {
+            currentXP -= xpToNextLevel;
+            dragonLevel++;
+            OnLevelUp();
+        }
 
         if (gemCount >= gemToGrow)
         {
@@ -140,5 +161,21 @@ public class GrowthBarControl : MonoBehaviour
         return System.Array.FindAll(originalPalette, color => color != Color.white && color != Color.black);
 
     }
+
+    void OnLevelUp()
+    {
+        Debug.Log("Dragon leveled up to level " + dragonLevel);
+
+        if (dragonTransform != null)
+        {
+            dragonTransform.localScale += new Vector3(growthScale, growthScale, 0f);
+        }
+
+        if(dragonLevel == 2 && dragonRenderer != null && teenDragon != null)
+        {
+            dragonRenderer.sprite = teenDragon;
+        }
+    }
+
 
 }

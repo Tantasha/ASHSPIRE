@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 41255565378f00343a2c5cefb18e255d
+guid: 88938b1e5427a2544a3d6babceaf9763
 labels:
 - UnityAI
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3570548332087091351
-    second: Gemini_Generated_Image_63pt8263pt8263pt_0
+      213: -5474223346618184331
+    second: snowTeenDragon_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gemini_Generated_Image_63pt8263pt8263pt_0
+      name: snowTeenDragon_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 1024
-        height: 904
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96fd594a53dd27ec0800000000000000
-      internalID: -3570548332087091351
+      spriteID: 57d4ca3bed6a704b0800000000000000
+      internalID: -5474223346618184331
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Gemini_Generated_Image_63pt8263pt8263pt_0: -3570548332087091351
+      snowTeenDragon_0: -5474223346618184331
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
