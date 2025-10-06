@@ -11,17 +11,19 @@ public class GrowthBarControl : MonoBehaviour
 
     //Growth Settings
     public float growthSpeed = 0.5f; // Speed at which the growth bar fills
-    public float growthPerGem = 20f; // Growth increase per gem collected
+    public float growthPerGem = 50f; // Growth increase per gem collected
     private float growthValue = 0f;
 
+
+    //Leveling Settings
     public int dragonLevel = 1; // Current dragon level
-    public int maxDragonLevel = 2; // Maximum dragon level
+    public int maxDragonLevel = 5; // Maximum dragon level
     public int currentXP = 0; // Current experience points
-    public int xpPerGem = 2; 
+    public int xpPerGem = 2;
     public int xpToNextLevel = 100; // Experience points needed to reach the next level
 
 
-
+    //Transdorm and Scaling
     public Transform dragonTransform;
     public float growthScale = 0.2f;
     public int gemToGrow = 2; // Number of gems required to grow
@@ -29,8 +31,10 @@ public class GrowthBarControl : MonoBehaviour
     public int growthStage = 0; // Current growth stage
     public int maxGrowthStages = 2; // Maximum number of growth stages
 
-    public SpriteRenderer dragonRenderer;
+    public SpriteRenderer dragonRenderer; //Dragon in the status panel
+    public SpriteRenderer dragonInGame; //Dragon in the game play scene
     public Sprite teenDragon;
+    public float teenSizeBoost = 0.2f; // Size boost when reaching teen stage
 
     //Colour Settings
     public bool colour = true; // Toggle for colors
@@ -82,7 +86,7 @@ public class GrowthBarControl : MonoBehaviour
         {
             palette = new Color[] { Color.gray };
             Debug.LogWarning("Palette is empty after filtering. Defaulting to gray.");
-        } 
+        }
 
         //set initial colour
         fillImage.color = palette[Mathf.Clamp(paletteIndex, 0, palette.Length - 1)];
@@ -91,7 +95,7 @@ public class GrowthBarControl : MonoBehaviour
 
     void Update()
     {
-        if(colourTransition)
+        if (colourTransition)
         {
             colourTransitionTime += Time.deltaTime;
             float time = Mathf.Clamp01(colourTransitionTime / colourTransitionDuration);
@@ -149,11 +153,38 @@ public class GrowthBarControl : MonoBehaviour
                 }
             }
 
-            if (growthStage == maxGrowthStages && dragonRenderer != null && teenDragon != null)
+            if (growthStage == maxGrowthStages)
             {
-                dragonRenderer.sprite = teenDragon;
+                TransformToTeenDragon();
             }
         }
+    }
+    
+    void TransformToTeenDragon()
+    {
+        if (teenDragon == null) return;
+        if (dragonRenderer != null)
+        {
+            MatchSpriteSize(dragonRenderer, dragonRenderer.sprite, teenDragon);
+            dragonTransform.localScale *= teenSizeBoost;
+        }
+
+        if(dragonInGame != null)
+        {
+            MatchSpriteSize(dragonInGame, dragonInGame.sprite, teenDragon);
+            dragonInGame.transform.localScale *= teenSizeBoost;
+        }    }
+
+
+    void MatchSpriteSize(SpriteRenderer renderer, Sprite original, Sprite replacement)
+    {
+        if (original == null || replacement == null || renderer == null) return;
+        float originalWidth = original.bounds.size.x;
+        float replacementWidth = replacement.bounds.size.x;
+
+        float scaleFactor = originalWidth / replacementWidth;
+        renderer.sprite = replacement;
+        renderer.transform.localScale *= scaleFactor;
     }
 
     Color[] FilterPalette(Color[] originalPalette)
@@ -171,11 +202,9 @@ public class GrowthBarControl : MonoBehaviour
             dragonTransform.localScale += new Vector3(growthScale, growthScale, 0f);
         }
 
-        if(dragonLevel == 2 && dragonRenderer != null && teenDragon != null)
+        if (dragonLevel == 2)
         {
-            dragonRenderer.sprite = teenDragon;
+            TransformToTeenDragon ();
         }
     }
-
-
 }

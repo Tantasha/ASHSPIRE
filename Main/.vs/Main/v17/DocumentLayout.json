@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\CanvasPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CanvasPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\CanvasPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CanvasPanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\DesertScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CanvasPanel.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\CanvasPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasPanel.cs",
@@ -42,18 +42,17 @@
               "RelativeToolTip": "Assets\\Scripts\\CanvasPanel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T00:58:55.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T00:58:55.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GrowthBarControl.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GrowthBarControl.cs",
               "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
               "RelativeToolTip": "Assets\\Scripts\\GrowthBarControl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAM4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T00:33:53.573Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "Assets\\Scripts\\DesertScene.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T22:50:45.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-04T22:50:45.652Z"
             },
             {
               "$type": "Document",

@@ -4211,7 +4211,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 3
+  orthographic size: 5
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -15250,6 +15250,21 @@ MonoBehaviour:
   fillImage: {fileID: 449987055}
   growthSpeed: 0.5
   growthPerGem: 10
+  dragonLevel: 1
+  maxDragonLevel: 5
+  currentXP: 0
+  xpPerGem: 2
+  xpToNextLevel: 100
+  dragonTransform: {fileID: 0}
+  growthScale: 0.2
+  gemToGrow: 2
+  gemCount: 0
+  growthStage: 0
+  maxGrowthStages: 2
+  dragonRenderer: {fileID: 0}
+  dragonInGame: {fileID: 0}
+  teenDragon: {fileID: 0}
+  teenSizeBoost: 0.2
   colour: 1
   palette: []
 --- !u!1 &1072588030
@@ -18289,6 +18304,21 @@ MonoBehaviour:
   fillImage: {fileID: 449987055}
   growthSpeed: 0.5
   growthPerGem: 50
+  dragonLevel: 1
+  maxDragonLevel: 5
+  currentXP: 0
+  xpPerGem: 2
+  xpToNextLevel: 100
+  dragonTransform: {fileID: 0}
+  growthScale: 0.2
+  gemToGrow: 2
+  gemCount: 0
+  growthStage: 0
+  maxGrowthStages: 2
+  dragonRenderer: {fileID: 0}
+  dragonInGame: {fileID: 0}
+  teenDragon: {fileID: 0}
+  teenSizeBoost: 0.2
   colour: 1
   palette: []
 --- !u!1 &1220788437
