@@ -124860,9 +124860,9 @@ MonoBehaviour:
   growthStage: 0
   maxGrowthStages: 5
   dragonRenderer: {fileID: 1425889923}
-  dragonInGame: {fileID: 0}
+  dragonInGame: {fileID: 1425889923}
   teenDragon: {fileID: -5474223346618184331, guid: 88938b1e5427a2544a3d6babceaf9763, type: 3}
-  teenSizeBoost: 2
+  teenSizeBoost: 1.2
   colour: 1
   palette: []
 --- !u!61 &1425889921
@@ -125956,7 +125956,7 @@ MonoBehaviour:
   dragonRenderer: {fileID: 1294615349}
   dragonInGame: {fileID: 1425889923}
   teenDragon: {fileID: -5474223346618184331, guid: 88938b1e5427a2544a3d6babceaf9763, type: 3}
-  teenSizeBoost: 0.2
+  teenSizeBoost: 1.2
   colour: 1
   palette: []
 --- !u!224 &1498069053

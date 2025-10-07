@@ -3953,7 +3953,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 1219184634}
+  growthBarControl: {fileID: 0}
 --- !u!1 &315591209
 GameObject:
   m_ObjectHideFlags: 0
@@ -10921,7 +10921,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 1219184634}
+  growthBarControl: {fileID: 0}
 --- !u!58 &783708407
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15249,7 +15249,7 @@ MonoBehaviour:
   growthBar: {fileID: 1219184633}
   fillImage: {fileID: 449987055}
   growthSpeed: 0.5
-  growthPerGem: 10
+  growthPerGem: 50
   dragonLevel: 1
   maxDragonLevel: 5
   currentXP: 0
@@ -28765,7 +28765,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 1219184634}
+  growthBarControl: {fileID: 0}
 --- !u!1 &1881734010
 GameObject:
   m_ObjectHideFlags: 0
@@ -30413,7 +30413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 1219184634}
+  growthBarControl: {fileID: 0}
 --- !u!1 &1984641991
 GameObject:
   m_ObjectHideFlags: 0
