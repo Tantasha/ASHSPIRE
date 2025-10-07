@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GrowthBarControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Light2DManager.cs",
+              "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "ToolTip": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@facf525283ae\\Runtime\\2D\\Light2DManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwDAAAACrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:43:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CanvasPanel.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\CanvasPanel.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CanvasPanel.cs",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GrowthBarControl.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\GrowthBarControl.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GrowthBarControl.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DesertScene.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\DesertScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DesertScene.cs",
@@ -71,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SnowScene.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\SnowScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SnowScene.cs",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ForestScene.cs",
               "DocumentMoniker": "C:\\Users\\Playtech\\OneDrive\\Documents\\GitHub\\ASHSPIRE\\Main\\Assets\\Scripts\\ForestScene.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ForestScene.cs",
