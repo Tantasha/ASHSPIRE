@@ -9,8 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01cd76ccb519142c8b026e7369e49b39, type: 3}
-  m_Name: Location
-  m_EditorClassIdentifier: Assembly-CSharp::LocationSO
-  LocationID: Location
-  displayName: Location
+  m_Script: {fileID: 11500000, guid: b5a6c1dd48a8e4fa0bbb99d4a6890ca8, type: 3}
+  m_Name: Unknown
+  m_EditorClassIdentifier: Assembly-CSharp::ActorSO
+  actorName: ???
