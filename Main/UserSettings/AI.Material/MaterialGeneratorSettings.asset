@@ -18,13 +18,13 @@ MonoBehaviour:
         serializedData:
         - key: 0
           value:
-            rid: 6412654348694192458
+            rid: 6412654370263138932
         - key: 1
           value:
-            rid: 6412654348694192459
+            rid: 6412654370263138933
         - key: 2
           value:
-            rid: 6412654348694192460
+            rid: 6412654370263138934
       lastMaterialMappings:
         serializedData:
         - key: Universal Render Pipeline/2D/Sprite-Lit-Default
@@ -44,18 +44,6 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 6412654348694192458
-      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
-      data:
-        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
-    - rid: 6412654348694192459
-      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
-      data:
-        modelID: 
-    - rid: 6412654348694192460
-      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
-      data:
-        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
     - rid: 6412654348694192461
       type: {class: 'SerializableDictionary`2[[Unity.AI.Material.Services.Stores.States.MapType, Unity.AI.Material],[System.String, mscorlib]]', ns: Unity.AI.Generators.Redux.Toolkit, asm: Unity.AI.Generators.Redux}
       data:
@@ -160,3 +148,15 @@ MonoBehaviour:
           value: _MetallicGlossMap
         - key: 11
           value: None
+    - rid: 6412654370263138932
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+    - rid: 6412654370263138933
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 
+    - rid: 6412654370263138934
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234

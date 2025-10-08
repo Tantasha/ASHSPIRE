@@ -1172,6 +1172,7 @@ GameObject:
   - component: {fileID: 109857694}
   - component: {fileID: 109857693}
   - component: {fileID: 109857692}
+  - component: {fileID: 109857695}
   m_Layer: 5
   m_Name: mapButton
   m_TagString: Untagged
@@ -1254,6 +1255,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 109857695}
+        m_TargetAssemblyTypeName: MapButton, Assembly-CSharp
+        m_MethodName: OnMapButtonClick
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &109857693
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1292,6 +1305,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 109857690}
   m_CullTransparentMesh: 1
+--- !u!114 &109857695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 109857690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 090dd65819cf6794a827e0cc86031058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MapButton
+  mapSceneName: Map
 --- !u!1 &117511316
 GameObject:
   m_ObjectHideFlags: 0
@@ -3953,7 +3979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 0}
+  growthBarControl: {fileID: 1219184634}
 --- !u!1 &315591209
 GameObject:
   m_ObjectHideFlags: 0
@@ -4211,7 +4237,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 7
   m_Depth: 0
   m_CullingMask:
     serializedVersion: 2
@@ -10921,7 +10947,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 0}
+  growthBarControl: {fileID: 1219184634}
 --- !u!58 &783708407
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -15181,8 +15207,8 @@ Transform:
   m_GameObject: {fileID: 1061072664}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.77, y: -1.12, z: 0}
-  m_LocalScale: {x: 0.22576712, y: 0.25733313, z: 1}
+  m_LocalPosition: {x: -2.9285, y: -1.2686, z: 0}
+  m_LocalScale: {x: 0.18366155, y: 0.21356077, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1131721809}
@@ -15256,7 +15282,7 @@ MonoBehaviour:
   xpPerGem: 2
   xpToNextLevel: 100
   dragonTransform: {fileID: 1061072668}
-  growthScale: 0.2
+  growthScale: 0.1
   gemToGrow: 2
   gemCount: 0
   growthStage: 0
@@ -15264,7 +15290,7 @@ MonoBehaviour:
   dragonRenderer: {fileID: 358863139}
   dragonInGame: {fileID: 1061072667}
   teenDragon: {fileID: 3587208247455473246, guid: 0dd05da7ba959b541ade56f3e1ad6344, type: 3}
-  teenSizeBoost: 0.2
+  teenSizeBoost: 0.7
   colour: 1
   palette: []
 --- !u!1 &1072588030
@@ -18318,7 +18344,7 @@ MonoBehaviour:
   dragonRenderer: {fileID: 358863139}
   dragonInGame: {fileID: 1061072667}
   teenDragon: {fileID: 3587208247455473246, guid: 0dd05da7ba959b541ade56f3e1ad6344, type: 3}
-  teenSizeBoost: 0.2
+  teenSizeBoost: 0.7
   colour: 1
   palette: []
 --- !u!1 &1220788437
@@ -28765,7 +28791,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 0}
+  growthBarControl: {fileID: 1219184634}
 --- !u!1 &1881734010
 GameObject:
   m_ObjectHideFlags: 0
@@ -30413,7 +30439,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-  growthBarControl: {fileID: 0}
+  growthBarControl: {fileID: 1219184634}
 --- !u!1 &1984641991
 GameObject:
   m_ObjectHideFlags: 0

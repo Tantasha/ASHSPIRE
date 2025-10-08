@@ -34,7 +34,7 @@ public class GrowthBarControl : MonoBehaviour
     public SpriteRenderer dragonRenderer; //Dragon in the status panel
     public SpriteRenderer dragonInGame; //Dragon in the game play scene
     public Sprite teenDragon;
-    public float teenSizeBoost = 0.2f; // Size boost when reaching teen stage
+    public float teenSizeBoost = 0.7f; // Size boost when reaching teen stage
 
     //Colour Settings
     public bool colour = true; // Toggle for colors
