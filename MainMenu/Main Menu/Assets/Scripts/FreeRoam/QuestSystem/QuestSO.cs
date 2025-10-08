@@ -10,6 +10,7 @@ public class QuestSO : ScriptableObject
     public int questLevel;
 
     public List<QuestObjective> objectives;
+    public List<QuestReward> rewards;
 }
 
 [System.Serializable]
@@ -24,4 +25,12 @@ public class QuestObjective
     public LocationSO targetLocation => target as LocationSO;
 
     public int requiredAmount;
+    public int currentAmount;
+}
+
+[System.Serializable]
+public class QuestReward
+{
+    public ItemSO itemSO;
+    public int quantity;
 }

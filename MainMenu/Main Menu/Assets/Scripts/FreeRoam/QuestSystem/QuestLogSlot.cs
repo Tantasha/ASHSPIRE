@@ -31,6 +31,12 @@ public class QuestLogSlot : MonoBehaviour
 
     }
 
+    public void ClearSlot()
+    {
+        currentQuest = null;
+        gameObject.SetActive(false);
+    }
+
     public void OnSlotClicked()
     {
         questLogUI.HandleQuestClicked(currentQuest);

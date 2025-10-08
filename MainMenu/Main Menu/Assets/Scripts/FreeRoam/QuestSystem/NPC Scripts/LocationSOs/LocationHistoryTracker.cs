@@ -6,7 +6,7 @@ public class LocationHistoryTracker : MonoBehaviour
 {
     public static LocationHistoryTracker Instance;
 
-    private readonly List<LocationSO> locationsVisited = new List<LocationSO>();
+    private readonly HashSet<LocationSO> locationsVisited = new HashSet<LocationSO>();
 
     private void Awake()
     {
@@ -22,8 +22,10 @@ public class LocationHistoryTracker : MonoBehaviour
 
     public void RecordLocation(LocationSO locationSO)
     {
-        locationsVisited.Add(locationSO);
-        Debug.Log("Visited: " + locationSO.displayName);
+        if(locationsVisited.Add(locationSO))
+        {
+            Debug.Log("Visited: " + locationSO.displayName);
+        }
     }
 
     public bool HasVisited(LocationSO locationSO)
