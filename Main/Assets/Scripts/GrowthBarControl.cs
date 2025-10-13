@@ -2,7 +2,13 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
 
-
+public enum BiomeType
+{
+    Forest,
+    Desert,
+    Snow,
+    Volcano 
+}
 public class GrowthBarControl : MonoBehaviour
 {
     //UI references
@@ -11,7 +17,8 @@ public class GrowthBarControl : MonoBehaviour
 
     //Growth Settings
     public float growthSpeed = 0.5f; // Speed at which the growth bar fills
-    public float growthPerGem = 50f; // Growth increase per gem collected
+    public float growthPerGem = 20f; // Growth increase per gem collected
+    public float growthPerFood = 30f; // Growth increase per food collected
     private float growthValue = 0f;
 
 
@@ -20,14 +27,17 @@ public class GrowthBarControl : MonoBehaviour
     public int maxDragonLevel = 5; // Maximum dragon level
     public int currentXP = 0; // Current experience points
     public int xpPerGem = 2;
+    public int xpPerFood = 10;
     public int xpToNextLevel = 100; // Experience points needed to reach the next level
 
 
     //Transdorm and Scaling
     public Transform dragonTransform;
     public float growthScale = 0.2f;
-    public int gemToGrow = 2; // Number of gems required to grow
+    public int gemToGrow = 4; // Number of gems required to grow
+    public int foodToGrow = 2; // Number of food items required to grow
     public int gemCount = 0; // Current gem count
+    public int foodCount = 0; // Current food count
     public int growthStage = 0; // Current growth stage
     public int maxGrowthStages = 2; // Maximum number of growth stages
 
@@ -47,6 +57,13 @@ public class GrowthBarControl : MonoBehaviour
     private Color targetColour;
     private float colourTransitionTime = 0f;
     private float colourTransitionDuration = 0.5f; // Duration of the color transition
+
+    //Birome Tracking
+    public BiomeType currentBiome;
+    void Awake()
+    {
+        DontDestroyOnLoad(gameObject);
+    }
 
     void Start()
     {
@@ -108,28 +125,104 @@ public class GrowthBarControl : MonoBehaviour
         }
     }
 
-    public void AddGrowth()
+    // Check if the dragon can level up from collecting gems
+    public void AddGrowthFromGem()
     {
-        if (growthBar == null || fillImage == null || palette.Length == 0) return;
-
         growthValue += growthPerGem;
-        growthBar.value = Mathf.Clamp01(growthValue / 100f);
+        growthBar.value = Mathf.Clamp01(growthValue / 100f);    
         gemCount++;
         currentXP += xpPerGem;
 
+        CheckLevelUp();
+        CheckGrowth();
+    }
+
+    //check if the dragon can be trigger from collecting food
+    public void AddGrowthFromFood(BiomeType foodBiome)
+    {
+        if (foodBiome != currentBiome) return;
+
+        growthValue += growthPerFood;
+        growthBar.value = Mathf.Clamp01(growthValue / 100f);
+        foodCount++;
+        currentXP += xpPerFood;
+
+        CheckLevelUp();
+        CheckGrowth();
+    }
+
+
+    /*public void AddGrowth()
+     {
+         if (growthBar == null || fillImage == null || palette.Length == 0) return;
+
+         growthValue += growthPerGem;
+         growthBar.value = Mathf.Clamp01(growthValue / 100f);
+         gemCount++;
+         currentXP += xpPerGem;
+
+         if (currentXP >= xpToNextLevel && dragonLevel < maxDragonLevel)
+         {
+             currentXP -= xpToNextLevel;
+             dragonLevel++;
+             OnLevelUp();
+         }
+
+         if (gemCount >= gemToGrow)
+         {
+             gemCount = 0;
+             growthValue = 0f;
+             growthBar.value = 0f;
+
+             if (growthStage < maxGrowthStages)
+             {
+                 growthStage++;
+                 //Change dragon sprite at teen stage
+                 if (dragonTransform != null)
+                 {
+                     Vector3 newScale = dragonTransform.localScale + new Vector3(growthScale, growthScale, 0f);
+                     dragonTransform.localScale = newScale;
+                 }
+
+
+
+                 if (colour)
+                 {
+                     paletteIndex = (paletteIndex + 1) % palette.Length;
+                     targetColour = palette[paletteIndex];
+
+                     startColour = fillImage.color;
+                     colourTransitionTime = 0f;
+                     colourTransition = true;
+                 }
+             }
+
+             if (growthStage == maxGrowthStages)
+             {
+                 TransformToTeenDragon();
+             }
+         }
+     }
+     */
+
+    void CheckLevelUp()
+    {
         if (currentXP >= xpToNextLevel && dragonLevel < maxDragonLevel)
         {
             currentXP -= xpToNextLevel;
             dragonLevel++;
             OnLevelUp();
         }
+    }
 
-        if (gemCount >= gemToGrow)
+    void CheckGrowth()
+    {
+        if (gemCount >= gemToGrow || foodCount >= foodToGrow)
         {
             gemCount = 0;
+            foodCount = 0;
             growthValue = 0f;
             growthBar.value = 0f;
-
             if (growthStage < maxGrowthStages)
             {
                 growthStage++;
@@ -139,27 +232,22 @@ public class GrowthBarControl : MonoBehaviour
                     Vector3 newScale = dragonTransform.localScale + new Vector3(growthScale, growthScale, 0f);
                     dragonTransform.localScale = newScale;
                 }
-
-
-
                 if (colour)
                 {
                     paletteIndex = (paletteIndex + 1) % palette.Length;
                     targetColour = palette[paletteIndex];
-
                     startColour = fillImage.color;
                     colourTransitionTime = 0f;
                     colourTransition = true;
                 }
             }
-
             if (growthStage == maxGrowthStages)
             {
                 TransformToTeenDragon();
             }
         }
     }
-    
+
     void TransformToTeenDragon()
     {
         if (teenDragon == null) return;

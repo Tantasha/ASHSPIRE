@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eb328b044846aa448bfd8d81af8ef4b6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173746
+  packageName: Strapi for Unity
+  packageVersion: 1.2
+  assetPath: Assets/StrapiForUnity/Libs/JWT/JWT/JWT.csproj
+  uploadId: 424142

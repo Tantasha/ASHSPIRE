@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b6900d062bfab53448234a3e39e967f3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173746
+  packageName: Strapi for Unity
+  packageVersion: 1.2
+  assetPath: Assets/StrapiForUnity/Example Scenes/LoginOrRegisterForm.unity
+  uploadId: 424142
