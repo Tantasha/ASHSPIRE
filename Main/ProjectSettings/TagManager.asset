@@ -5,14 +5,16 @@ TagManager:
   serializedVersion: 3
   tags:
   - main
+  - Gem
+  - Food
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
-  - 
+  - Map
   - 
   - 
   - 
@@ -53,3 +55,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
+  - map
