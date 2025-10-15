@@ -1613,6 +1613,7 @@ MonoBehaviour:
   - {x: 0.5, y: -0.5, z: 0}
   - {x: 0.5, y: 0.5, z: 0}
   - {x: -0.5, y: 0.5, z: 0}
+<<<<<<< HEAD
 --- !u!1 &148212914
 GameObject:
   m_ObjectHideFlags: 0
@@ -1658,6 +1659,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &148641466
 GameObject:
   m_ObjectHideFlags: 0
@@ -3420,6 +3423,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.00000023841858, y: 0.0000009536743}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &261624602
 GameObject:
   m_ObjectHideFlags: 0
@@ -3503,6 +3507,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 261624602}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &283618853
 GameObject:
   m_ObjectHideFlags: 0
@@ -3722,6 +3728,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0000019073486, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &289007491
 GameObject:
   m_ObjectHideFlags: 0
@@ -3797,6 +3804,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 289007491}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &297859735
 GameObject:
   m_ObjectHideFlags: 0
@@ -5430,6 +5439,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.00000011920929, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &370716588
 GameObject:
   m_ObjectHideFlags: 0
@@ -5505,6 +5515,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 370716588}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &382085221
 GameObject:
   m_ObjectHideFlags: 0
@@ -6279,6 +6291,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0000009536743, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &420161637
 GameObject:
   m_ObjectHideFlags: 0
@@ -6354,6 +6367,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 420161637}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &433373548
 GameObject:
   m_ObjectHideFlags: 0
@@ -6754,6 +6769,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0000019073486, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &449987053
 GameObject:
   m_ObjectHideFlags: 0
@@ -6829,6 +6845,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 449987053}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &456501075
 GameObject:
   m_ObjectHideFlags: 0
@@ -7085,6 +7103,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0000019073486, y: 0.0000009536743}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &516430003
 GameObject:
   m_ObjectHideFlags: 0
@@ -7217,6 +7236,8 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &523793329
 GameObject:
   m_ObjectHideFlags: 0
@@ -7722,6 +7743,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.000000059604645, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &531785254
 GameObject:
   m_ObjectHideFlags: 0
@@ -7798,6 +7820,8 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 2300, y: 1700}
   m_Pivot: {x: 0.5, y: 0.5}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &533437975
 GameObject:
   m_ObjectHideFlags: 0
@@ -10278,6 +10302,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0000019073486, y: 0.0000009536743}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &747275020
 GameObject:
   m_ObjectHideFlags: 0
@@ -10412,6 +10437,8 @@ MonoBehaviour:
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
   Fill: {fileID: 0}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &755188971
 GameObject:
   m_ObjectHideFlags: 0
@@ -12176,6 +12203,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0000038146973, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &916419506
 GameObject:
   m_ObjectHideFlags: 0
@@ -12251,6 +12279,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 916419506}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &926585045
 GameObject:
   m_ObjectHideFlags: 0
@@ -15347,7 +15377,10 @@ GameObject:
   - component: {fileID: 1061072666}
   - component: {fileID: 1061072665}
   - component: {fileID: 1061072669}
+<<<<<<< HEAD
   - component: {fileID: 1061072670}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
   m_Layer: 0
   m_Name: Dragon
   m_TagString: Player
@@ -15503,7 +15536,11 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
+<<<<<<< HEAD
   m_Offset: {x: -0.07903433, y: 0.069339514}
+=======
+  m_Offset: {x: 0, y: 0}
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -15513,6 +15550,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
+<<<<<<< HEAD
   m_Size: {x: 2.9460363, y: 3.5079494}
   m_EdgeRadius: 0
 --- !u!114 &1061072670
@@ -15548,6 +15586,10 @@ MonoBehaviour:
   teenSizeBoost: 0.7
   colour: 1
   palette: []
+=======
+  m_Size: {x: 7.53, y: 6.79}
+  m_EdgeRadius: 0
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1072588030
 GameObject:
   m_ObjectHideFlags: 0
@@ -17329,6 +17371,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0.0000009536743}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &1165522163
 GameObject:
   m_ObjectHideFlags: 0
@@ -17500,6 +17543,8 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1167346704
 GameObject:
   m_ObjectHideFlags: 0
@@ -18479,6 +18524,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0.0000009536743}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &1219184630
 GameObject:
   m_ObjectHideFlags: 0
@@ -18602,6 +18648,8 @@ MonoBehaviour:
   teenSizeBoost: 0.7
   colour: 1
   palette: []
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1220788437
 GameObject:
   m_ObjectHideFlags: 0
@@ -21124,7 +21172,11 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   m_AnchoredPosition: {x: 49.999985, y: -669.99994}
+=======
+  m_AnchoredPosition: {x: 0, y: 0}
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1341624188
@@ -24325,6 +24377,7 @@ CapsuleCollider2D:
   m_Offset: {x: -0.0000019073486, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &1536791618
 GameObject:
   m_ObjectHideFlags: 0
@@ -24475,6 +24528,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1551298076}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1557660845
 GameObject:
   m_ObjectHideFlags: 0
@@ -27862,6 +27917,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0000038146973, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &1804836790
 GameObject:
   m_ObjectHideFlags: 0
@@ -27937,6 +27993,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1804836790}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1816783700
 GameObject:
   m_ObjectHideFlags: 0
@@ -28981,6 +29039,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0000076293945, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &1879530499
 GameObject:
   m_ObjectHideFlags: 0
@@ -29122,6 +29181,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
   growthBarControl: {fileID: 1219184634}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1881734010
 GameObject:
   m_ObjectHideFlags: 0
@@ -30629,6 +30690,7 @@ CapsuleCollider2D:
   m_Offset: {x: 0.0000038146973, y: 0}
   m_Size: {x: 1.9166665, y: 3.5}
   m_Direction: 0
+<<<<<<< HEAD
 --- !u!1 &1973176024
 GameObject:
   m_ObjectHideFlags: 0
@@ -30770,6 +30832,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
   growthBarControl: {fileID: 1219184634}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
 --- !u!1 &1984641991
 GameObject:
   m_ObjectHideFlags: 0
@@ -32766,4 +32830,7 @@ SceneRoots:
   - {fileID: 2007041116}
   - {fileID: 1942342021}
   - {fileID: 1695092911}
+<<<<<<< HEAD
   - {fileID: 148212916}
+=======
+>>>>>>> da6e0aa7de9f6bc119cf4f09b35dbc8f8a816118
