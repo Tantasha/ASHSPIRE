@@ -15945,7 +15945,6 @@ GameObject:
   - component: {fileID: 1061072665}
   - component: {fileID: 1061072669}
   - component: {fileID: 1061072670}
-  - component: {fileID: 1061072671}
   - component: {fileID: 1061072672}
   m_Layer: 0
   m_Name: Dragon
@@ -16148,19 +16147,6 @@ MonoBehaviour:
   teenSizeBoost: 0.7
   colour: 1
   palette: []
---- !u!114 &1061072671
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1061072664}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e487ab20f8970bb4295fc22b18bfa450, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ReadInputNameTag.DisplayTag
-  textElement: {fileID: 0}
 --- !u!114 &1061072672
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24192,7 +24178,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1481206922}
   - component: {fileID: 1481206921}
-  - component: {fileID: 1481206923}
   m_Layer: 0
   m_Name: SFX
   m_TagString: Untagged
@@ -24312,26 +24297,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 579048285}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1481206923
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1481206920}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 073f57f0c932fe0498584c7135ca13eb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
-  sounds:
-  - name: Collision
-    clip: {fileID: 8300000, guid: ae7d69a44d837d549bc584e40696a448, type: 3}
-    mixer: {fileID: 4969487025283149648, guid: ded88cac6ba42724db185c186249b75e, type: 2}
-    volume: 1
-    pitch: 1
-    loop: 0
-    source: {fileID: 0}
 --- !u!1 &1481925017
 GameObject:
   m_ObjectHideFlags: 0
