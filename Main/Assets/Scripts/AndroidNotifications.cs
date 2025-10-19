@@ -18,7 +18,7 @@ public class AndroidNotifications : MonoBehaviour
         // Only send once, when the app first loses focus
         if (!focus && !hasSentNotification)
         {
-            SendNotification("ASHSPIRE", "Halloween special treats begin on 31st October 🦇", 2);
+            SendNotification("ASHSPIRE", "Halloween special treats begin on 31st October 🦇🍭", 2);
             hasSentNotification = true; //  Mark as sent for this session
         }
     }
