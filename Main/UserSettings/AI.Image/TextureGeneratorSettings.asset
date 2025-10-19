@@ -15,6 +15,7 @@ MonoBehaviour:
   m_Session:
     settings:
       lastSelectedModels:
+<<<<<<< HEAD
         serializedData:
         - key: 0
           value:
@@ -72,10 +73,14 @@ MonoBehaviour:
           value:
             rid: 2437642770543017989
 >>>>>>> Stashed changes
+=======
+        serializedData: []
+>>>>>>> 655a139d177b66071e3c91c2c427e9d9ea3a142a
       previewSettings:
         sizeFactor: 1
   references:
     version: 2
+<<<<<<< HEAD
     RefIds:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
@@ -149,3 +154,6 @@ MonoBehaviour:
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
+=======
+    RefIds: []
+>>>>>>> 655a139d177b66071e3c91c2c427e9d9ea3a142a
