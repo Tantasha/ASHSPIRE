@@ -1,5 +1,7 @@
 fileFormatVersion: 2
 guid: f14bdcf2f46e7964b93185b69dd495a1
+labels:
+- UnityAI
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -52,7 +54,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -102,6 +104,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -114,7 +129,7 @@ TextureImporter:
         width: 87
         height: 88
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -136,7 +151,7 @@ TextureImporter:
         width: 552
         height: 438
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -158,7 +173,7 @@ TextureImporter:
         width: 86
         height: 88
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -171,19 +186,38 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    outline: []
+    outline:
+    - - {x: -1.5, y: 42}
+      - {x: -41.5, y: -4}
+      - {x: -41.5, y: -42}
+      - {x: 41.5, y: -42}
+      - {x: 41.5, y: 42}
     customData: 
-    physicsShape: []
+    physicsShape:
+    - - {x: 39.5, y: 42}
+      - {x: 6.5, y: 42}
+      - {x: -10.5, y: 22}
+      - {x: -16.5, y: 12}
+      - {x: -26.5, y: 8}
+      - {x: -37.5, y: -5}
+      - {x: -41.5, y: -10}
+      - {x: -41.5, y: -39}
+      - {x: -39.5, y: -42}
+      - {x: 37.5, y: -42}
+      - {x: 41.5, y: -39}
+      - {x: 41.5, y: 40}
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: com.unity.2d.enhancers.customdata
+        value: '{"selectedArtifact":"C:\\Users\\Kimmy\\OneDrive\\Documents\\2025\\ASHSPIRE-AccountLink\\Main\\GeneratedAssets\\f14bdcf2f46e7964b93185b69dd495a1\\0199f234-d727-7ac1-a927-1ac430b0cca6.png"}'
     nameFileIdTable:
       Gemini_Generated_Image_zoes2zoes2zoes2z_0: 3224796164033326742
       Gemini_Generated_Image_zoes2zoes2zoes2z_1: -7368741779992451265
