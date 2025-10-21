@@ -7,7 +7,7 @@ namespace PlayFab.Internal
     {
         private static T _instance;
 
-        public static T instance
+        public static T Instance
         {
             get
             {
@@ -37,7 +37,7 @@ namespace PlayFab.Internal
             }
         }
 
-        public virtual void Awake ()
+        public virtual void Awake()
         {
             if (Application.isPlaying)
             {
@@ -47,7 +47,7 @@ namespace PlayFab.Internal
             //check if instance already exists when reloading original scene
             if (_instance != null)
             {
-                DestroyImmediate (gameObject);
+                DestroyImmediate(gameObject);
             }
         }
 
