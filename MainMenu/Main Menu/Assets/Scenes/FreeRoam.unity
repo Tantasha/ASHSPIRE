@@ -532,9 +532,6 @@ GameObject:
   m_Component:
   - component: {fileID: 79909392}
   - component: {fileID: 79909395}
-  - component: {fileID: 79909394}
-  - component: {fileID: 79909393}
-  - component: {fileID: 79909396}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -557,30 +554,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &79909393
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 79909391}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b2a4178d2cd56420382832ba603597e9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::DialogueHistoryTracker
---- !u!114 &79909394
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 79909391}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4093613378415455e8d2d42ee83130af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LocationHistoryTracker
 --- !u!114 &79909395
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -593,18 +566,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0894d249a4ab343cea9310cf6ddcc3a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
---- !u!114 &79909396
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 79909391}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6e52ebdab39dc46a5a4a89e834b8e65c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::QuestManager
+  persistentObjects:
+  - {fileID: 788228086}
+  - {fileID: 1493769040}
+  - {fileID: 668382734}
 --- !u!1 &89267077
 GameObject:
   m_ObjectHideFlags: 0
@@ -3385,7 +3350,7 @@ MonoBehaviour:
   conversations:
   - {fileID: 11400000, guid: dd1b55c936e9f416e86feb1c1cf4601c, type: 2}
   - {fileID: 11400000, guid: 5eb08b12bc91c4ffc8e6c9f13db03bd1, type: 2}
-  currentConversation: {fileID: 0}
+  currentConversation: {fileID: 11400000, guid: dd1b55c936e9f416e86feb1c1cf4601c, type: 2}
 --- !u!58 &712315459
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8564,13 +8529,13 @@ SceneRoots:
   - {fileID: 342621880}
   - {fileID: 1170641969}
   - {fileID: 788228091}
+  - {fileID: 1493769044}
+  - {fileID: 668382738}
   - {fileID: 369561661}
   - {fileID: 67446971}
   - {fileID: 583279824}
   - {fileID: 425236735292498340}
-  - {fileID: 1493769044}
   - {fileID: 2094402821}
   - {fileID: 712315452}
   - {fileID: 2095870395}
-  - {fileID: 668382738}
   - {fileID: 1981769924}
