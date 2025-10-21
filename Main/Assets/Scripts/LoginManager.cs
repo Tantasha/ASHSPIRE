@@ -1,5 +1,8 @@
 using UnityEngine;
 using TMPro;
+using PlayFab;
+using PlayFab.ClientModels;
+using UnityEngine.SceneManagement;
 
 
 public class LoginManager : MonoBehaviour
