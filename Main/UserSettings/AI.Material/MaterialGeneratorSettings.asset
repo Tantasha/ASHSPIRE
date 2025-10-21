@@ -18,6 +18,7 @@ MonoBehaviour:
         serializedData:
         - key: 0
           value:
+<<<<<<< HEAD
             rid: 2437643058877562880
         - key: 1
           value:
@@ -25,6 +26,15 @@ MonoBehaviour:
         - key: 2
           value:
             rid: 2437643058877562882
+=======
+            rid: 6838500959705104384
+        - key: 1
+          value:
+            rid: 6838500959705104385
+        - key: 2
+          value:
+            rid: 6838500959705104386
+>>>>>>> AccountLink
       lastMaterialMappings:
         serializedData:
         - key: Universal Render Pipeline/2D/Sprite-Lit-Default
@@ -44,6 +54,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
+<<<<<<< HEAD
     - rid: 2437643058877562880
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
@@ -56,6 +67,8 @@ MonoBehaviour:
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
         modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+=======
+>>>>>>> AccountLink
     - rid: 6412654348694192461
       type: {class: 'SerializableDictionary`2[[Unity.AI.Material.Services.Stores.States.MapType, Unity.AI.Material],[System.String, mscorlib]]', ns: Unity.AI.Generators.Redux.Toolkit, asm: Unity.AI.Generators.Redux}
       data:
@@ -160,3 +173,18 @@ MonoBehaviour:
           value: _MetallicGlossMap
         - key: 11
           value: None
+<<<<<<< HEAD
+=======
+    - rid: 6838500959705104384
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+    - rid: 6838500959705104385
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 
+    - rid: 6838500959705104386
+      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
+      data:
+        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
+>>>>>>> AccountLink

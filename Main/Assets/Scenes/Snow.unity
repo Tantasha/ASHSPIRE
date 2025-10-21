@@ -318,7 +318,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 0
   foodBiome: 2
 --- !u!58 &10166985
@@ -762,7 +766,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -57230,7 +57238,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -57311,7 +57323,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 1
   foodBiome: 2
 --- !u!58 &144388671
@@ -57544,7 +57560,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 0
   foodBiome: 2
 --- !u!58 &145981137
@@ -58434,7 +58454,11 @@ MonoBehaviour:
   m_ApplyToSortingLayers: 00000000b9d890a589dba7a27bc1a2bc
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
+<<<<<<< HEAD
   m_LightOrder: 3
+=======
+  m_LightOrder: 0
+>>>>>>> AccountLink
   m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
   m_NormalMapDistance: 3
@@ -58559,7 +58583,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -58829,7 +58857,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 1
   foodBiome: 2
 --- !u!58 &291671237
@@ -58972,7 +59004,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 0
   foodBiome: 2
 --- !u!58 &292779264
@@ -59502,7 +59538,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 0
   foodBiome: 2
 --- !u!58 &309600872
@@ -60789,7 +60829,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 1
   foodBiome: 2
 --- !u!58 &420719596
@@ -61594,7 +61638,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -62558,7 +62606,11 @@ MonoBehaviour:
   m_ApplyToSortingLayers: 00000000b9d890a589dba7a27bc1a2bc
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
+<<<<<<< HEAD
   m_LightOrder: 1
+=======
+  m_LightOrder: 0
+>>>>>>> AccountLink
   m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
   m_NormalMapDistance: 3
@@ -62964,7 +63016,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 1
   foodBiome: 2
 --- !u!58 &726794281
@@ -64598,7 +64654,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 0
   foodBiome: 2
 --- !u!58 &860837794
@@ -120839,7 +120899,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 1
   foodBiome: 2
 --- !u!58 &1016196841
@@ -122888,7 +122952,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -125456,12 +125524,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GrowthBarControl
   growthBar: {fileID: 1498069054}
   fillImage: {fileID: 1888476791}
+<<<<<<< HEAD
   palette:
   - {r: 1, g: 0.4117647, b: 0.7058824, a: 0}
   - {r: 0.23529412, g: 0.7019608, b: 0.44313726, a: 0}
   - {r: 0.5294118, g: 0.80784315, b: 0.98039216, a: 0}
   - {r: 0.5764706, g: 0.4392157, b: 0.85882354, a: 0}
   transitionDuration: 0.5
+=======
+  growthSpeed: 0.5
+  growthPerGem: 10
+  growthPerFood: 30
+  dragonLevel: 1
+  maxDragonLevel: 2
+  currentXP: 0
+  xpPerGem: 2
+  xpPerFood: 10
+  xpToNextLevel: 100
+  dragonTransform: {fileID: 1425889924}
+  growthScale: 0.2
+  gemToGrow: 2
+  foodToGrow: 2
+  gemCount: 0
+  foodCount: 0
+  growthStage: 0
+  maxGrowthStages: 5
+  dragonRenderer: {fileID: 1425889923}
+  dragonInGame: {fileID: 1425889923}
+  teenDragon: {fileID: -5474223346618184331, guid: 88938b1e5427a2544a3d6babceaf9763, type: 3}
+  teenSizeBoost: 1.2
+  colour: 1
+  palette: []
+  currentBiome: 0
+>>>>>>> AccountLink
 --- !u!61 &1425889921
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -125602,8 +125697,13 @@ Transform:
   m_GameObject: {fileID: 1425889918}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -2.5893, y: -1.0811, z: 0}
   m_LocalScale: {x: 1.1944616, y: 1.1038727, z: 4}
+=======
+  m_LocalPosition: {x: -2.7556, y: -1.1242, z: 0}
+  m_LocalScale: {x: 0.92622644, y: 1.0209699, z: 4}
+>>>>>>> AccountLink
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1505773048}
@@ -126401,7 +126501,11 @@ MonoBehaviour:
   m_ApplyToSortingLayers: 00000000b9d890a589dba7a27bc1a2bc
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
+<<<<<<< HEAD
   m_LightOrder: 2
+=======
+  m_LightOrder: 0
+>>>>>>> AccountLink
   m_AlphaBlendOnOverlap: 0
   m_OverlapOperation: 0
   m_NormalMapDistance: 3
@@ -126537,12 +126641,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GrowthBarControl
   growthBar: {fileID: 1498069054}
   fillImage: {fileID: 1888476791}
+<<<<<<< HEAD
   palette:
   - {r: 1, g: 0.4117647, b: 0.7058824, a: 1}
   - {r: 0.23529412, g: 0.7019608, b: 0.44313726, a: 0}
   - {r: 0.5294118, g: 0.80784315, b: 0.98039216, a: 0}
   - {r: 0.5764706, g: 0.4392157, b: 0.85882354, a: 0}
   transitionDuration: 0.5
+=======
+  growthSpeed: 0.5
+  growthPerGem: 50
+  growthPerFood: 30
+  dragonLevel: 1
+  maxDragonLevel: 2
+  currentXP: 0
+  xpPerGem: 2
+  xpPerFood: 10
+  xpToNextLevel: 100
+  dragonTransform: {fileID: 1425889924}
+  growthScale: 0.2
+  gemToGrow: 2
+  foodToGrow: 2
+  gemCount: 0
+  foodCount: 0
+  growthStage: 0
+  maxGrowthStages: 2
+  dragonRenderer: {fileID: 1294615349}
+  dragonInGame: {fileID: 1425889923}
+  teenDragon: {fileID: -5474223346618184331, guid: 88938b1e5427a2544a3d6babceaf9763, type: 3}
+  teenSizeBoost: 1.2
+  colour: 1
+  palette: []
+  currentBiome: 0
+>>>>>>> AccountLink
 --- !u!224 &1498069053
 RectTransform:
   m_ObjectHideFlags: 0
@@ -127017,7 +127148,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -127376,7 +127511,11 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -128108,6 +128247,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1591563187}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 1591563189}
+  - component: {fileID: 1591563188}
+>>>>>>> AccountLink
   m_Layer: 0
   m_Name: SFX
   m_TagString: Untagged
@@ -128130,6 +128274,126 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1816271757}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
+=======
+--- !u!114 &1591563188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591563186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 073f57f0c932fe0498584c7135ca13eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
+  sounds:
+  - name: Collision
+    clip: {fileID: 8300000, guid: ae7d69a44d837d549bc584e40696a448, type: 3}
+    mixer: {fileID: 4969487025283149648, guid: ded88cac6ba42724db185c186249b75e, type: 2}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
+--- !u!82 &1591563189
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1591563186}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 4969487025283149648, guid: ded88cac6ba42724db185c186249b75e, type: 2}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: ae7d69a44d837d549bc584e40696a448, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> AccountLink
 --- !u!1 &1594539301
 GameObject:
   m_ObjectHideFlags: 0
@@ -128233,7 +128497,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
+<<<<<<< HEAD
   growthManager: {fileID: 2102549969}
+=======
+  growthBarControl: {fileID: 1498069052}
+>>>>>>> AccountLink
   isGem: 1
   foodBiome: 2
 --- !u!58 &1605213098
@@ -129186,7 +129454,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -130695,10 +130967,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
+<<<<<<< HEAD
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 3000, y: 1080}
+=======
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+>>>>>>> AccountLink
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -130925,7 +131204,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -131178,7 +131461,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -137688,7 +137975,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -138143,7 +138434,11 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -138577,6 +138872,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!1 &2102549968
 GameObject:
   m_ObjectHideFlags: 0
@@ -138695,6 +138991,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> AccountLink
 --- !u!1 &2108409347
 GameObject:
   m_ObjectHideFlags: 0
@@ -138778,7 +139076,11 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
+<<<<<<< HEAD
       - m_Target: {fileID: 0}
+=======
+      - m_Target: {fileID: 1591563189}
+>>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -139324,6 +139626,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2142819788}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 2142819789}
+>>>>>>> AccountLink
   m_Layer: 5
   m_Name: Music
   m_TagString: Untagged
@@ -139350,6 +139656,106 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
+=======
+--- !u!82 &2142819789
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2142819787}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: -4941865379370691617, guid: ded88cac6ba42724db185c186249b75e, type: 2}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+>>>>>>> AccountLink
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -139379,4 +139785,7 @@ SceneRoots:
   - {fileID: 1619985297}
   - {fileID: 1137862426}
   - {fileID: 1098403818}
+<<<<<<< HEAD
   - {fileID: 2102549973}
+=======
+>>>>>>> AccountLink
