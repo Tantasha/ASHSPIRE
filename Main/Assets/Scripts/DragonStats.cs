@@ -5,7 +5,7 @@ public class DragonStats : MonoBehaviour
     //Progression Setting
     [SerializeField] private int maxLevel = 5;
     [SerializeField] private int xpToNextLevel = 100;
-    [SerializeField] private float growthScale = 0.1f;
+    //[SerializeField] private float growthScale = 0.1f;
 
     //Biome Tracking 
     [SerializeField] private BiomeType startingBiome;
