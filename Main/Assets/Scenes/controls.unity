@@ -5263,12 +5263,12 @@ SpriteRenderer:
   m_SortingLayerID: -1130184325
   m_SortingLayer: 3
   m_SortingOrder: 3
-  m_Sprite: {fileID: -7368741779992451265, guid: f14bdcf2f46e7964b93185b69dd495a1, type: 3}
+  m_Sprite: {fileID: 2607770375420430593, guid: 4463ebec2a24ca849857b11f253b7357, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.52, y: 4.38}
+  m_Size: {x: 5.49, y: 4.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -15620,12 +15620,12 @@ SpriteRenderer:
   m_SortingLayerID: -1566057591
   m_SortingLayer: 2
   m_SortingOrder: 3
-  m_Sprite: {fileID: -7368741779992451265, guid: f14bdcf2f46e7964b93185b69dd495a1, type: 3}
+  m_Sprite: {fileID: 2607770375420430593, guid: 4463ebec2a24ca849857b11f253b7357, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 5.52, y: 4.38}
+  m_Size: {x: 5.49, y: 4.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -15685,8 +15685,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.52, y: 4.38}
-    newSize: {x: 5.52, y: 4.38}
+    oldSize: {x: 5.49, y: 4.37}
+    newSize: {x: 5.49, y: 4.37}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -17531,33 +17531,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
-  m_AnchoredPosition: {x: -9.537598, y: -0.000091552734}
-  m_SizeDelta: {x: 3059.1, y: 1440}
-=======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  m_AnchoredPosition: {x: -9.537598, y: -0.000091552734}
-  m_SizeDelta: {x: 3059.1, y: 1440}
-=======
-  m_AnchoredPosition: {x: 0.0061846, y: -0.000070572}
-  m_SizeDelta: {x: 3040, y: 1440}
->>>>>>> Stashed changes
-=======
-  m_AnchoredPosition: {x: 0.0061846, y: -0.000070572}
-  m_SizeDelta: {x: 3040, y: 1440}
->>>>>>> Stashed changes
-=======
-  m_AnchoredPosition: {x: 0.0061846, y: -0.000070572}
-  m_SizeDelta: {x: 3040, y: 1440}
->>>>>>> Stashed changes
-=======
-  m_AnchoredPosition: {x: 0.0061846, y: -0.000070572}
-  m_SizeDelta: {x: 3040, y: 1440}
->>>>>>> Stashed changes
->>>>>>> AccountLink
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1165522165
 MonoBehaviour:
@@ -17615,11 +17590,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 0}
-=======
-      - m_Target: {fileID: 1481206921}
->>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -18777,39 +18748,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GrowthBarControl
   growthBar: {fileID: 1219184633}
   fillImage: {fileID: 449987055}
-<<<<<<< HEAD
   palette:
   - {r: 1, g: 0.4117647, b: 0.7058824, a: 1}
   - {r: 0.2352941, g: 0.7019608, b: 0.4431373, a: 1}
   - {r: 0.5294118, g: 0.8078432, b: 0.9803922, a: 1}
   - {r: 0.5764706, g: 0.4392157, b: 0.8588236, a: 1}
   transitionDuration: 0.5
-=======
-  growthSpeed: 0.5
-  growthPerGem: 50
-  growthPerFood: 30
-  dragonLevel: 1
-  maxDragonLevel: 5
-  currentXP: 0
-  xpPerGem: 2
-  xpPerFood: 10
-  xpToNextLevel: 100
-  dragonTransform: {fileID: 1061072668}
-  growthScale: 0.2
-  gemToGrow: 2
-  foodToGrow: 2
-  gemCount: 0
-  foodCount: 0
-  growthStage: 0
-  maxGrowthStages: 2
-  dragonRenderer: {fileID: 358863139}
-  dragonInGame: {fileID: 1061072667}
-  teenDragon: {fileID: 3587208247455473246, guid: 0dd05da7ba959b541ade56f3e1ad6344, type: 3}
-  teenSizeBoost: 0.7
-  colour: 1
-  palette: []
-  currentBiome: 0
->>>>>>> AccountLink
 --- !u!1 &1220788437
 GameObject:
   m_ObjectHideFlags: 0
@@ -19556,11 +19500,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 0}
-=======
-      - m_Target: {fileID: 1481206921}
->>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -21807,11 +21747,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-<<<<<<< HEAD
   growthManager: {fileID: 2056498927}
-=======
-  growthBarControl: {fileID: 1219184634}
->>>>>>> AccountLink
   isGem: 0
   foodBiome: 0
 --- !u!1 &1396759338
@@ -23574,11 +23510,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1481206922}
-<<<<<<< HEAD
-=======
-  - component: {fileID: 1481206921}
-  - component: {fileID: 1481206923}
->>>>>>> AccountLink
   m_Layer: 0
   m_Name: SFX
   m_TagString: Untagged
@@ -23586,106 +23517,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
-=======
---- !u!82 &1481206921
-AudioSource:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1481206920}
-  m_Enabled: 1
-  serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 4969487025283149648, guid: ded88cac6ba42724db185c186249b75e, type: 2}
-  m_audioClip: {fileID: 0}
-  m_Resource: {fileID: 8300000, guid: ae7d69a44d837d549bc584e40696a448, type: 3}
-  m_PlayOnAwake: 0
-  m_Volume: 1
-  m_Pitch: 1
-  Loop: 0
-  Mute: 0
-  Spatialize: 0
-  SpatializePostEffects: 0
-  Priority: 128
-  DopplerLevel: 1
-  MinDistance: 1
-  MaxDistance: 500
-  Pan2D: 0
-  rolloffMode: 0
-  BypassEffects: 0
-  BypassListenerEffects: 0
-  BypassReverbZones: 0
-  rolloffCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    - serializedVersion: 3
-      time: 1
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  panLevelCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  spreadCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  reverbZoneMixCustomCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 1
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0.33333334
-      outWeight: 0.33333334
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
->>>>>>> AccountLink
 --- !u!4 &1481206922
 Transform:
   m_ObjectHideFlags: 0
@@ -23701,29 +23532,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 579048285}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
-=======
---- !u!114 &1481206923
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1481206920}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 073f57f0c932fe0498584c7135ca13eb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::AudioManager
-  sounds:
-  - name: Collision
-    clip: {fileID: 8300000, guid: ae7d69a44d837d549bc584e40696a448, type: 3}
-    mixer: {fileID: 4969487025283149648, guid: ded88cac6ba42724db185c186249b75e, type: 2}
-    volume: 1
-    pitch: 1
-    loop: 0
-    source: {fileID: 0}
->>>>>>> AccountLink
 --- !u!1 &1481925017
 GameObject:
   m_ObjectHideFlags: 0
@@ -24977,11 +24785,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-<<<<<<< HEAD
       - m_Target: {fileID: 0}
-=======
-      - m_Target: {fileID: 1481206921}
->>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -26747,11 +26551,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-<<<<<<< HEAD
   growthManager: {fileID: 2056498927}
-=======
-  growthBarControl: {fileID: 1219184634}
->>>>>>> AccountLink
   isGem: 0
   foodBiome: 0
 --- !u!1 &1682244013
@@ -29565,11 +29365,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-<<<<<<< HEAD
   growthManager: {fileID: 2056498927}
-=======
-  growthBarControl: {fileID: 1219184634}
->>>>>>> AccountLink
   isGem: 1
   foodBiome: 0
 --- !u!1 &1881734010
@@ -31219,11 +31015,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8248a2a743299489fc4ca899142c53, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ItemCollection
-<<<<<<< HEAD
   growthManager: {fileID: 2056498927}
-=======
-  growthBarControl: {fileID: 1219184634}
->>>>>>> AccountLink
   isGem: 1
   foodBiome: 0
 --- !u!1 &1984641991
@@ -31333,11 +31125,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-<<<<<<< HEAD
       - m_Target: {fileID: 0}
-=======
-      - m_Target: {fileID: 1481206921}
->>>>>>> AccountLink
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: PlayOneShot
         m_Mode: 2
@@ -32125,7 +31913,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
 --- !u!1 &2056498926
 GameObject:
   m_ObjectHideFlags: 0
@@ -32220,7 +32007,7 @@ MonoBehaviour:
   dragonTransform: {fileID: 1061072668}
   statusRenderer: {fileID: 358863139}
   inGameRenderer: {fileID: 1061072667}
-  forestSprite: {fileID: -7368741779992451265, guid: f14bdcf2f46e7964b93185b69dd495a1, type: 3}
+  forestSprite: {fileID: 2607770375420430593, guid: 4463ebec2a24ca849857b11f253b7357, type: 3}
   snowSprite: {fileID: 8098007224649263936, guid: 5b2fde8d386ddf34aaa2936697833a6f, type: 3}
   desertSprite: {fileID: 6928146155963376211, guid: 14a1534a80e33694a9e660cf6a9c8600, type: 3}
   volcanoSprite: {fileID: 487974022072893711, guid: 3dd4d2f845501ae4582ec721f68b86f2, type: 3}
@@ -32244,8 +32031,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> AccountLink
 --- !u!1 &2069008433
 GameObject:
   m_ObjectHideFlags: 0
@@ -33352,7 +33137,4 @@ SceneRoots:
   - {fileID: 2007041116}
   - {fileID: 1942342021}
   - {fileID: 1695092911}
-<<<<<<< HEAD
   - {fileID: 2056498931}
-=======
->>>>>>> AccountLink

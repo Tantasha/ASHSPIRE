@@ -14,30 +14,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 3}
-<<<<<<< HEAD
-  - {fileID: 16}
-=======
   - {fileID: 15}
->>>>>>> AccountLink
   m_Position:
     serializedVersion: 2
     x: 0
     y: 36
-<<<<<<< HEAD
     width: 1280
-    height: 573.3333
+    height: 571.3333
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 428
-=======
-    width: 1904
-    height: 917
-  m_MinSize: {x: 300, y: 100}
-  m_MaxSize: {x: 24288, y: 16192}
-  vertical: 0
-  controlID: 45
->>>>>>> AccountLink
+  controlID: 72
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -48,24 +35,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-<<<<<<< HEAD
-  m_Script: {fileID: 11500000, guid: 1c7b3fb0903da7c48a812037b700de8b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: PlayFabEditorExtensions::PlayFab.PfEditor.PlayFabEditor
-  m_MinSize: {x: 320, y: 0}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: PlayFab EdEx
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "PlayFab EdEx\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 78.66667
-    width: 261.66666
-    height: 337.33334
-=======
   m_Script: {fileID: 13974, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.DeviceSimulation.SimulatorWindow
@@ -73,16 +42,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Simulator
-    m_Image: {fileID: 8720083202187608617, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 3038311277492192215, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
     m_TextWithWhitespace: "Simulator\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 307
-    y: 87
-    width: 955
-    height: 493
->>>>>>> AccountLink
+    x: 328
+    y: 80.66667
+    width: 690.6667
+    height: 336
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -94,8 +62,6 @@ MonoBehaviour:
     m_SaveData: []
     m_ContainerData: []
     m_OverlaysVisible: 1
-<<<<<<< HEAD
-=======
   m_SerializedViewNames:
   - UnityEditor.GameView
   m_SerializedViewValues:
@@ -109,11 +75,11 @@ MonoBehaviour:
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
-  m_EnterPlayModeBehavior: 2
+  m_EnterPlayModeBehavior: 1
   m_UseMipMap: 0
   m_SimulatorState:
     controlPanelVisible: 0
-    controlPanelWidth: 0
+    controlPanelWidth: NaN
     controlPanelFoldoutKeys:
     - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
     controlPanelFoldoutValues: 00
@@ -123,7 +89,7 @@ MonoBehaviour:
     pluginStates:
     - '{}'
     - '{}'
-    scale: 23
+    scale: 14
     fitToScreenEnabled: 0
     rotationDegree: 270
     highlightSafeAreaEnabled: 0
@@ -131,7 +97,6 @@ MonoBehaviour:
     screenIndex: 0
     networkReachability: 1
     systemLanguage: 10
->>>>>>> AccountLink
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,30 +111,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 4}
-<<<<<<< HEAD
   - {fileID: 11}
-=======
-  - {fileID: 10}
->>>>>>> AccountLink
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 837.3333
-    height: 573.3333
+    width: 1020.6667
+    height: 571.3333
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 429
-=======
-    width: 1256
-    height: 917
-  m_MinSize: {x: 200, y: 100}
-  m_MaxSize: {x: 16192, y: 16192}
-  vertical: 1
-  controlID: 46
->>>>>>> AccountLink
+  controlID: 37
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -185,26 +137,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 5}
-  - {fileID: 7}
+  - {fileID: 8}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 837.3333
-    height: 363.33334
+    width: 1020.6667
+    height: 362
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 430
-=======
-    width: 1256
-    height: 519
-  m_MinSize: {x: 200, y: 50}
-  m_MaxSize: {x: 16192, y: 8096}
-  vertical: 0
-  controlID: 47
->>>>>>> AccountLink
+  controlID: 38
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -216,38 +159,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
-  m_Name: PlayFabEditor
-=======
-  m_Name: 
->>>>>>> AccountLink
+  m_Name: SceneHierarchyWindow
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-<<<<<<< HEAD
-    width: 262.66666
-    height: 363.33334
-  m_MinSize: {x: 321, y: 26}
-  m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 2}
-  m_Panes:
-  - {fileID: 6}
-  - {fileID: 2}
-  m_Selected: 1
-=======
-    width: 299
-    height: 519
+    width: 328
+    height: 362
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
+  - {fileID: 7}
   m_Selected: 0
->>>>>>> AccountLink
-  m_LastSelected: 0
+  m_LastSelected: 1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,26 +192,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-<<<<<<< HEAD
     m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
-    y: 78.66667
-    width: 261.66666
-    height: 337.33334
-=======
-    x: 8
-    y: 87
-    width: 298
-    height: 493
->>>>>>> AccountLink
+    y: 80.66667
+    width: 327
+    height: 336
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -297,42 +214,24 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-<<<<<<< HEAD
-      scrollPos: {x: 0, y: 311.66666}
-      m_SelectedIDs: 3625feff
-      m_LastClickedID: -121546
-      m_ExpandedIDs: 223afeffba06ffff2c7b0100587b01004c7c0100d67c0100747d01009e7d0100
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 88f6ffffdcfaffff4002010096030100
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
         m_OriginalName: 
-=======
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: f8faffff
-      m_LastClickedID: -1288
-      m_ExpandedIDs: 220dffff2213fffffa13ffff2035ffffecfaffffeefafffff0fafffff2fafffff8faffff32f400006af40000c0f5000082f7000050f80000f87e01008e7f0100b0800100808201007e84010074b50100ecb5010084b60100d4b6010016b70100d4b90100f0b9010084ba0100d8e70100dcea010084eb0100a6eb010058090200d00902002c1302009616020072240200ea710200e68d0200fa900200229a0200
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: mapbutton
-        m_OriginalName: mapbutton
->>>>>>> AccountLink
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-<<<<<<< HEAD
         m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
         m_OriginalEventType: 11
-=======
-        m_UserData: 167120
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 0
->>>>>>> AccountLink
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 5}
@@ -351,47 +250,63 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c7b3fb0903da7c48a812037b700de8b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: PlayFabEditorExtensions::PlayFab.PfEditor.PlayFabEditor
+  m_MinSize: {x: 320, y: 0}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: PlayFab EdEx
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+    m_TextWithWhitespace: "PlayFab EdEx\u200B"
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 80.66667
+    width: 268.33334
+    height: 336
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_ContainerData: []
+    m_OverlaysVisible: 1
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-<<<<<<< HEAD
-  m_Name: SceneView
-=======
   m_Name: SimulatorWindow
->>>>>>> AccountLink
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 262.66666
+    x: 328
     y: 0
-    width: 574.6666
-    height: 363.33334
-  m_MinSize: {x: 202, y: 226}
-  m_MaxSize: {x: 4002, y: 4026}
-  m_ActualView: {fileID: 8}
-  m_Panes:
-  - {fileID: 8}
-  - {fileID: 9}
-  - {fileID: 10}
-  m_Selected: 0
-  m_LastSelected: 1
-=======
-    x: 299
-    y: 0
-    width: 957
-    height: 519
+    width: 692.6667
+    height: 362
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 2}
   m_Panes:
-  - {fileID: 8}
-  - {fileID: 2}
   - {fileID: 9}
+  - {fileID: 2}
+  - {fileID: 10}
   m_Selected: 1
   m_LastSelected: 0
->>>>>>> AccountLink
---- !u!114 &8
+--- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -407,26 +322,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-<<<<<<< HEAD
     m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 262.6667
-    y: 78.66667
-    width: 572.6666
-    height: 337.33334
-=======
-    x: 307
-    y: 87
-    width: 955
-    height: 493
->>>>>>> AccountLink
+    x: 328
+    y: 80.66667
+    width: 690.6667
+    height: 336
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -734,7 +638,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       displayed: 0
       id: Scene View/Path
-      index: 8
+      index: 9
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
@@ -805,21 +709,12 @@ MonoBehaviour:
       displayed: 0
       id: Scene View/Particles
       index: 0
-<<<<<<< HEAD
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":true,"m_Floating":false,"m_FloatingSnapOffset":{"x":-231.0009765625,"y":71.33236694335938},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":1,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
       snapOffset: {x: -231.00098, y: 71.33237}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 1
-=======
-      contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":true,"m_Floating":false,"m_FloatingSnapOffset":{"x":-231.0009765625,"y":-202.0009765625},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":3,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
-      floating: 0
-      collapsed: 0
-      snapOffset: {x: -231.00098, y: -202.00098}
-      snapOffsetDelta: {x: 0, y: 0}
-      snapCorner: 3
->>>>>>> AccountLink
       layout: 4
       size: {x: 0, y: 0}
       sizeOverridden: 0
@@ -841,7 +736,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       displayed: 0
       id: Scene View/Occlusion Culling
-      index: 9
+      index: 8
       contents: '{"m_Layout":4,"m_Collapsed":false,"m_Folded":false,"m_Floating":false,"m_FloatingSnapOffset":{"x":0.0,"y":0.0},"m_SnapOffsetDelta":{"x":0.0,"y":0.0},"m_FloatingSnapCorner":0,"m_Size":{"x":0.0,"y":0.0},"m_SizeOverridden":false}'
       floating: 0
       collapsed: 0
@@ -878,15 +773,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-<<<<<<< HEAD
-    m_Target: {x: -1.1349807, y: -1.0093455, z: 201.74695}
+    m_Target: {x: -5.3292046, y: 0.8429835, z: -0.16967449}
     speed: 2
-    m_Value: {x: -1.1349807, y: -1.0093455, z: 201.74695}
-=======
-    m_Target: {x: -11.081597, y: 3.5263195, z: 90}
-    speed: 2
-    m_Value: {x: -11.081597, y: 3.5263195, z: 90}
->>>>>>> AccountLink
+    m_Value: {x: -5.3292046, y: 0.8429835, z: -0.16967449}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -936,15 +825,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-<<<<<<< HEAD
-    m_Target: 5.7497325
+    m_Target: 27.027664
     speed: 2
-    m_Value: 5.7497325
-=======
-    m_Target: 2.5707698
-    speed: 2
-    m_Value: 2.5707698
->>>>>>> AccountLink
+    m_Value: 27.027664
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -965,7 +848,7 @@ MonoBehaviour:
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
-    m_SceneView: {fileID: 8}
+    m_SceneView: {fileID: 9}
     m_CameraOverscanSettings:
       m_Opacity: 42
       m_Scale: 0.53
@@ -978,78 +861,6 @@ MonoBehaviour:
     name: Contributors / Receivers
     section: Lighting
   m_ViewIsLockedToObject: 0
---- !u!114 &9
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-<<<<<<< HEAD
-  m_Script: {fileID: 13974, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.DeviceSimulation.SimulatorWindow
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Simulator
-    m_Image: {fileID: 3038311277492192215, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Simulator\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 262.6667
-    y: 78.66667
-    width: 572.6666
-    height: 337.33334
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_SerializedViewNames:
-  - UnityEditor.GameView
-  m_SerializedViewValues:
-  - C:\Users\Naz Janif\Downloads\ASHSPIRE Game Contents\ASHSPIRE-MainMenu\ASHSPIRE-MainMenu\Main
-    Menu\Library\PlayModeViewStates\baf26bb48fdf85643ae7fa5f4e21d2ec
-  m_PlayModeViewName: Device Simulator
-  m_ShowGizmos: 0
-  m_TargetDisplay: 0
-  m_ClearColor: {r: 0, g: 0, b: 0, a: 1}
-  m_TargetSize: {x: 3040, y: 1440}
-  m_TextureFilterMode: 0
-  m_TextureHideFlags: 61
-  m_RenderIMGUI: 1
-  m_EnterPlayModeBehavior: 2
-  m_UseMipMap: 0
-  m_SimulatorState:
-    controlPanelVisible: 0
-    controlPanelWidth: 0
-    controlPanelFoldoutKeys:
-    - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
-    controlPanelFoldoutValues: 00
-    pluginNames:
-    - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
-    - UnityEngine.InputSystem.Editor.InputSystemPlugin
-    pluginStates:
-    - '{}'
-    - '{}'
-    scale: 14
-    fitToScreenEnabled: 0
-    rotationDegree: 270
-    highlightSafeAreaEnabled: 0
-    friendlyName: Samsung Galaxy S10+
-    screenIndex: 0
-    networkReachability: 1
-    systemLanguage: 10
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1059,8 +870,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-=======
->>>>>>> AccountLink
   m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: UnityEditor.Graphs.dll::UnityEditor.Graphs.AnimatorControllerTool
@@ -1068,26 +877,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Animator
-<<<<<<< HEAD
     m_Image: {fileID: 1711060831702674872, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Animator\u200B"
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 307
     y: 87
     width: 955
     height: 469
-=======
-    x: 252
-    y: 79
-    width: 1013
-    height: 555
->>>>>>> AccountLink
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1116,11 +914,7 @@ MonoBehaviour:
   m_CurrentEditor: 0
   m_LayerEditor:
     m_SelectedLayerIndex: 0
-<<<<<<< HEAD
 --- !u!114 &11
-=======
---- !u!114 &10
->>>>>>> AccountLink
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1136,37 +930,19 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-<<<<<<< HEAD
-    y: 363.33334
-    width: 837.3333
-    height: 209.99997
-  m_MinSize: {x: 231, y: 276}
-  m_MaxSize: {x: 10001, y: 10026}
+    y: 362
+    width: 1020.6667
+    height: 209.33331
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
   - {fileID: 13}
   - {fileID: 14}
-  - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &12
-=======
-    y: 519
-    width: 1256
-    height: 398
-  m_MinSize: {x: 231, y: 276}
-  m_MaxSize: {x: 10001, y: 10026}
-  m_ActualView: {fileID: 11}
-  m_Panes:
-  - {fileID: 11}
-  - {fileID: 12}
-  - {fileID: 13}
-  - {fileID: 14}
-  m_Selected: 0
-  m_LastSelected: 1
---- !u!114 &11
->>>>>>> AccountLink
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1182,26 +958,15 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-<<<<<<< HEAD
     m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
-    y: 442
-    width: 836.3333
-    height: 183.99997
-=======
-    x: 8
-    y: 606
-    width: 1255
-    height: 372
->>>>>>> AccountLink
+    y: 442.6667
+    width: 1019.6667
+    height: 183.33331
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1224,7 +989,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Images
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1234,27 +999,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Images
   m_LastFoldersGridSize: -1
-<<<<<<< HEAD
   m_LastProjectPath: C:\Users\Kimmy\OneDrive\Documents\2025\ASHSPIRE-AccountLink\Main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 332.00003}
-    m_SelectedIDs: 8a7f0100
-    m_LastClickedID: 98186
-    m_ExpandedIDs: 00000000047f0100067f010000ca9a3b
-=======
-  m_LastProjectPath: C:\Users\Playtech\OneDrive\Documents\GitHub\ASHSPIRE\Main
-  m_LockTracker:
-    m_IsLocked: 0
-  m_FolderTreeState:
-    scrollPos: {x: 0, y: 96}
-    m_SelectedIDs: 02f30000
-    m_LastClickedID: 62210
-    m_ExpandedIDs: 0000000086f1000000ca9a3bffffff7f
->>>>>>> AccountLink
+    scrollPos: {x: 0, y: 188.66669}
+    m_SelectedIDs: f60a0100
+    m_LastClickedID: 68342
+    m_ExpandedIDs: 00000000d200010000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1271,11 +1025,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-<<<<<<< HEAD
       m_ClientGUIView: {fileID: 11}
-=======
-      m_ClientGUIView: {fileID: 10}
->>>>>>> AccountLink
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1287,11 +1037,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< HEAD
-    m_ExpandedIDs: 00000000047f0100067f010000ca9a3b
-=======
-    m_ExpandedIDs: 0000000086f10000
->>>>>>> AccountLink
+    m_ExpandedIDs: 00000000d2000100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1317,17 +1063,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-<<<<<<< HEAD
-    m_SelectedInstanceIDs: 3625feff
-    m_LastClickedInstanceID: -121546
+    m_SelectedInstanceIDs: d6090100
+    m_LastClickedInstanceID: 68054
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000641901009e320100dc330100c82a010034be0000d4ba000034c40000d6260100020001005c1001003e1d0100361d01004a1d0100b0ee00009eaa010062860100b469010006ab010070170100501d010070f00000660401009a040100d60f0100f40f0100ee0f010088f00000681201005e060100260601000e060100fe0501001e0701000e070100e6080100680801005008010008080100b40701009a070100fe0601009af3000082f30000caf00000e0e601004a160100b2240100b0240100fce30000c4240100deee0000e6ee0000eeee000042ef0000a6ee000076ec00007ce900005ced000078e900009cec00007ae90000deef00002e0101009e01010034f20000fc1001000cf20000faf10000bc18010030f20000a41101006cf20000faf40000fef4000086f2000076f200009e0e01000c1401003e120100d80c0100a2ee0000ca4f0100b4140200fc160200f0160200ec160200b8150100462e0100882e010068360100582801005a4901003ef00000148b01008af20000fcf1000070fe0100c00202009a030200a20302002e0b0200bc0f0200ba0e0200360f02007e0f0200c0f0000054020100680201000af3000098080100780801005c0801006008010058080100a2f0000076f10000800801006408010082bb01002ef0000000000000befd0000dafd0000d0fd0000c6fd0000f019010090ef0000c20801003c070100
-=======
-    m_SelectedInstanceIDs: f8faffff
-    m_LastClickedInstanceID: -1288
-    m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000641901009e320100dc330100c82a010034be0000d4ba000034c40000d6260100020001005c1001003e1d0100361d01004a1d0100b0ee00009eaa010062860100b469010006ab010070170100501d010070f00000660401009a040100d60f0100f40f0100ee0f010088f00000681201005e060100260601000e060100fe0501001e0701000e070100e6080100680801005008010008080100b40701009a070100fe0601009af3000082f30000caf00000e0e601004a160100b2240100b0240100fce30000c4240100deee0000e6ee0000eeee000042ef0000a6ee000076ec00007ce900005ced000078e900009cec00007ae90000deef00002e0101009e01010034f20000fc1001000cf20000faf10000bc18010030f20000a41101006cf20000faf40000fef4000086f2000076f200009e0e01000c1401003e120100d80c0100a2ee0000ca4f0100b4140200fc160200f0160200ec160200b8150100462e0100882e010068360100582801005a4901003ef00000148b01008af20000fcf1000070fe0100c00202009a030200a20302002e0b0200bc0f0200ba0e0200360f02007e0f0200c0f0000054020100680201000af3000098080100780801005c0801006008010058080100a2f0000076f10000800801006408010082bb010000000000
->>>>>>> AccountLink
+    m_ExpandedInstanceIDs: c6230000641901009e320100dc330100c82a010034be0000d4ba000034c40000d6260100020001005c1001003e1d0100361d01004a1d0100b0ee00009eaa010062860100b469010006ab010070170100501d010070f00000660401009a040100d60f0100f40f0100ee0f010088f00000681201005e060100260601000e060100fe0501001e0701000e070100e6080100680801005008010008080100b40701009a070100fe0601009af3000082f30000caf00000e0e601004a160100b2240100b0240100fce30000c4240100deee0000e6ee0000eeee000042ef0000a6ee000076ec00007ce900005ced000078e900009cec00007ae90000deef00002e0101009e01010034f20000fc1001000cf20000faf10000bc18010030f20000a41101006cf20000faf40000fef4000086f2000076f200009e0e01000c1401003e120100d80c0100a2ee0000ca4f0100b4140200fc160200f0160200ec160200b8150100462e0100882e010068360100582801005a4901003ef00000148b01008af20000fcf1000070fe0100c00202009a030200a20302002e0b0200bc0f0200ba0e0200360f02007e0f0200c0f0000054020100680201000af3000098080100780801005c0801006008010058080100a2f0000076f10000800801006408010082bb01002ef00000befd0000dafd0000d0fd0000c6fd0000f019010090ef0000c20801003c07010000000000eec40200e20301000ac5020010c502001cc50200f20b0100
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1335,19 +1074,11 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-<<<<<<< HEAD
-    m_ScrollPosition: {x: 0, y: 158.50002}
-    m_GridSize: 64
-  m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 207
---- !u!114 &13
-=======
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
---- !u!114 &12
->>>>>>> AccountLink
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1363,26 +1094,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-<<<<<<< HEAD
     m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 0
-    y: 442
-    width: 836.3333
-    height: 183.99997
-=======
-    x: 8
-    y: 606
-    width: 1255
-    height: 372
->>>>>>> AccountLink
+    y: 442.6667
+    width: 1019.6667
+    height: 183.33331
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1394,52 +1114,7 @@ MonoBehaviour:
     m_SaveData: []
     m_ContainerData: []
     m_OverlaysVisible: 1
-<<<<<<< HEAD
 --- !u!114 &14
-=======
---- !u!114 &13
->>>>>>> AccountLink
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6629f1bb292b749a18b5fff7994c8b19, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.PlasticSCM.Editor::Unity.PlasticSCM.Editor.UVCSWindow
-  m_MinSize: {x: 600, y: 350}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Unity Version Control
-    m_Image: {fileID: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Unity Version Control\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 1920
-    y: 645
-    width: 1268
-    height: 341
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  mForceToReOpen: 0
-<<<<<<< HEAD
---- !u!114 &15
-=======
---- !u!114 &14
->>>>>>> AccountLink
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1455,11 +1130,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Audio Mixer
-<<<<<<< HEAD
     m_Image: {fileID: -3283902137440876849, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: 2344599766593239149, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Audio Mixer\u200B"
   m_Pos:
@@ -1628,11 +1299,7 @@ MonoBehaviour:
   m_ShowReferencedBuses: 1
   m_ShowBusConnections: 0
   m_ShowBusConnectionsOfSelection: 0
-<<<<<<< HEAD
---- !u!114 &16
-=======
 --- !u!114 &15
->>>>>>> AccountLink
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1647,34 +1314,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 837.3333
+    x: 1020.6667
     y: 0
-    width: 442.6667
-    height: 573.3333
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-  - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &17
-=======
-    x: 1256
-    y: 0
-    width: 648
-    height: 917
+    width: 259.3333
+    height: 571.3333
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
-  - {fileID: 17}
   m_Selected: 0
-  m_LastSelected: 1
+  m_LastSelected: 0
 --- !u!114 &16
->>>>>>> AccountLink
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1690,26 +1341,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-<<<<<<< HEAD
     m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
-=======
-    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
->>>>>>> AccountLink
     m_Tooltip: 
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 837.3334
-    y: 78.66667
-    width: 441.6667
-    height: 547.3333
-=======
-    x: 1264
-    y: 87
-    width: 647
-    height: 891
->>>>>>> AccountLink
+    x: 1020.6667
+    y: 80.66667
+    width: 258.3333
+    height: 545.3333
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1727,81 +1367,10 @@ MonoBehaviour:
     m_CachedPref: -160
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: -1
-<<<<<<< HEAD
-  m_LastVerticalScrollValue: 339.33337
-=======
-  m_LastVerticalScrollValue: 0
->>>>>>> AccountLink
+  m_LastInspectedObjectInstanceID: 68054
+  m_LastVerticalScrollValue: 726.00006
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
     m_IsLocked: 0
   m_PreviewWindow: {fileID: 0}
-<<<<<<< HEAD
-=======
---- !u!114 &17
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 13854, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.ProjectSettingsWindow
-  m_MinSize: {x: 310, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-    m_Text: Project Settings
-    m_Image: {fileID: -5712115415447495865, guid: 0000000000000000d000000000000000, type: 0}
-    m_Tooltip: 
-    m_TextWithWhitespace: "Project Settings\u200B"
-  m_Pos:
-    serializedVersion: 2
-    x: 1267
-    y: 79
-    width: 652
-    height: 907
-  m_SerializedDataModeController:
-    m_DataMode: 0
-    m_PreferredDataMode: 0
-    m_SupportedDataModes: 
-    isAutomatic: 1
-  m_ViewDataDictionary: {fileID: 0}
-  m_OverlayCanvas:
-    m_LastAppliedPresetName: Default
-    m_SaveData: []
-    m_ContainerData: []
-    m_OverlaysVisible: 1
-  m_PosLeft: {x: 0, y: 0}
-  m_PosRight: {x: 0, y: 0}
-  m_Scope: 1
-  m_SplitterPos: 150
-  m_SearchText: 
-  m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: eb925b96
-    m_LastClickedID: -1772383509
-    m_ExpandedIDs: 67e1b582a01a5fa6000000007f0eae07e594f01ac53aba5a
-    m_RenameOverlay:
-      m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
-      m_EditFieldRect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 0
-        height: 0
-      m_UserData: 0
-      m_IsWaitingForDelay: 0
-      m_IsRenaming: 0
-      m_OriginalEventType: 11
-      m_IsRenamingFilename: 0
-      m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
-    m_SearchString: 
->>>>>>> AccountLink

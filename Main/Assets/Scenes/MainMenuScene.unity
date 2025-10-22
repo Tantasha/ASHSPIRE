@@ -541,7 +541,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 42294525}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &46324926
 GameObject:
   m_ObjectHideFlags: 0
@@ -594,8 +593,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RectMask2D
   m_Padding: {x: -8, y: -5, z: -8, w: -5}
   m_Softness: {x: 0, y: 0}
-=======
->>>>>>> AccountLink
 --- !u!1 &56968220
 GameObject:
   m_ObjectHideFlags: 0
@@ -722,7 +719,6 @@ RectTransform:
   m_AnchoredPosition: {x: -5, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
 --- !u!1 &163660386
 GameObject:
   m_ObjectHideFlags: 0
@@ -775,8 +771,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RectMask2D
   m_Padding: {x: -8, y: -5, z: -8, w: -5}
   m_Softness: {x: 0, y: 0}
-=======
->>>>>>> AccountLink
 --- !u!1 &201791787
 GameObject:
   m_ObjectHideFlags: 0
@@ -1070,7 +1064,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 203775860}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &213276290
 GameObject:
   m_ObjectHideFlags: 0
@@ -1153,8 +1146,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 213276290}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &241700436
 GameObject:
   m_ObjectHideFlags: 0
@@ -1387,7 +1378,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 244101174}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &250296596
 GameObject:
   m_ObjectHideFlags: 0
@@ -1653,8 +1643,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 266852174}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &311751589
 GameObject:
   m_ObjectHideFlags: 0
@@ -1878,7 +1866,6 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_IsOn: 1
-<<<<<<< HEAD
 --- !u!1 &321429331
 GameObject:
   m_ObjectHideFlags: 0
@@ -2057,8 +2044,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 321429331}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &375857739
 GameObject:
   m_ObjectHideFlags: 0
@@ -2095,7 +2080,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
 --- !u!1 &387473691
 GameObject:
   m_ObjectHideFlags: 0
@@ -2232,8 +2216,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 387473691}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &437577893
 GameObject:
   m_ObjectHideFlags: 0
@@ -2800,7 +2782,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 494510336}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &517361562
 GameObject:
   m_ObjectHideFlags: 0
@@ -2958,8 +2939,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 517361562}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -3110,7 +3089,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f35095fdceeaf748bc6d19a1b9c6842, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenu
-<<<<<<< HEAD
 --- !u!1 &525557367
 GameObject:
   m_ObjectHideFlags: 0
@@ -3249,8 +3227,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 525557367}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &538260583
 GameObject:
   m_ObjectHideFlags: 0
@@ -3495,7 +3471,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 590145939}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &593364354
 GameObject:
   m_ObjectHideFlags: 0
@@ -3632,8 +3607,6 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-=======
->>>>>>> AccountLink
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -3718,7 +3691,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &620648944
 GameObject:
   m_ObjectHideFlags: 0
@@ -4045,8 +4017,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 640066503}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &682255473
 GameObject:
   m_ObjectHideFlags: 0
@@ -4083,7 +4053,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 28}
   m_Pivot: {x: 0.5, y: 1}
-<<<<<<< HEAD
 --- !u!1 &700342790
 GameObject:
   m_ObjectHideFlags: 0
@@ -4431,8 +4400,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 767901607}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &769610652
 GameObject:
   m_ObjectHideFlags: 0
@@ -4708,7 +4675,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 796735024}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &815974169
 GameObject:
   m_ObjectHideFlags: 0
@@ -4788,8 +4754,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 815974169}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &834103860
 GameObject:
   m_ObjectHideFlags: 0
@@ -4926,145 +4890,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 834103860}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
-=======
---- !u!1 &858758977
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 858758978}
-  - component: {fileID: 858758979}
-  - component: {fileID: 858758980}
-  m_Layer: 5
-  m_Name: Error
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &858758978
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 858758977}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1055886431}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.89, y: -126}
-  m_SizeDelta: {x: 703.35, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!222 &858758979
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 858758977}
-  m_CullTransparentMesh: 1
---- !u!114 &858758980
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 858758977}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
->>>>>>> AccountLink
 --- !u!1 &871894882
 GameObject:
   m_ObjectHideFlags: 0
@@ -5427,11 +5252,7 @@ GameObject:
   - component: {fileID: 929999227}
   - component: {fileID: 929999226}
   m_Layer: 5
-<<<<<<< HEAD
   m_Name: LoginPassword
-=======
-  m_Name: Password
->>>>>>> AccountLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5454,11 +5275,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 16, y: 17}
-=======
-  m_AnchoredPosition: {x: 16, y: -24.22}
->>>>>>> AccountLink
   m_SizeDelta: {x: 719.14, y: 102.28}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &929999226
@@ -5890,7 +5707,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 971880589}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &974505069
 GameObject:
   m_ObjectHideFlags: 0
@@ -6163,8 +5979,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 990759562}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1021656995
 GameObject:
   m_ObjectHideFlags: 0
@@ -6405,7 +6219,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &1040333497
 GameObject:
   m_ObjectHideFlags: 0
@@ -6539,8 +6352,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1040333497}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1045736307
 GameObject:
   m_ObjectHideFlags: 0
@@ -6666,11 +6477,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-<<<<<<< HEAD
   m_IsActive: 0
-=======
-  m_IsActive: 1
->>>>>>> AccountLink
 --- !u!224 &1055886431
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6688,25 +6495,15 @@ RectTransform:
   - {fileID: 1499719123}
   - {fileID: 929999225}
   - {fileID: 1475302612}
-<<<<<<< HEAD
   - {fileID: 250296597}
   - {fileID: 1938610669}
   - {fileID: 593364355}
-=======
-  - {fileID: 858758978}
-  - {fileID: 1662050083}
->>>>>>> AccountLink
   m_Father: {fileID: 1556777582}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 28, y: 52.579956}
   m_SizeDelta: {x: -1078.65, y: -175.96}
-=======
-  m_AnchoredPosition: {x: 32.99951, y: -13.499023}
-  m_SizeDelta: {x: -1078.65, y: -97.79297}
->>>>>>> AccountLink
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1055886432
 MonoBehaviour:
@@ -6746,7 +6543,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1055886430}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1098326008
 GameObject:
   m_ObjectHideFlags: 0
@@ -6883,8 +6679,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1098326008}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1110956921
 GameObject:
   m_ObjectHideFlags: 0
@@ -6960,7 +6754,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1110956921}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1121987417
 GameObject:
   m_ObjectHideFlags: 0
@@ -7229,8 +7022,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1170946166}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1191158245
 GameObject:
   m_ObjectHideFlags: 0
@@ -7469,7 +7260,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1199653720}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1205752610
 GameObject:
   m_ObjectHideFlags: 0
@@ -7627,8 +7417,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1205752610}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1217033198
 GameObject:
   m_ObjectHideFlags: 0
@@ -8012,7 +7800,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1235851440}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1253246913
 GameObject:
   m_ObjectHideFlags: 0
@@ -8149,8 +7936,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1253246913}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1280688777
 GameObject:
   m_ObjectHideFlags: 0
@@ -8230,7 +8015,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< HEAD
 --- !u!1 &1303417689
 GameObject:
   m_ObjectHideFlags: 0
@@ -8369,8 +8153,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1303417689}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1310569667
 GameObject:
   m_ObjectHideFlags: 0
@@ -8715,7 +8497,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1399173750}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1472704670
 GameObject:
   m_ObjectHideFlags: 0
@@ -8849,8 +8630,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1472704670}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1473457670
 GameObject:
   m_ObjectHideFlags: 0
@@ -8916,11 +8695,7 @@ GameObject:
   - component: {fileID: 1475302614}
   - component: {fileID: 1475302613}
   m_Layer: 5
-<<<<<<< HEAD
   m_Name: LoginButton
-=======
-  m_Name: Login
->>>>>>> AccountLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8934,11 +8709,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1475302611}
   m_LocalRotation: {x: -0, y: 0.09549153, z: -0, w: 0.9954303}
-<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 11}
-=======
-  m_LocalPosition: {x: 0, y: 0, z: 48}
->>>>>>> AccountLink
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8947,13 +8718,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 10.959, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 209, y: -126}
   m_SizeDelta: {x: 335.66, y: 101.71}
-=======
-  m_AnchoredPosition: {x: 12, y: -256}
-  m_SizeDelta: {x: 367.2, y: 113.62}
->>>>>>> AccountLink
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1475302613
 MonoBehaviour:
@@ -9001,11 +8767,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1937476518}
         m_TargetAssemblyTypeName: LoginManager, Assembly-CSharp
-<<<<<<< HEAD
         m_MethodName: Login
-=======
-        m_MethodName: onLoginButtonClicked
->>>>>>> AccountLink
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -9066,11 +8828,7 @@ GameObject:
   - component: {fileID: 1499719125}
   - component: {fileID: 1499719124}
   m_Layer: 5
-<<<<<<< HEAD
   m_Name: LoginEmail
-=======
-  m_Name: Email
->>>>>>> AccountLink
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9083,11 +8841,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1499719122}
-<<<<<<< HEAD
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-=======
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
->>>>>>> AccountLink
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9097,11 +8851,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-<<<<<<< HEAD
   m_AnchoredPosition: {x: 16, y: 137}
-=======
-  m_AnchoredPosition: {x: 16, y: 120}
->>>>>>> AccountLink
   m_SizeDelta: {x: 719.14, y: 95.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1499719124
@@ -9255,7 +9005,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1499719122}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1509367260
 GameObject:
   m_ObjectHideFlags: 0
@@ -9465,8 +9214,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RectMask2D
   m_Padding: {x: -8, y: -5, z: -8, w: -5}
   m_Softness: {x: 0, y: 0}
-=======
->>>>>>> AccountLink
 --- !u!1 &1556777578
 GameObject:
   m_ObjectHideFlags: 0
@@ -9569,11 +9316,8 @@ RectTransform:
   - {fileID: 1584339127}
   - {fileID: 1930099111}
   - {fileID: 1055886431}
-<<<<<<< HEAD
   - {fileID: 213276291}
   - {fileID: 815974170}
-=======
->>>>>>> AccountLink
   - {fileID: 1567779883}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9995,145 +9739,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1587611004}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
-=======
---- !u!1 &1662050080
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1662050083}
-  - component: {fileID: 1662050082}
-  - component: {fileID: 1662050081}
-  m_Layer: 5
-  m_Name: Success
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1662050081
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1662050080}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_text: 
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_fontColor32:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft: {r: 1, g: 1, b: 1, a: 1}
-    topRight: {r: 1, g: 1, b: 1, a: 1}
-    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
-    bottomRight: {r: 1, g: 1, b: 1, a: 1}
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    serializedVersion: 2
-    rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_enableAutoSizing: 0
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_characterSpacing: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_TextWrappingMode: 1
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
-  m_enableExtraPadding: 0
-  checkPaddingRequired: 0
-  m_isRichText: 1
-  m_EmojiFallbackSupport: 1
-  m_parseCtrlCharacters: 1
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!222 &1662050082
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1662050080}
-  m_CullTransparentMesh: 1
---- !u!224 &1662050083
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1662050080}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1055886431}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.89, y: -126}
-  m_SizeDelta: {x: 703.35, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
->>>>>>> AccountLink
 --- !u!1 &1678963694
 GameObject:
   m_ObjectHideFlags: 0
@@ -10270,7 +9875,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1678963694}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1680544908
 GameObject:
   m_ObjectHideFlags: 0
@@ -10407,8 +10011,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1680544908}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1722699242
 GameObject:
   m_ObjectHideFlags: 0
@@ -10545,7 +10147,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1722699242}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &1730610265
 GameObject:
   m_ObjectHideFlags: 0
@@ -10682,8 +10283,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1730610265}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1730779561
 GameObject:
   m_ObjectHideFlags: 0
@@ -11346,7 +10945,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-<<<<<<< HEAD
 --- !u!1 &1932164786
 GameObject:
   m_ObjectHideFlags: 0
@@ -11537,8 +11135,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1932164786}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1937476517
 GameObject:
   m_ObjectHideFlags: 0
@@ -11568,7 +11164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7cf5d21a8537fc479cbe7c2f02d99bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LoginManager
-<<<<<<< HEAD
   Message: {fileID: 593364357}
   LoginEmail: {fileID: 1499719124}
   LoginPassword: {fileID: 929999226}
@@ -11579,12 +11174,6 @@ MonoBehaviour:
   RegisterPanel: {fileID: 213276290}
   ForgotEmail: {fileID: 321429333}
   ForgotPanel: {fileID: 815974169}
-=======
-  emailInput: {fileID: 1499719124}
-  passwordInput: {fileID: 929999226}
-  errorText: {fileID: 858758980}
-  successText: {fileID: 1662050081}
->>>>>>> AccountLink
 --- !u!4 &1937476519
 Transform:
   m_ObjectHideFlags: 0
@@ -11694,7 +11283,6 @@ MonoBehaviour:
   yesBtn: {fileID: 971880591}
   noBtn: {fileID: 1310569669}
   message: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1 &1938610668
 GameObject:
   m_ObjectHideFlags: 0
@@ -11828,8 +11416,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1938610668}
   m_CullTransparentMesh: 1
-=======
->>>>>>> AccountLink
 --- !u!1 &1968624389
 GameObject:
   m_ObjectHideFlags: 0
@@ -12041,7 +11627,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1994608093}
   m_CullTransparentMesh: 1
-<<<<<<< HEAD
 --- !u!1 &2038531005
 GameObject:
   m_ObjectHideFlags: 0
@@ -12094,8 +11679,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.RectMask2D
   m_Padding: {x: -8, y: -5, z: -8, w: -5}
   m_Softness: {x: 0, y: 0}
-=======
->>>>>>> AccountLink
 --- !u!1 &2047219059
 GameObject:
   m_ObjectHideFlags: 0
