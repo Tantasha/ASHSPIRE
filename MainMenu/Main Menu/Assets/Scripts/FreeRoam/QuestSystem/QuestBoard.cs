@@ -9,20 +9,19 @@ public class QuestBoard : MonoBehaviour
 
     private bool playerInRange;
 
-    private void Update()
+    public void OnInteractButtonPressed()
     {
-        if(playerInRange && Input.GetButtonDown("Submit"))
-        {
-            bool canTurnIn = questToTurnIn != null && QuestEvents.IsQuestComplete?.Invoke(questToTurnIn) == true;
+        if(!playerInRange) return;
 
-            if(canTurnIn)
-            {
-                QuestEvents.OnQuestTurnInRequested?.Invoke(questToTurnIn);
-            }
-            else
-            {
-                QuestEvents.OnQuestOfferRequested?.Invoke(questToOffer);
-            }
+        bool canTurnIn = questToTurnIn != null && QuestEvents.IsQuestComplete?.Invoke(questToTurnIn) == true;
+
+        if(canTurnIn)
+        {
+            QuestEvents.OnQuestTurnInRequested?.Invoke(questToTurnIn);
+        }
+        else
+        {
+            QuestEvents.OnQuestOfferRequested?.Invoke(questToOffer);
         }
     }
 
