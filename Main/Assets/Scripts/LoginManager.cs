@@ -7,78 +7,162 @@ using UnityEngine.SceneManagement;
 
 public class LoginManager : MonoBehaviour
 {
-
-    [SerializeField] private TMP_InputField emailInput;
-    [SerializeField] private TMP_InputField passwordInput;
-    [SerializeField] private TMP_Text errorText;
-    [SerializeField] private TMP_Text successText;
+    [SerializeField] TextMeshProUGUI Message;
     
 
-    /// <summary>
-    /// This method is called when the login button is clicked.
-    /// </summary>
+    [Header("Login")]
+    [SerializeField] TMP_InputField LoginEmail;
+    [SerializeField] TMP_InputField LoginPassword;
+    [SerializeField] GameObject LoginPanel;
 
-    public void onLoginButtonClicked()
+
+    [Header("Register")]
+    [SerializeField] TMP_InputField RegisterUsername;
+    [SerializeField] TMP_InputField RegisterEmail;
+    [SerializeField] TMP_InputField RegisterPassword;
+    [SerializeField] GameObject RegisterPanel;
+
+
+    [Header("Forgot")]
+    [SerializeField] TMP_InputField ForgotEmail;
+    [SerializeField] GameObject ForgotPanel;
+
+    void Start()
     {
-        string email = emailInput.text;
-        string password = passwordInput.text;
-        // Here you would typically send the email and password to your server for authentication.
-        Debug.Log($"Attempting to log in with Email: {email} and Password: {password}");
-
-        string loginResult = checkLoginInfo(email, password);
-
-        if(string.IsNullOrEmpty(loginResult))
-        {
-            Debug.Log("Login successful!");
-            // Proceed to the next scene or main menu
-            successText.text = "Login successful!";
-
-        } else
-        {
-            Debug.LogError($"Login failed: {loginResult}");
-            // Display error message to the user
-            errorText.text = loginResult;
-        }
+        PlayFabSettings.staticSettings.TitleId = "F32A3"; // Replace with your actual Title ID
     }
 
-    /// <summary>
-    /// This method checks the login information.
-    /// </summary>
-    /// <returns>This will return either a successful login or a message reading an error. </returns>
-    private string checkLoginInfo(string email, string password)
-    {
-        string message = "";
 
-        if (string.IsNullOrEmpty(email) && string.IsNullOrEmpty(password))
+
+    //Function in opening login page, register page, and forgot page
+    #region button functions
+
+    //Register Panel
+    public void RegisterUser()
+    {
+        //message if the password is less than 6 character, null or empty
+        if (string.IsNullOrEmpty(RegisterPassword.text) || RegisterPassword.text.Length <= 6)
         {
-            message = "Email and Password cannot be empty.";
+            Message.text = "Password must be at least 6 characters long.";
         }
-        else if (string.IsNullOrEmpty(email))
+
+
+        var request = new RegisterPlayFabUserRequest
         {
-            message = "Email cannot be empty.";
-        }
-        else if (string.IsNullOrEmpty(password))
-        {
-            message = "Password cannot be empty.";
-        }
-        else if (!email.Contains("@"))
-        {
-            message = "Email format is invalid.";
-        }
-        else if (password.Length < 6)
-        {
-            message = "Password must be at least 6 characters long.";
-        }
-        Debug.Log(message);
-        return message;
+            DisplayName = RegisterUsername.text,
+            Email = RegisterEmail.text,
+            Password = RegisterPassword.text,
+
+            RequireBothUsernameAndEmail = false
+        };
+
+        PlayFabClientAPI.RegisterPlayFabUser(request, OnRegisterSuccess, OnRegisterFailure);
+    }
+
+    //Once the registeration is successful then there should be a message that show it was successful
+    // and open the login page
+    private void OnRegisterSuccess(RegisterPlayFabUserResult result)
+    {
+        Message.text = "Registeration Successful!";
+        OpenLogin();
+        RegisterEmail.text = "";
+        RegisterPassword.text = "";
+        RegisterUsername.text = "";
+        Message.text = "";
 
     }
 
-    /// <summary>
-    /// On any input field value change, this method is called to remove the error message.
-    /// 
-    public void removeErrorMessage()
+    //If the registeration fails, it should let the player know of the error
+    private void OnRegisterFailure(PlayFabError error)
     {
-        errorText.text = "";
+        Message.text = error.ErrorMessage;
+        Debug.Log(error.GenerateErrorReport());
+        Message.text = "";
     }
+
+    //Login panel
+    public void Login()
+    {
+        var request = new LoginWithEmailAddressRequest
+        {
+            Email = LoginEmail.text,
+            Password = LoginPassword.text,
+        };
+
+        PlayFabClientAPI.LoginWithEmailAddress(request, OnLoginSuccess, OnLoginFail);
+    }
+
+    //Successful login results in Loggin in the game
+    private void OnLoginSuccess(LoginResult result)
+    {
+        Message.text = "Loggin in...";
+        SceneManager.LoadScene("LoadingScene");
+
+    }
+
+    //When the log in fails, there should be a message, and should let the player reinput their login details
+    private void OnLoginFail(PlayFabError error)
+    {
+        Message.text = " Login Failure... \n Try Again.";
+        LoginEmail.text = "";
+        LoginPassword.text = "";
+        Message.text = "";
+    }
+
+    //When player forgets their password. 
+    //Player should be able to reset their password.
+    public void Recovery()
+    {
+        var request = new SendAccountRecoveryEmailRequest
+        {
+            Email = ForgotEmail.text,
+            TitleId = "F32A3",
+        };
+
+        PlayFabClientAPI.SendAccountRecoveryEmail(request, OnRecoverySuccess, OnRecoveryFail);
+    }
+
+    //Once the player inputs existing email address
+    //the player should receive a recovery email to reset their password
+    private void OnRecoverySuccess(SendAccountRecoveryEmailResult result)
+    {
+        OpenLogin();
+        Message.text = "Recovery Email Sent.";
+        ForgotEmail.text = "";
+
+
+    }
+
+    //If the player input an invalid email address
+    private void OnRecoveryFail(PlayFabError error)
+    {
+        Message.text = "Invalid Email Address";
+        Message.text = "";
+    }
+
+
+    public void OpenLogin()
+    {
+        LoginPanel.SetActive(true);
+        RegisterPanel.SetActive(false);
+        ForgotPanel.SetActive(false);
+    }
+
+    public void OpenRegister()
+    {
+        LoginPanel.SetActive(false);
+        RegisterPanel.SetActive(true);
+        ForgotPanel.SetActive(false);
+    }
+
+    public void OpenForgot()
+    {
+        LoginPanel.SetActive(false);
+        RegisterPanel.SetActive(false);
+        ForgotPanel.SetActive(true);
+    }
+    
+    #endregion
+
+
 }
