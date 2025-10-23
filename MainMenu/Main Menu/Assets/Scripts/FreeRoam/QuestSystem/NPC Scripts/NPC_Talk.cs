@@ -7,9 +7,11 @@ public class NPC_Talk : MonoBehaviour
     private Rigidbody2D rb;
     public Animator interactAnim;
 
+    [Header("Dialogue Settings")]
     public List<DialogueSO> conversations;
     public DialogueSO currentConversation;
-    
+
+    private bool isActive; // this replaces playerInRange
 
     private void Awake()
     {
@@ -21,33 +23,37 @@ public class NPC_Talk : MonoBehaviour
         rb.velocity = Vector2.zero;
         rb.isKinematic = true;
         interactAnim.Play("Open");
+        isActive = true;
     }
 
     private void OnDisable()
     {
         interactAnim.Play("Close");
+        isActive = false;
     }
 
-    private void Update()
+    // Called by the UI Interact Button
+    public void OnInteractButtonPressed()
     {
-        if(Input.GetButtonDown("Submit"))
+        if (!isActive) return;
+
+        if (DialogueManager.Instance.isDialogueActive)
         {
-            if(DialogueManager.Instance.isDialogueActive)
-                DialogueManager.Instance.AdvanceDialogue();
-            else 
-            {
-                CheckForNewConversation();
-                DialogueManager.Instance.StartDialogue(currentConversation);
-            }
+            DialogueManager.Instance.AdvanceDialogue();
+        }
+        else
+        {
+            CheckForNewConversation();
+            DialogueManager.Instance.StartDialogue(currentConversation);
         }
     }
-    
+
     private void CheckForNewConversation()
     {
-        for(int i = 0; i < conversations.Count; i++)
+        for (int i = 0; i < conversations.Count; i++)
         {
             var convo = conversations[i];
-            if(convo != null && convo.IsConditionMet())
+            if (convo != null && convo.IsConditionMet())
             {
                 conversations.RemoveAt(i);
                 currentConversation = convo;
