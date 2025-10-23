@@ -1,15 +1,17 @@
 fileFormatVersion: 2
-guid: 6c822688110255c4a9834942054d31b2
+guid: 0bcf55bdfe7ac7b40a0b36d9604a4746
+labels:
+- UnityAI
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6450544296831758802
-    second: change_the_black_col-removebg-preview_0
+      213: 4263330101275275566
+    second: GameTag BG_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -24,7 +26,7 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
     flipGreenChannel: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
@@ -40,10 +42,10 @@ TextureImporter:
     filterMode: 1
     aniso: 1
     mipBias: 0
-    wrapU: 0
-    wrapV: 0
-    wrapW: 0
-  nPOTScale: 1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
@@ -55,9 +57,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 0
+  alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -113,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: change_the_black_col-removebg-preview_0
+      name: GameTag BG_0
       rect:
         serializedVersion: 2
-        x: 35
-        y: 64
-        width: 414
-        height: 332
+        x: 0
+        y: 0
+        width: 1344
+        height: 768
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2ecb6373201b76a0800000000000000
-      internalID: -6450544296831758802
+      spriteID: e213eb693246a2b30800000000000000
+      internalID: 4263330101275275566
       vertices: []
       indices: 
       edges: []
@@ -148,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      change_the_black_col-removebg-preview_0: -6450544296831758802
+      GameTag BG_0: 4263330101275275566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

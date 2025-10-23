@@ -126663,7 +126663,7 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.42539847, g: 0.8244902, b: 0.8616352, a: 1}
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
@@ -138654,7 +138654,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DragonStats
   maxLevel: 5
   xpToNextLevel: 100
-  growthScale: 0.2
   startingBiome: 2
 --- !u!114 &2102549972
 MonoBehaviour:

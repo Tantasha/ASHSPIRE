@@ -59,6 +59,8 @@ public class LoginManager : MonoBehaviour
         PlayFabClientAPI.RegisterPlayFabUser(request, OnRegisterSuccess, OnRegisterFailure);
     }
 
+    //Once the registeration is successful then there should be a message that show it was successful
+    // and open the login page
     private void OnRegisterSuccess(RegisterPlayFabUserResult result)
     {
         Message.text = "Registeration Successful!";
@@ -66,14 +68,16 @@ public class LoginManager : MonoBehaviour
         RegisterEmail.text = "";
         RegisterPassword.text = "";
         RegisterUsername.text = "";
+        Message.text = "";
 
     }
 
-
+    //If the registeration fails, it should let the player know of the error
     private void OnRegisterFailure(PlayFabError error)
     {
         Message.text = error.ErrorMessage;
         Debug.Log(error.GenerateErrorReport());
+        Message.text = "";
     }
 
     //Login panel
@@ -88,18 +92,25 @@ public class LoginManager : MonoBehaviour
         PlayFabClientAPI.LoginWithEmailAddress(request, OnLoginSuccess, OnLoginFail);
     }
 
+    //Successful login results in Loggin in the game
     private void OnLoginSuccess(LoginResult result)
     {
         Message.text = "Loggin in...";
         SceneManager.LoadScene("LoadingScene");
+
     }
+
+    //When the log in fails, there should be a message, and should let the player reinput their login details
     private void OnLoginFail(PlayFabError error)
     {
         Message.text = " Login Failure... \n Try Again.";
         LoginEmail.text = "";
         LoginPassword.text = "";
+        Message.text = "";
     }
 
+    //When player forgets their password. 
+    //Player should be able to reset their password.
     public void Recovery()
     {
         var request = new SendAccountRecoveryEmailRequest
@@ -111,6 +122,8 @@ public class LoginManager : MonoBehaviour
         PlayFabClientAPI.SendAccountRecoveryEmail(request, OnRecoverySuccess, OnRecoveryFail);
     }
 
+    //Once the player inputs existing email address
+    //the player should receive a recovery email to reset their password
     private void OnRecoverySuccess(SendAccountRecoveryEmailResult result)
     {
         OpenLogin();
@@ -120,10 +133,11 @@ public class LoginManager : MonoBehaviour
 
     }
 
-
+    //If the player input an invalid email address
     private void OnRecoveryFail(PlayFabError error)
     {
         Message.text = "Invalid Email Address";
+        Message.text = "";
     }
 
 

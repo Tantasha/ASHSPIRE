@@ -3560,7 +3560,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 122.462524, y: 30.999939}
+  m_AnchoredPosition: {x: 122.4624, y: 31}
   m_SizeDelta: {x: -462.1499, y: -284.38}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &261624605
@@ -7724,7 +7724,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00024414062, y: -0.000061035156}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &533437977
@@ -9776,7 +9776,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.00024414062, y: -0.000061035156}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &684992072
@@ -28140,7 +28140,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -555.87, y: 334.8}
+  m_AnchoredPosition: {x: -495.73, y: 345.68}
   m_SizeDelta: {x: 991.46, y: 182.63}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1804836792
@@ -31990,7 +31990,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DragonStats
   maxLevel: 5
   xpToNextLevel: 100
-  growthScale: 0.1
   startingBiome: 0
 --- !u!114 &2056498930
 MonoBehaviour:
