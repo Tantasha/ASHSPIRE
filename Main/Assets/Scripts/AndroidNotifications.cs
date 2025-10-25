@@ -53,7 +53,7 @@ public class AndroidNotifications : MonoBehaviour
         {
             Title = title,
             Text = text,
-            FireTime = DateTime.Now,
+            FireTime = DateTime.Now.AddSeconds(0),
             SmallIcon = "icon_0",
             LargeIcon = "icon_1"
         };
