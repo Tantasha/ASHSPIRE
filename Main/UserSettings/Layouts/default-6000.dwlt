@@ -15,11 +15,35 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> parent of 0dab8e0 (commit)
     y: 43.2
     width: 1536
     height: 772.8
   m_ShowMode: 4
   m_Title: Project
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+=======
+    y: 44.666668
+    width: 1280
+    height: 627.3334
+  m_ShowMode: 4
+  m_Title: Project
+>>>>>>> Stashed changes
+=======
+    y: 44.666668
+    width: 1280
+    height: 627.3334
+  m_ShowMode: 4
+  m_Title: Project
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -44,8 +68,28 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1536
     height: 772.8
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    width: 1536
+    height: 772.8
+=======
+    width: 1280
+    height: 627.3333
+>>>>>>> Stashed changes
+=======
+    width: 1280
+    height: 627.3333
+>>>>>>> Stashed changes
+=======
+    width: 1280
+    height: 627.3333
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -69,7 +113,23 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1536
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    width: 1536
+=======
+    width: 1280
+>>>>>>> Stashed changes
+=======
+    width: 1280
+>>>>>>> Stashed changes
+=======
+    width: 1280
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
     height: 36
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -90,8 +150,28 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 752.8
     width: 1536
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    y: 752.8
+    width: 1536
+=======
+    y: 607.3333
+    width: 1280
+>>>>>>> Stashed changes
+=======
+    y: 607.3333
+    width: 1280
+>>>>>>> Stashed changes
+=======
+    y: 607.3333
+    width: 1280
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -114,12 +194,46 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 36
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> parent of 0dab8e0 (commit)
     width: 1536
     height: 716.8
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 117
+=======
+  controlID: 18
+=======
+    width: 1280
+    height: 571.3333
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 96
+>>>>>>> Stashed changes
+=======
+    width: 1280
+    height: 571.3333
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 96
+>>>>>>> Stashed changes
+=======
+    width: 1280
+    height: 571.3333
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 96
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   draggingID: 0
 --- !u!114 &6
 MonoBehaviour:
@@ -140,12 +254,47 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1013.6
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    width: 1224
+>>>>>>> parent of 0dab8e0 (commit)
     height: 716.8
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 48
+=======
+  controlID: 19
+=======
+    width: 845.3333
+    height: 571.3333
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 40
+>>>>>>> Stashed changes
+=======
+    width: 845.3333
+    height: 571.3333
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 40
+>>>>>>> Stashed changes
+=======
+    width: 845.3333
+    height: 571.3333
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 40
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -166,12 +315,48 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1013.6
     height: 406.4
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
   controlID: 49
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    width: 1224
+    height: 436
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 20
+=======
+    width: 845.3333
+    height: 344.66666
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 41
+>>>>>>> Stashed changes
+=======
+    width: 845.3333
+    height: 344.66666
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 41
+>>>>>>> Stashed changes
+=======
+    width: 845.3333
+    height: 344.66666
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 41
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -190,8 +375,24 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 245.6
     height: 406.4
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    width: 298.4
+    height: 436
+  m_MinSize: {x: 321, y: 26}
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    width: 175.33333
+    height: 344.66666
+>>>>>>> parent of 0dab8e0 (commit)
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 14}
@@ -215,10 +416,38 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 245.6
     y: 0
     width: 768
     height: 406.4
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    x: 298.4
+    y: 0
+    width: 925.6
+    height: 436
+=======
+    x: 175.33333
+    y: 0
+    width: 670
+    height: 344.66666
+>>>>>>> Stashed changes
+=======
+    x: 175.33333
+    y: 0
+    width: 670
+    height: 344.66666
+>>>>>>> Stashed changes
+=======
+    x: 175.33333
+    y: 0
+    width: 670
+    height: 344.66666
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 15}
@@ -244,9 +473,29 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 406.4
     width: 1013.6
     height: 310.4
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    y: 436
+    width: 1224
+    height: 280.8
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    y: 344.66666
+    width: 845.3333
+    height: 226.66666
+>>>>>>> parent of 0dab8e0 (commit)
   m_MinSize: {x: 231, y: 276}
   m_MaxSize: {x: 10001, y: 10026}
   m_ActualView: {fileID: 17}
@@ -272,11 +521,38 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1013.6
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    x: 1224
+>>>>>>> parent of 0dab8e0 (commit)
     y: 0
     width: 522.4
     height: 716.8
+<<<<<<< HEAD
   m_MinSize: {x: 311, y: 226}
+=======
+  m_MinSize: {x: 310, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 21}
+=======
+    x: 845.3333
+    y: 0
+=======
+    x: 845.3333
+    y: 0
+>>>>>>> Stashed changes
+=======
+    x: 845.3333
+    y: 0
+>>>>>>> Stashed changes
+    width: 434.6667
+    height: 571.3333
+  m_MinSize: {x: 276, y: 76}
+>>>>>>> parent of 0dab8e0 (commit)
   m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 22}
   m_Panes:
@@ -337,6 +613,19 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Simulator
     m_Image: {fileID: 3038311277492192215, guid: 0000000000000000d000000000000000, type: 0}
+<<<<<<< HEAD
+=======
+=======
+    m_Text: Project Settings
+    m_Image: {fileID: 866346219090771560, guid: 0000000000000000d000000000000000, type: 0}
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
     m_Tooltip: 
     m_TextWithWhitespace: "Simulator\u200B"
   m_Pos:
@@ -413,9 +702,33 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 79.200005
     width: 244.6
     height: 380.4
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    y: 79.200005
+    width: 297.4
+    height: 410
+=======
+    y: 80.66667
+    width: 174.33333
+    height: 318.66666
+>>>>>>> Stashed changes
+=======
+    y: 80.66667
+    width: 174.33333
+    height: 318.66666
+>>>>>>> Stashed changes
+=======
+    y: 80.66667
+    width: 174.33333
+    height: 318.66666
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -430,9 +743,33 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: aef00000
       m_LastClickedID: 0
       m_ExpandedIDs: caeeffffa4efffffbaf0ffffa6f1ffff78f2ffff50f3ffff1af4fffffaf4ffffc2f5ffffe4f9ffff
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 5241feff1642feff8842fefff442feffbe43feff7a44feff5645feff1246feff8446feff4047feffb447feff2048fefffe48feffce49feff8c4afeff024ffeff
+=======
+      m_SelectedIDs: acf20000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+>>>>>>> Stashed changes
+=======
+      m_SelectedIDs: acf20000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+>>>>>>> Stashed changes
+=======
+      m_SelectedIDs: acf20000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -478,10 +815,36 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 245.6
     y: 79.200005
     width: 766
     height: 380.4
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    x: 248.66667
+    y: 80.66667
+    width: 769.3333
+    height: 321.33334
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    x: 175.33334
+    y: 80.66667
+    width: 668
+    height: 318.66666
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -924,9 +1287,33 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: -10}
     speed: 2
     m_Value: {x: 0.00065549545, y: 0.00019275244, z: -9.999987}
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+=======
+    m_Target: {x: -3.959658, y: -0.18196216, z: -0.047219664}
+    speed: 2
+    m_Value: {x: -3.959658, y: -0.18196216, z: -0.047219664}
+>>>>>>> Stashed changes
+=======
+    m_Target: {x: -3.959658, y: -0.18196216, z: -0.047219664}
+    speed: 2
+    m_Value: {x: -3.959658, y: -0.18196216, z: -0.047219664}
+>>>>>>> Stashed changes
+=======
+    m_Target: {x: -3.959658, y: -0.18196216, z: -0.047219664}
+    speed: 2
+    m_Value: {x: -3.959658, y: -0.18196216, z: -0.047219664}
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -976,9 +1363,33 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 12.124355
     speed: 2
     m_Value: 12.12504
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    m_Target: 10
+    speed: 2
+    m_Value: 10
+=======
+    m_Target: 5.5880103
+    speed: 2
+    m_Value: 5.5880103
+>>>>>>> Stashed changes
+=======
+    m_Target: 5.5880103
+    speed: 2
+    m_Value: 5.5880103
+>>>>>>> Stashed changes
+=======
+    m_Target: 5.5880103
+    speed: 2
+    m_Value: 5.5880103
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1087,9 +1498,33 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 485.6
     width: 1012.6
     height: 284.4
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    y: 515.2
+    width: 1223
+    height: 254.79999
+=======
+    y: 425.33334
+    width: 844.3333
+    height: 200.66666
+>>>>>>> Stashed changes
+=======
+    y: 425.33334
+    width: 844.3333
+    height: 200.66666
+>>>>>>> Stashed changes
+=======
+    y: 425.33334
+    width: 844.3333
+    height: 200.66666
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1124,14 +1559,55 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> parent of 0dab8e0 (commit)
   m_LastProjectPath: C:\Users\Kok Wah Yee\Documents\GitHub\Ashspire_\ASHSPIRE\Main
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
     scrollPos: {x: 0, y: 263.6}
     m_SelectedIDs: 9e070100
     m_LastClickedID: 67486
     m_ExpandedIDs: 000000003007010000ca9a3bffffff7f
+=======
+    scrollPos: {x: 0, y: 298.50113}
+    m_SelectedIDs: f0880100
+    m_LastClickedID: 100592
+    m_ExpandedIDs: 0000000010ba010000ca9a3bffffff7f
+=======
+  m_LastProjectPath: C:\Users\Kimmy\OneDrive\Documents\2025\Ashspire_\ASHSPIRE\Main
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+=======
+  m_LastProjectPath: C:\Users\Kimmy\OneDrive\Documents\2025\Ashspire_\ASHSPIRE\Main
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+>>>>>>> Stashed changes
+=======
+  m_LastProjectPath: C:\Users\Kimmy\OneDrive\Documents\2025\Ashspire_\ASHSPIRE\Main
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+>>>>>>> Stashed changes
+    scrollPos: {x: 0, y: 171.33334}
+    m_SelectedIDs: acf20000
+    m_LastClickedID: 62124
+    m_ExpandedIDs: 0000000026f2000000ca9a3bffffff7f
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1160,7 +1636,23 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000030070100
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    m_ExpandedIDs: 0000000010ba0100
+=======
+    m_ExpandedIDs: 0000000026f20000
+>>>>>>> Stashed changes
+=======
+    m_ExpandedIDs: 0000000026f20000
+>>>>>>> Stashed changes
+=======
+    m_ExpandedIDs: 0000000026f20000
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1572,3 +2064,148 @@ MonoBehaviour:
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 0}
     m_SearchString: 
+<<<<<<< HEAD
+=======
+--- !u!114 &22
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Inspector
+    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+    m_TextWithWhitespace: "Inspector\u200B"
+  m_Pos:
+    serializedVersion: 2
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+    x: 1224
+    y: 79.200005
+    width: 311
+    height: 690.8
+=======
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+    x: 845.3334
+    y: 80.66667
+    width: 433.6667
+    height: 545.3333
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_ContainerData: []
+    m_OverlaysVisible: 1
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_PreviewResizer:
+    m_CachedPref: -160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_LastInspectedObjectInstanceID: 100946
+  m_LastVerticalScrollValue: 0
+  m_GlobalObjectId: 
+  m_InspectorMode: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewWindow: {fileID: 0}
+<<<<<<< Updated upstream
+=======
+--- !u!114 &21
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13974, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.DeviceSimulation.SimulatorWindow
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Simulator
+    m_Image: {fileID: 3038311277492192215, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+    m_TextWithWhitespace: "Simulator\u200B"
+  m_Pos:
+    serializedVersion: 2
+    x: 166.66667
+    y: 80.66667
+    width: 676.6666
+    height: 318.66666
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_ContainerData: []
+    m_OverlaysVisible: 1
+  m_SerializedViewNames:
+  - UnityEditor.GameView
+  m_SerializedViewValues:
+  - C:\Users\Naz Janif\Downloads\ASHSPIRE Game Contents\ASHSPIRE-MainMenu\ASHSPIRE-MainMenu\Main
+    Menu\Library\PlayModeViewStates\baf26bb48fdf85643ae7fa5f4e21d2ec
+  m_PlayModeViewName: Device Simulator
+  m_ShowGizmos: 0
+  m_TargetDisplay: 0
+  m_ClearColor: {r: 0, g: 0, b: 0, a: 1}
+  m_TargetSize: {x: 3040, y: 1440}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_EnterPlayModeBehavior: 2
+  m_UseMipMap: 0
+  m_SimulatorState:
+    controlPanelVisible: 0
+    controlPanelWidth: NaN
+    controlPanelFoldoutKeys:
+    - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
+    controlPanelFoldoutValues: 00
+    pluginNames:
+    - UnityEditor.DeviceSimulation.ApplicationSettingsPlugin
+    - UnityEngine.InputSystem.Editor.InputSystemPlugin
+    pluginStates:
+    - '{}'
+    - '{}'
+    scale: 19
+    fitToScreenEnabled: 0
+    rotationDegree: 270
+    highlightSafeAreaEnabled: 0
+    friendlyName: Samsung Galaxy S10+
+    screenIndex: 0
+    networkReachability: 1
+    systemLanguage: 10
+>>>>>>> Stashed changes
+>>>>>>> parent of 0dab8e0 (commit)

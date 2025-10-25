@@ -60,12 +60,8 @@ GraphicsSettings:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_RenderPipelineGlobalSettingsMap:
     UnityEngine.Rendering.Universal.UniversalRenderPipeline: {fileID: 11400000, guid: 93b439a37f63240aca3dd4e01d978a9f, type: 2}
-=======
-  m_RenderPipelineGlobalSettingsMap: {}
->>>>>>> Stashed changes
 =======
   m_RenderPipelineGlobalSettingsMap: {}
 >>>>>>> Stashed changes
