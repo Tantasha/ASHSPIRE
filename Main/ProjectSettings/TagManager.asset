@@ -7,6 +7,9 @@ TagManager:
   - main
   - Gem
   - Food
+  - Ability
+  - Enemy
+  - Dragon
   layers:
   - Default
   - TransparentFX
