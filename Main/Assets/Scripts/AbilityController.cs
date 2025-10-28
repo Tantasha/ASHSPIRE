@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class AbilityController : MonoBehaviour
 {
+    public SpecialBarSystem specialBar; 
+
     [Header("Particle System Reference")]
     public ParticleSystem attackParticle;
     public ParticleSystem shieldParticle;
@@ -25,7 +27,7 @@ public class AbilityController : MonoBehaviour
     public float shieldCD = 10f;
     public float healCD = 15f;
 
-    [Header("CD Timer")]
+    //private
     private float attackTimer = 0f;
     private float shieldTimer = 0f;
     private float healTimer = 0f;
@@ -90,6 +92,22 @@ public class AbilityController : MonoBehaviour
         //Start the cooldown
         attackTimer = attackCD;
 
+        //Charging the bar when the dragon attack enemy
+        if (specialBar != null)
+        {
+            specialBar.AddSpecialEnergy();
+        }
+        
+        //Checking if the attack is boosted
+        if(specialBar != null && specialBar.IsAttackBoosted)
+        {
+            float damage = 10f * specialBar.AttackMultiplier;
+            Debug.Log("Boost Attack Activated.");
+        } else
+        {
+            Debug.Log("Attack damage: 10");
+        }
+
     }
 
     void OnShieldBtnClick()
@@ -100,6 +118,12 @@ public class AbilityController : MonoBehaviour
         shieldParticle.Play();
 
         shieldTimer = shieldCD;
+
+        //Charge special bar
+        if(specialBar != null)
+        {
+            specialBar.AddSpecialEnergy();
+        }
     }
 
     void OnHealBtnClick() {
@@ -109,5 +133,11 @@ public class AbilityController : MonoBehaviour
         healParticle.Play();
 
         healTimer = healCD;
+
+        //Charging the special bar
+        if(specialBar != null)
+        {
+            specialBar.AddSpecialEnergy();
+        }
     }
 }

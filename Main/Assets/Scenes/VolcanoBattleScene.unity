@@ -319,7 +319,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 320297923}
   serializedVersion: 8
-  lengthInSec: 5
+  lengthInSec: 3
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -501,7 +501,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5960785, g: 0.9843138, b: 0.5960785, a: 0.49019608}
+      maxColor: {r: 0.8627452, g: 0.07843138, b: 0.20784314, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -5432,7 +5432,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6429363945022751053, guid: 839b1eb1a84ca1e4e98b2815dd8947f5, type: 3}
+  m_Sprite: {fileID: 3617871623050779129, guid: aefb618aa98db464cbcc6d6e4284d937, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11065,8 +11065,8 @@ MonoBehaviour:
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
+  m_FillMethod: 0
+  m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
@@ -11607,7 +11607,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.2352941, g: 0.7019608, b: 0.4431373, a: 1}
+      maxColor: {r: 1, g: 0.08627451, b: 0.216981, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -12692,8 +12692,8 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.30170873, g: 0.8490566, b: 0.5430127, a: 1}
-        key1: {r: 0, g: 0.3921569, b: 0, a: 1}
+        key0: {r: 0.8490566, g: 0.21335904, b: 0.1628692, a: 1}
+        key1: {r: 0.91823894, g: 0.5356101, b: 0.15881476, a: 1}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -15319,7 +15319,7 @@ ParticleSystem:
     maxLights: 20
   TrailModule:
     enabled: 0
-    mode: 0
+    mode: 1
     ratio: 1
     lifetime:
       serializedVersion: 2
@@ -15391,7 +15391,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 1, b: 1, a: 1}
+      maxColor: {r: 0.6037736, g: 0.1158181, b: 0.1158181, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -15509,7 +15509,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 1, g: 1, b: 1, a: 1}
+      maxColor: {r: 0.72327036, g: 0.15238701, b: 0.15238701, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -16181,7 +16181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1902735153657702587, guid: ebe09390be739d847b3677052dc93aba, type: 3}
+  m_Sprite: {fileID: 4249585922680503007, guid: 15ebb28b3c8668f4e859a37aefe6e5ae, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16508,8 +16508,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -429.92993, y: -599.11}
-  m_SizeDelta: {x: -1542.74, y: -1384.33}
+  m_AnchoredPosition: {x: -435.66016, y: -599.11}
+  m_SizeDelta: {x: -1533.49, y: -1384.33}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!68 &1457904934
 EdgeCollider2D:
@@ -16725,7 +16725,7 @@ MonoBehaviour:
   maxAttackDelay: 5
   autoAttack: 1
   isAttacking: 0
-  loadScene: controls
+  loadScene: Volcano
   delayBeforeTransition: 0.5
 --- !u!61 &1562890158
 BoxCollider2D:
@@ -16988,7 +16988,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8022348079487667318, guid: fa9a5a951b21e814697c45a4f5b6edd6, type: 3}
+  m_Sprite: {fileID: 5116716813616864910, guid: 10c3a80fd5ffda54badf44a99b0dbfae, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17577,7 +17577,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5647059, g: 0.9333334, b: 0.5647059, a: 0.7921569}
+      maxColor: {r: 0.8627452, g: 0.1921569, b: 0.1960784, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -17641,7 +17641,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -18721,7 +18721,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 0.5960785, g: 0.9843138, b: 0.5960785, a: 1}
+        key1: {r: 0.59607846, g: 0.87279403, b: 0.9843137, a: 1}
         key2: {r: 1, g: 1, b: 1, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -22198,7 +22198,7 @@ Transform:
   m_GameObject: {fileID: 1975598552}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.72, y: -2.4200003, z: -0}
+  m_LocalPosition: {x: -6.48, y: -1.87, z: -0}
   m_LocalScale: {x: 1.0826112, y: 1.0799338, z: 4.713913}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -22245,7 +22245,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.17, y: 2.31}
+    oldSize: {x: 2.63, y: 2.98}
     newSize: {x: 5.49, y: 4.37}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -22340,7 +22340,7 @@ SpriteRenderer:
   m_SortingLayerID: -1566057591
   m_SortingLayer: 2
   m_SortingOrder: 3
-  m_Sprite: {fileID: -4232038890851390005, guid: cf258fb55daecd644876f44ad29e06c1, type: 3}
+  m_Sprite: {fileID: -5495587541664305599, guid: 6f21b27eb4c8fc64e82b8d17a2306a7b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -22630,7 +22630,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4454552920234499475, guid: ca4f0d0d789708c4eacff22d1cacc36f, type: 3}
+  m_Sprite: {fileID: -862395799130353648, guid: 1a7c6135a3ae3714baa2c83753d627d0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class ForestDragon : MonoBehaviour
+public class Dragon : MonoBehaviour
 {
     [Header("Health Setting")]
     public int maxHealth = 100;

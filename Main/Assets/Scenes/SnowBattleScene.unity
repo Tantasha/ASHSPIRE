@@ -501,7 +501,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5960785, g: 0.9843138, b: 0.5960785, a: 0.49019608}
+      maxColor: {r: 0.15592727, g: 0.49514166, b: 0.6792453, a: 0.49019608}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -5432,7 +5432,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 6429363945022751053, guid: 839b1eb1a84ca1e4e98b2815dd8947f5, type: 3}
+  m_Sprite: {fileID: -1625063922001345698, guid: 9b1d4054df22266438e77bfd65badf31, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -11607,7 +11607,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.2352941, g: 0.7019608, b: 0.4431373, a: 1}
+      maxColor: {r: 0.1305327, g: 0.27164644, b: 0.754717, a: 1}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -16181,7 +16181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 1902735153657702587, guid: ebe09390be739d847b3677052dc93aba, type: 3}
+  m_Sprite: {fileID: -6871030754135022490, guid: 15e3a78b64054514298061b90c222b84, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -16508,8 +16508,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -429.92993, y: -599.11}
-  m_SizeDelta: {x: -1542.74, y: -1384.33}
+  m_AnchoredPosition: {x: -435.66016, y: -599.11}
+  m_SizeDelta: {x: -1533.49, y: -1384.33}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!68 &1457904934
 EdgeCollider2D:
@@ -16988,7 +16988,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8022348079487667318, guid: fa9a5a951b21e814697c45a4f5b6edd6, type: 3}
+  m_Sprite: {fileID: 6109620608898513667, guid: 02010b813a2b41b4a8422feaa622ae41, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -17577,7 +17577,7 @@ ParticleSystem:
       serializedVersion: 2
       minMaxState: 0
       minColor: {r: 1, g: 1, b: 1, a: 1}
-      maxColor: {r: 0.5647059, g: 0.9333334, b: 0.5647059, a: 0.7921569}
+      maxColor: {r: 1, g: 1, b: 1, a: 0.7921569}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -17641,7 +17641,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 0.3
+      scalar: 0.5
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -18721,7 +18721,7 @@ ParticleSystem:
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
-        key1: {r: 0.5960785, g: 0.9843138, b: 0.5960785, a: 1}
+        key1: {r: 0.59607846, g: 0.87279403, b: 0.9843137, a: 1}
         key2: {r: 1, g: 1, b: 1, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
@@ -22245,7 +22245,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.17, y: 2.31}
+    oldSize: {x: 2.37, y: 2.83}
     newSize: {x: 5.49, y: 4.37}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -22340,7 +22340,7 @@ SpriteRenderer:
   m_SortingLayerID: -1566057591
   m_SortingLayer: 2
   m_SortingOrder: 3
-  m_Sprite: {fileID: -4232038890851390005, guid: cf258fb55daecd644876f44ad29e06c1, type: 3}
+  m_Sprite: {fileID: -2634963356992672953, guid: a3333e6ed804d9b4bb30929320f7bbf1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -22630,7 +22630,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4454552920234499475, guid: ca4f0d0d789708c4eacff22d1cacc36f, type: 3}
+  m_Sprite: {fileID: -8406741013877765225, guid: 7fc1330a9a5e9814aa9f69b54d801a5b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
