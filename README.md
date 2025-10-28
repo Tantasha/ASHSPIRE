@@ -17,12 +17,12 @@ A unity story 2D game project about nurturing dragons and battle evil sorcerers 
 -build and run the program with the android phone connected to the computer/laptop
 -open the application in the android device.
 ---
-##How To Play
+## How To Play
 -once the application launches, players can go through the tutorials or start straight away and press play.
 -controls: press the arrows.
 -objective: feed and nurture dragon in different environment to battle evil sorcerers.
 ---
-##Team members
+## Team members
 PRODUCT OWNER: Sou Jenny Yee ID:23195706
 SCRUM MASTER: Tasha Kim      ID:17978962
 DEV: John Rusty Catalan      ID:22186973
