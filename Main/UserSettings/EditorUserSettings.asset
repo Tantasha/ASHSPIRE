@@ -5,40 +5,6 @@ EditorUserSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 4
   m_ConfigSettings:
-<<<<<<< Updated upstream
-    RecentlyUsedSceneGuid-0:
-<<<<<<< HEAD
-      value: 5755515756515d025c0a0d2444710644424e1c7e782a7e642c7c4860e3e2626f
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 5a0902025c53510e0e5f5e731676084440164f2b7e7e716478714460e4b6356e
-      flags: 0
-    RecentlyUsedSceneGuid-2:
-      value: 0153050553015b0d5e5f557540760a44424f4a7d7b2b7e65282f4c6bbab4353b
-=======
-      value: 06025651560c580a585c5a76447509444715417f757b73352e2a4966b5b9373d
-      flags: 0
-    RecentlyUsedSceneGuid-1:
-      value: 0702050251540f0c540c082344215c44424e192e7a2a71337a2c1862b2b86d6d
-      flags: 0
-    RecentlyUsedSceneGuid-2:
-      value: 555551525504580b0e560d7512730e4444154a7d787d7e357c2f486be1b3666c
-      flags: 0
-    RecentlyUsedSceneGuid-3:
-      value: 05500c0350015f035f5f5c7249730b4444164f722e7070352b7c1c6be4b4313d
-      flags: 0
-    RecentlyUsedSceneGuid-4:
-      value: 5003560457575e0b540d5f20137b09444615487d2a7c2335752b4c30b5e5356a
-      flags: 0
-    RecentlyUsedSceneGuid-5:
-      value: 5a07030450015c580e085c7242725b4413161b78747077337a784d65b1b4673b
-      flags: 0
-    RecentlyUsedSceneGuid-6:
-      value: 5755515756515d025c0a0d2444710644424e1c7e782a7e642c7c4860e3e2626f
->>>>>>> parent of d91f1e5 (forest battle scene commit)
-      flags: 0
-=======
->>>>>>> Stashed changes
     vcSharedLogLevel:
       value: 0d5e400f0650
       flags: 0

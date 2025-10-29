@@ -169,7 +169,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -177,23 +176,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0
-    g: 1
-    b: 0
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -202,17 +184,12 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-=======
   m_AlphaHitTestMinimumThreshold: 0
   m_Tracked: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
   m_CachedReferencePixelsPerUnit: 100
   m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &119499269
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5114,7 +5091,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::HealthBar
   slider: {fileID: 453776711}
   gradient:
-<<<<<<< Updated upstream
     serializedVersion: 2
     key0: {r: 1, g: 0.1523969, b: 0, a: 0.5568628}
     key1: {r: 0, g: 0.9607844, b: 0, a: 0.5568628}
@@ -5124,48 +5100,6 @@ MonoBehaviour:
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-=======
-    key0:
-      r: 0.7106918
-      g: 0.1050393
-      b: 0.1050393
-      a: 1
-    key1:
-      r: 0
-      g: 0.9607844
-      b: 0
-      a: 1
-    key2:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key3:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key4:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key5:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key6:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key7:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
->>>>>>> Stashed changes
     ctime0: 0
     ctime1: 65535
     ctime2: 0
@@ -5199,10 +5133,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -5212,7 +5142,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -5225,36 +5154,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -5263,14 +5162,11 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
-<<<<<<< Updated upstream
-=======
   m_GroupsAllowInteraction: 1
   m_CurrentIndex: 1
   <isPointerInside>k__BackingField: 0
   <isPointerDown>k__BackingField: 0
   <hasSelection>k__BackingField: 0
->>>>>>> Stashed changes
   m_FillRect: {fileID: 1190079299}
   m_HandleRect: {fileID: 0}
   m_Direction: 1
@@ -5281,8 +5177,6 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< Updated upstream
-=======
     m_CallsDirty: 1
   m_FillImage: {fileID: 1190079300}
   m_FillTransform: {fileID: 1190079299}
@@ -5291,7 +5185,6 @@ MonoBehaviour:
   m_HandleContainerRect: {fileID: 0}
   m_Offset: {x: 0, y: 0}
   m_DelayedUpdateVisuals: 0
->>>>>>> Stashed changes
 --- !u!1 &534014357
 GameObject:
   m_ObjectHideFlags: 0
@@ -5351,7 +5244,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -5409,169 +5301,11 @@ MonoBehaviour:
   parentLinkedComponent: {fileID: 0}
   m_enableKerning: 0
   m_ActiveFontFeatures: 6e72656b
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 1
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
-  m_text: 'Special: '
-  m_IsTextBackingStringDirty: 0
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 3dde07bda1e067e4996649d635e70723, type: 2}
-  m_currentFontAsset: {fileID: 11400000, guid: 3dde07bda1e067e4996649d635e70723, type: 2}
-  m_isSDFShader: 1
-  m_sharedMaterial: {fileID: 8222893419089321859, guid: 3dde07bda1e067e4996649d635e70723, type: 2}
-  m_currentMaterial: {fileID: 8222893419089321859, guid: 3dde07bda1e067e4996649d635e70723, type: 2}
-  m_currentMaterialIndex: 0
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_isMaterialDirty: 0
-  m_fontColor32:
-    rgba: 16777215
-  m_fontColor:
-    r: 1
-    g: 1
-    b: 1
-    a: 0
-  m_underlineColor:
-    rgba: 16777215
-  m_strikethroughColor:
-    rgba: 16777215
-  m_ConvertToLinearSpace: 0
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    topRight:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    bottomLeft:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    bottomRight:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_tintSprite: 0
-  m_spriteColor:
-    rgba: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyle:
-    m_Name: Normal
-    m_HashCode: -1183493901
-    m_OpeningDefinition: 
-    m_ClosingDefinition: 
-    m_OpeningTagArray: []
-    m_ClosingTagArray: []
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    rgba: 4294967295
-  m_outlineColor:
-    rgba: 4278190080
-  m_outlineWidth: 0
-  m_currentEnvMapRotation: {x: 0, y: 0, z: 0}
-  m_hasEnvMapProperty: 0
-  m_fontSize: 36
-  m_currentFontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_FontWeightInternal: 700
-  m_enableAutoSizing: 0
-  m_maxFontSize: 72
-  m_minFontSize: 18
-  m_AutoSizeIterationCount: 1
-  m_AutoSizeMaxIterationCount: 100
-  m_IsAutoSizePointSizeSet: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 17
-  m_FontStyleInternal: 17
-  m_isUsingBold: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_lineJustification: 1
-  m_textContainerLocalCorners:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_characterSpacing: 0
-  m_cSpacing: 0
-  m_monoSpacing: 0
-  m_duoSpace: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingDelta: 0
-  m_lineHeight: -32767
-  m_IsDrivenLineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_charWidthAdjDelta: 0
-  m_TextWrappingMode: 1
-  m_isCharacterWrappingEnabled: 0
-  m_isNonBreakingSpace: 0
-  m_isIgnoringAlignment: 0
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_isTextTruncated: 0
-  m_enableKerning: 0
-  m_LastBaseGlyphIndex: 8
-  m_ActiveFontFeatures:
-  - 1801810542
->>>>>>> Stashed changes
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
   m_isRichText: 1
   m_EmojiFallbackSupport: 1
   m_parseCtrlCharacters: 1
-<<<<<<< Updated upstream
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_isUsingLegacyAnimationComponent: 0
-  m_isVolumetricText: 0
-  m_hasFontAssetChanged: 0
-  m_baseMaterial: {fileID: 0}
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-=======
   m_isOverlay: 0
   m_isOrthographic: 1
   m_isCullingEnabled: 0
@@ -5746,7 +5480,6 @@ MonoBehaviour:
     e31: 0
     e32: 0
     e33: 0
->>>>>>> Stashed changes
 --- !u!1 &585409174
 GameObject:
   m_ObjectHideFlags: 0
@@ -5781,15 +5514,9 @@ RectTransform:
   - {fileID: 637938179}
   m_Father: {fileID: 1105023946}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-=======
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 175, y: -120}
->>>>>>> Stashed changes
   m_SizeDelta: {x: 350, y: 240}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &585409176
@@ -5804,10 +5531,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -5817,7 +5540,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -5830,36 +5552,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -5868,7 +5560,6 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 585409177}
-<<<<<<< Updated upstream
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -5896,19 +5587,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-=======
-  m_GroupsAllowInteraction: 1
-  m_CurrentIndex: 2
-  <isPointerInside>k__BackingField: 0
-  <isPointerDown>k__BackingField: 0
-  <hasSelection>k__BackingField: 0
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - {m_Target: {fileID: 1562890157}, m_TargetAssemblyTypeName: Enemy, Assembly-CSharp, m_MethodName: TakeDamage, m_Mode: 3, m_Arguments: {m_ObjectArgument: {fileID: 0}, m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, m_IntArgument: 10, m_FloatArgument: 0, m_StringArgument: , m_BoolArgument: 0}, m_CallState: 2}
-      - {m_Target: {fileID: 1735380494}, m_TargetAssemblyTypeName: SpecialBarSystem, Assembly-CSharp, m_MethodName: AddSpecialEnergy, m_Mode: 1, m_Arguments: {m_ObjectArgument: {fileID: 0}, m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, m_IntArgument: 0, m_FloatArgument: 0, m_StringArgument: , m_BoolArgument: 0}, m_CallState: 2}
-    m_CallsDirty: 1
->>>>>>> Stashed changes
 --- !u!114 &585409177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5922,7 +5600,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -5930,23 +5607,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: -3158865958768842162, guid: 8a6ce03a85d189b46a8afa953dfc0caf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -5955,17 +5615,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &585409178
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6068,7 +5719,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -6076,23 +5726,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0
-    g: 0
-    b: 0
-    a: 0.9019608
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 3
   m_PreserveAspect: 0
@@ -6101,17 +5734,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 2
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!1 &744773478
 GameObject:
   m_ObjectHideFlags: 0
@@ -6163,7 +5787,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 0.912438, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -6171,23 +5794,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 0.912438
-    b: 0
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -6196,17 +5802,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &744773481
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6227,10 +5824,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -6240,7 +5833,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -6253,36 +5845,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -6291,7 +5853,6 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 744773480}
-<<<<<<< Updated upstream
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -6307,18 +5868,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-=======
-  m_GroupsAllowInteraction: 1
-  m_CurrentIndex: 1
-  <isPointerInside>k__BackingField: 0
-  <isPointerDown>k__BackingField: 0
-  <hasSelection>k__BackingField: 0
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - {m_Target: {fileID: 1735380494}, m_TargetAssemblyTypeName: SpecialBarSystem, Assembly-CSharp, m_MethodName: AddSpecialEnergy, m_Mode: 1, m_Arguments: {m_ObjectArgument: {fileID: 0}, m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, m_IntArgument: 0, m_FloatArgument: 0, m_StringArgument: , m_BoolArgument: 0}, m_CallState: 2}
-    m_CallsDirty: 1
->>>>>>> Stashed changes
 --- !u!1 &799538083
 GameObject:
   m_ObjectHideFlags: 0
@@ -6369,7 +5918,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0.1, g: 0.1, b: 0.1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -6377,23 +5925,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0.1
-    g: 0.1
-    b: 0.1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: -8038419202229254384, guid: 17026eb7ce293644f8ed852822b7a7b2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -6402,17 +5933,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &799538086
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6533,10 +6055,7 @@ MonoBehaviour:
   m_Cameras: []
   m_RendererIndex: -1
   m_VolumeLayerMask:
-<<<<<<< Updated upstream
     serializedVersion: 2
-=======
->>>>>>> Stashed changes
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_VolumeFrameworkUpdateModeOption: 2
@@ -11428,7 +10947,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -11436,23 +10954,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0
-    g: 0
-    b: 0
-    a: 0.9019608
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 3
   m_PreserveAspect: 0
@@ -11461,17 +10962,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 2
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1021874609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11549,7 +11041,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0.1, g: 0.1, b: 0.1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -11557,23 +11048,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0.1
-    g: 0.1
-    b: 0.1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: -8038419202229254384, guid: 17026eb7ce293644f8ed852822b7a7b2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -11582,17 +11056,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1067670790
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11660,12 +11125,6 @@ MonoBehaviour:
     m_Top: 0
     m_Bottom: 0
   m_ChildAlignment: 0
-<<<<<<< Updated upstream
-=======
-  m_TotalMinSize: {x: 350, y: 720}
-  m_TotalPreferredSize: {x: 350, y: 720}
-  m_TotalFlexibleSize: {x: 1, y: 3}
->>>>>>> Stashed changes
   m_Spacing: 0
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
@@ -11674,21 +11133,6 @@ MonoBehaviour:
   m_ChildScaleWidth: 0
   m_ChildScaleHeight: 0
   m_ReverseArrangement: 0
-<<<<<<< Updated upstream
-=======
-  m_Capacity: 10
-  m_Sizes:
-  - {x: 350, y: 240}
-  - {x: 350, y: 240}
-  - {x: 350, y: 240}
-  - {x: 0, y: 0}
-  - {x: 0, y: 0}
-  - {x: 0, y: 0}
-  - {x: 0, y: 0}
-  - {x: 0, y: 0}
-  - {x: 0, y: 0}
-  - {x: 0, y: 0}
->>>>>>> Stashed changes
 --- !u!114 &1105023948
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11702,7 +11146,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 0}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -11710,23 +11153,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 0
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -11735,17 +11161,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1105023949
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -11787,11 +11204,7 @@ RectTransform:
   m_Father: {fileID: 1687174118}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-<<<<<<< Updated upstream
   m_AnchorMax: {x: 0, y: 0}
-=======
-  m_AnchorMax: {x: 0, y: 1}
->>>>>>> Stashed changes
   m_AnchoredPosition: {x: 4.5600586, y: 0.000091552734}
   m_SizeDelta: {x: -4.44, y: -0.00020981}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -11816,7 +11229,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0.94427156, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -11824,23 +11236,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0.94427156
-    g: 1
-    b: 0
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -11849,17 +11244,8 @@ MonoBehaviour:
   m_FillAmount: 0
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!1 &1183806709
 GameObject:
   m_ObjectHideFlags: 0
@@ -11891,17 +11277,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.InputSystem::UnityEngine.InputSystem.UI.InputSystemUIInputModule
   m_SendPointerHoverToParent: 1
-<<<<<<< Updated upstream
   m_MoveRepeatDelay: 0.5
   m_MoveRepeatRate: 0.1
-=======
-  m_EventSystem: {fileID: 0}
-  m_InputOverride: {fileID: 0}
-  m_DefaultInput: {fileID: 0}
-  m_MoveRepeatDelay: 0.5
-  m_MoveRepeatRate: 0.1
-  m_TrackedDeviceDragThresholdMultiplier: 2
->>>>>>> Stashed changes
   m_XRTrackingOrigin: {fileID: 0}
   m_ActionsAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
   m_PointAction: {fileID: -1654692200621890270, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
@@ -11930,20 +11307,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.EventSystems.EventSystem
-<<<<<<< Updated upstream
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
-=======
-  m_SystemInputModules: []
-  m_CurrentInputModule: {fileID: 0}
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
-  m_CurrentSelected: {fileID: 0}
-  m_HasFocus: 1
-  m_SelectionGuard: 0
->>>>>>> Stashed changes
 --- !u!4 &1183806712
 Transform:
   m_ObjectHideFlags: 0
@@ -11992,11 +11358,7 @@ RectTransform:
   m_Father: {fileID: 619925018}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
-<<<<<<< Updated upstream
   m_AnchorMax: {x: 0, y: 0}
-=======
-  m_AnchorMax: {x: 1, y: 1}
->>>>>>> Stashed changes
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 10, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
@@ -12013,7 +11375,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0, g: 1, b: 0, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -12021,23 +11382,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0
-    g: 1
-    b: 0
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 1
   m_PreserveAspect: 0
@@ -12046,17 +11390,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1190079301
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -12123,7 +11458,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0, g: 0, b: 0, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -12131,23 +11465,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0
-    g: 0
-    b: 0
-    a: 0.9019608
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 10911, guid: 0000000000000000f000000000000000, type: 0}
   m_Type: 3
   m_PreserveAspect: 0
@@ -12156,17 +11473,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 2
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!1 &1247535882
 GameObject:
   m_ObjectHideFlags: 0
@@ -17041,7 +16349,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -17049,23 +16356,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 729941550878507491, guid: 23ac094810d4b4a4ea29666e005f0117, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -17074,17 +16364,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1329627391
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17105,20 +16386,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
-<<<<<<< Updated upstream
   m_IgnoreReversedGraphics: 1
   m_BlockingObjects: 0
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-=======
-  m_RootRaycaster: {fileID: 0}
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    m_Bits: 4294967295
-  m_Canvas: {fileID: 0}
->>>>>>> Stashed changes
 --- !u!114 &1329627393
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17141,10 +16413,6 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-<<<<<<< Updated upstream
-=======
-  m_Canvas: {fileID: 1329627394}
->>>>>>> Stashed changes
   m_PresetInfoIsWorld: 0
 --- !u!223 &1329627394
 Canvas:
@@ -17246,7 +16514,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::HealthBar
   slider: {fileID: 1356158503}
   gradient:
-<<<<<<< Updated upstream
     serializedVersion: 2
     key0: {r: 1, g: 0.1523969, b: 0, a: 0.5568628}
     key1: {r: 0, g: 0.9607844, b: 0, a: 0.5568628}
@@ -17256,48 +16523,6 @@ MonoBehaviour:
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-=======
-    key0:
-      r: 0.7106918
-      g: 0.1050393
-      b: 0.1050393
-      a: 1
-    key1:
-      r: 0
-      g: 0.9607844
-      b: 0
-      a: 1
-    key2:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key3:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key4:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key5:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key6:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
-    key7:
-      r: 0
-      g: 0
-      b: 0
-      a: 0
->>>>>>> Stashed changes
     ctime0: 0
     ctime1: 65535
     ctime2: 0
@@ -17331,10 +16556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -17344,7 +16565,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -17357,36 +16577,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -17395,14 +16585,6 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-  m_GroupsAllowInteraction: 1
-  m_CurrentIndex: 6
-  <isPointerInside>k__BackingField: 0
-  <isPointerDown>k__BackingField: 0
-  <hasSelection>k__BackingField: 0
->>>>>>> Stashed changes
   m_FillRect: {fileID: 119499267}
   m_HandleRect: {fileID: 0}
   m_Direction: 0
@@ -17413,17 +16595,6 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< Updated upstream
-=======
-    m_CallsDirty: 1
-  m_FillImage: {fileID: 119499268}
-  m_FillTransform: {fileID: 119499267}
-  m_FillContainerRect: {fileID: 1672878306}
-  m_HandleTransform: {fileID: 0}
-  m_HandleContainerRect: {fileID: 0}
-  m_Offset: {x: 0, y: 0}
-  m_DelayedUpdateVisuals: 0
->>>>>>> Stashed changes
 --- !u!68 &1356158504
 EdgeCollider2D:
   m_ObjectHideFlags: 0
@@ -17573,10 +16744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Slider
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -17586,7 +16753,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -17599,36 +16765,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -17637,14 +16773,6 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
-<<<<<<< Updated upstream
-=======
-  m_GroupsAllowInteraction: 1
-  m_CurrentIndex: 1
-  <isPointerInside>k__BackingField: 0
-  <isPointerDown>k__BackingField: 0
-  <hasSelection>k__BackingField: 0
->>>>>>> Stashed changes
   m_FillRect: {fileID: 1136575639}
   m_HandleRect: {fileID: 0}
   m_Direction: 0
@@ -17655,17 +16783,6 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
-<<<<<<< Updated upstream
-=======
-    m_CallsDirty: 1
-  m_FillImage: {fileID: 1136575641}
-  m_FillTransform: {fileID: 1136575639}
-  m_FillContainerRect: {fileID: 1687174118}
-  m_HandleTransform: {fileID: 0}
-  m_HandleContainerRect: {fileID: 0}
-  m_Offset: {x: 0, y: 0}
-  m_DelayedUpdateVisuals: 0
->>>>>>> Stashed changes
 --- !u!1 &1479831075
 GameObject:
   m_ObjectHideFlags: 0
@@ -17716,7 +16833,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 0.1, g: 0.1, b: 0.1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -17724,23 +16840,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 0.1
-    g: 0.1
-    b: 0.1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: -8038419202229254384, guid: 17026eb7ce293644f8ed852822b7a7b2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -17749,17 +16848,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1479831078
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -17801,15 +16891,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   maxHealth: 100
-<<<<<<< Updated upstream
   healthBar: {fileID: 453776710}
   dragon: {fileID: 1975598553}
-=======
-  currentHealth: 0
-  healthBar: {fileID: 453776710}
-  dragon: {fileID: 1975598553}
-  dragonScript: {fileID: 0}
->>>>>>> Stashed changes
   minDamage: 2
   maxDamage: 5
   minAttackDelay: 3
@@ -17946,11 +17029,7 @@ SpriteRenderer:
   m_Size: {x: 5.49, y: 4.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< Updated upstream
   m_WasSpriteAssigned: 1
-=======
-  m_WasSpriteAssigned: 0
->>>>>>> Stashed changes
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1562890161
@@ -18002,15 +17081,9 @@ RectTransform:
   - {fileID: 1211162069}
   m_Father: {fileID: 1105023946}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-=======
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 175, y: -395.48666}
->>>>>>> Stashed changes
   m_SizeDelta: {x: 350, y: 240}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1589246037
@@ -18025,10 +17098,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -18038,7 +17107,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -18051,36 +17119,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -18089,7 +17127,6 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 1589246038}
-<<<<<<< Updated upstream
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -18105,18 +17142,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-=======
-  m_GroupsAllowInteraction: 1
-  m_CurrentIndex: 1
-  <isPointerInside>k__BackingField: 0
-  <isPointerDown>k__BackingField: 0
-  <hasSelection>k__BackingField: 0
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - {m_Target: {fileID: 1735380494}, m_TargetAssemblyTypeName: SpecialBarSystem, Assembly-CSharp, m_MethodName: AddSpecialEnergy, m_Mode: 1, m_Arguments: {m_ObjectArgument: {fileID: 0}, m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, m_IntArgument: 0, m_FloatArgument: 0, m_StringArgument: , m_BoolArgument: 0}, m_CallState: 2}
-    m_CallsDirty: 1
->>>>>>> Stashed changes
 --- !u!114 &1589246038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18130,7 +17155,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -18138,23 +17162,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: -5756738934453839238, guid: d59941cc492de2b4ea6122538b36c3c8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -18163,17 +17170,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1589246039
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18224,12 +17222,6 @@ MonoBehaviour:
   attackCD: 5
   shieldCD: 10
   healCD: 15
-<<<<<<< Updated upstream
-=======
-  attackTimer: 0
-  shieldTimer: 0
-  healTimer: 0
->>>>>>> Stashed changes
 --- !u!4 &1631922560
 Transform:
   m_ObjectHideFlags: 0
@@ -18295,7 +17287,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 0, a: 0.39215687}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -18303,23 +17294,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 0
-    a: 0.39215687
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
@@ -18328,17 +17302,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &1665808669
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -18461,31 +17426,9 @@ MonoBehaviour:
   attackBoostAmount: 3
   boostDuration: 5
   glowPulseSpeed: 1
-<<<<<<< Updated upstream
   normalBarColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   healingBarColor: {r: 1, g: 0.6470588, b: 0, a: 1}
   attackBarColor: {r: 1, g: 0, b: 0, a: 1}
-=======
-  normalBarColor:
-    r: 1
-    g: 0.92156863
-    b: 0.015686275
-    a: 1
-  healingBarColor:
-    r: 1
-    g: 0.6470588
-    b: 0
-    a: 1
-  attackBarColor:
-    r: 1
-    g: 0
-    b: 0
-    a: 1
-  currentSpecialEnergy: 0
-  isSpecialReady: 0
-  isSpecialActive: 0
-  isAttackBoosted: 0
->>>>>>> Stashed changes
 --- !u!4 &1735380495
 Transform:
   m_ObjectHideFlags: 0
@@ -23497,12 +22440,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::move
   speed: 5
-<<<<<<< Updated upstream
-=======
-  rb: {fileID: 0}
-  hmoveInput: 0
-  vmoveInput: 0
->>>>>>> Stashed changes
 --- !u!50 &1975598557
 Rigidbody2D:
   serializedVersion: 5
@@ -23575,11 +22512,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1566057591
-<<<<<<< Updated upstream
   m_SortingLayer: 0
-=======
-  m_SortingLayer: 2
->>>>>>> Stashed changes
   m_SortingOrder: 3
   m_Sprite: {fileID: 862759729671411747, guid: a9a345ffededc96459aa21c30d4543dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -23589,11 +22522,7 @@ SpriteRenderer:
   m_Size: {x: 5.49, y: 4.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-<<<<<<< Updated upstream
   m_WasSpriteAssigned: 1
-=======
-  m_WasSpriteAssigned: 0
->>>>>>> Stashed changes
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &1975598559
@@ -23662,7 +22591,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -23720,152 +22648,11 @@ MonoBehaviour:
   parentLinkedComponent: {fileID: 0}
   m_enableKerning: 0
   m_ActiveFontFeatures: 6e72656b
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 1
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
-  m_text: New Text
-  m_IsTextBackingStringDirty: 0
-  m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_currentFontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_isSDFShader: 1
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_currentMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_currentMaterialIndex: 0
-  m_fontSharedMaterials: []
-  m_fontMaterial: {fileID: 0}
-  m_fontMaterials: []
-  m_isMaterialDirty: 0
-  m_fontColor32:
-    rgba: 16777215
-  m_fontColor:
-    r: 1
-    g: 1
-    b: 1
-    a: 0
-  m_underlineColor:
-    rgba: 16777215
-  m_strikethroughColor:
-    rgba: 16777215
-  m_ConvertToLinearSpace: 0
-  m_enableVertexGradient: 0
-  m_colorMode: 3
-  m_fontColorGradient:
-    topLeft:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    topRight:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    bottomLeft:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    bottomRight:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-  m_fontColorGradientPreset: {fileID: 0}
-  m_spriteAsset: {fileID: 0}
-  m_tintAllSprites: 0
-  m_tintSprite: 0
-  m_spriteColor:
-    rgba: 0
-  m_StyleSheet: {fileID: 0}
-  m_TextStyle:
-    m_Name: Normal
-    m_HashCode: -1183493901
-    m_OpeningDefinition: 
-    m_ClosingDefinition: 
-    m_OpeningTagArray: []
-    m_ClosingTagArray: []
-  m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
-  m_faceColor:
-    rgba: 4294967295
-  m_outlineColor:
-    rgba: 4278190080
-  m_outlineWidth: 0
-  m_currentEnvMapRotation: {x: 0, y: 0, z: 0}
-  m_hasEnvMapProperty: 0
-  m_fontSize: 36
-  m_currentFontSize: 36
-  m_fontSizeBase: 36
-  m_fontWeight: 400
-  m_FontWeightInternal: 400
-  m_enableAutoSizing: 0
-  m_maxFontSize: 72
-  m_minFontSize: 18
-  m_AutoSizeIterationCount: 1
-  m_AutoSizeMaxIterationCount: 100
-  m_IsAutoSizePointSizeSet: 1
-  m_fontSizeMin: 18
-  m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_FontStyleInternal: 0
-  m_isUsingBold: 0
-  m_HorizontalAlignment: 1
-  m_VerticalAlignment: 256
-  m_textAlignment: 65535
-  m_lineJustification: 1
-  m_textContainerLocalCorners:
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  - {x: 0, y: 0, z: 0}
-  m_characterSpacing: 0
-  m_cSpacing: 0
-  m_monoSpacing: 0
-  m_duoSpace: 0
-  m_wordSpacing: 0
-  m_lineSpacing: 0
-  m_lineSpacingDelta: 0
-  m_lineHeight: -32767
-  m_IsDrivenLineSpacing: 0
-  m_lineSpacingMax: 0
-  m_paragraphSpacing: 0
-  m_charWidthMaxAdj: 0
-  m_charWidthAdjDelta: 0
-  m_TextWrappingMode: 1
-  m_isCharacterWrappingEnabled: 0
-  m_isNonBreakingSpace: 0
-  m_isIgnoringAlignment: 0
-  m_wordWrappingRatios: 0.4
-  m_overflowMode: 0
-  m_firstOverflowCharacterIndex: -1
-  m_linkedTextComponent: {fileID: 0}
-  parentLinkedComponent: {fileID: 0}
-  m_isTextTruncated: 0
-  m_enableKerning: 0
-  m_LastBaseGlyphIndex: 7
-  m_ActiveFontFeatures:
-  - 1801810542
->>>>>>> Stashed changes
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
   m_isRichText: 1
   m_EmojiFallbackSupport: 1
   m_parseCtrlCharacters: 1
-<<<<<<< Updated upstream
   m_isOrthographic: 1
   m_isCullingEnabled: 0
   m_horizontalMapping: 0
@@ -23882,182 +22669,6 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-=======
-  m_isOverlay: 0
-  m_isOrthographic: 1
-  m_isCullingEnabled: 0
-  m_isMaskingEnabled: 0
-  isMaskUpdateRequired: 0
-  m_ignoreCulling: 1
-  m_horizontalMapping: 0
-  m_verticalMapping: 0
-  m_uvLineOffset: 0
-  m_renderMode: 255
-  m_geometrySortingOrder: 0
-  m_IsTextObjectScaleStatic: 0
-  m_VertexBufferAutoSizeReduction: 0
-  m_firstVisibleCharacter: 0
-  m_maxVisibleCharacters: 99999
-  m_maxVisibleWords: 99999
-  m_maxVisibleLines: 99999
-  m_useMaxVisibleDescender: 1
-  m_pageToDisplay: 1
-  m_isNewPage: 0
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
-  m_marginLeft: 0
-  m_marginRight: 0
-  m_marginWidth: 200
-  m_marginHeight: 50
-  m_width: -1
-  m_textInfo: {textComponent: {fileID: 1987722860}, characterCount: 8, spriteCount: 0, spaceCount: 1, wordCount: 2, linkCount: 0, lineCount: 1, pageCount: 1, materialCount: 1}
-  m_havePropertiesChanged: 0
-  m_isUsingLegacyAnimationComponent: 0
-  m_transform: {fileID: 1987722859}
-  m_rectTransform: {fileID: 1987722859}
-  m_PreviousRectTransformSize: {x: 200, y: 50}
-  m_PreviousPivotPosition: {x: 0.5, y: 0.5}
-  <autoSizeTextContainer>k__BackingField: 0
-  m_autoSizeTextContainer: 0
-  m_mesh: {fileID: 0}
-  m_isVolumetricText: 0
-  m_spriteAnimator: {fileID: 0}
-  m_flexibleHeight: -1
-  m_flexibleWidth: -1
-  m_minWidth: 0
-  m_minHeight: 0
-  m_maxWidth: 0
-  m_maxHeight: 0
-  m_LayoutElement: {fileID: 0}
-  m_preferredWidth: 0
-  m_RenderedWidth: 0
-  m_isPreferredWidthDirty: 1
-  m_preferredHeight: 0
-  m_RenderedHeight: 0
-  m_isPreferredHeightDirty: 1
-  m_isCalculatingPreferredValues: 0
-  m_layoutPriority: 0
-  m_isLayoutDirty: 0
-  m_isAwake: 1
-  m_isWaitingOnResourceLoad: 0
-  m_inputSource: 0
-  m_fontScaleMultiplier: 1
-  tag_LineIndent: 0
-  tag_Indent: 0
-  tag_NoParsing: 0
-  m_isTextLayoutPhase: 0
-  m_FXRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_FXScale: {x: 1, y: 1, z: 1}
-  m_InternalTextProcessingArraySize: 8
-  m_totalCharacterCount: 8
-  m_characterCount: 8
-  m_firstCharacterOfLine: 0
-  m_firstVisibleCharacterOfLine: 0
-  m_lastCharacterOfLine: 7
-  m_lastVisibleCharacterOfLine: 7
-  m_lineNumber: 0
-  m_lineVisibleCharacterCount: 7
-  m_lineVisibleSpaceCount: 0
-  m_pageNumber: 0
-  m_PageAscender: 32.589844
-  m_maxTextAscender: 32.589844
-  m_maxCapHeight: 24.697674
-  m_ElementAscender: 32.589844
-  m_ElementDescender: -7.6289062
-  m_maxLineAscender: 32.589844
-  m_maxLineDescender: -7.6289062
-  m_startOfLineAscender: 0
-  m_startOfLineDescender: 0
-  m_lineOffset: 0
-  m_htmlColor:
-    rgba: 16777215
-  m_colorGradientPreset: {fileID: 0}
-  m_colorGradientPresetIsTinted: 0
-  m_tabSpacing: 0
-  m_spacing: 0
-  m_TextStyleStackDepth: 0
-  m_ItalicAngle: 35
-  m_padding: 1.25
-  m_baselineOffset: 0
-  m_xAdvance: 146.89752
-  m_textElementType: 0
-  m_cached_TextElement:
-    m_ElementType: 1
-    m_Unicode: 116
-    m_TextAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-    m_Glyph:
-      m_Index: 87
-      m_Metrics:
-        m_Width: 23
-        m_Height: 56
-        m_HorizontalBearingX: 1
-        m_HorizontalBearingY: 55
-        m_HorizontalAdvance: 24
-      m_GlyphRect:
-        m_X: 388
-        m_Y: 672
-        m_Width: 23
-        m_Height: 56
-      m_Scale: 1
-      m_AtlasIndex: 0
-      m_ClassDefinitionType: 0
-    m_GlyphIndex: 87
-    m_Scale: 1
-  m_defaultSpriteAsset: {fileID: 0}
-  m_currentSpriteAsset: {fileID: 0}
-  m_spriteCount: 0
-  m_spriteIndex: 0
-  m_spriteAnimationID: 0
-  m_ignoreActiveState: 0
-  m_isRebuildingLayout: 0
-  m_ShouldUpdateCulling: 0
-  m_ClipRect:
-    x: 0
-    y: 0
-    width: 0
-    height: 0
-  m_ValidRect: 0
-  m_hasFontAssetChanged: 0
-  m_subTextObjects:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  m_previousLossyScaleY: 0.016811397
-  m_RectTransformCorners:
-  - {x: -100, y: -25, z: 0}
-  - {x: -100, y: 25, z: 0}
-  - {x: 100, y: 25, z: 0}
-  - {x: 100, y: -25, z: 0}
-  m_canvasRenderer: {fileID: 1987722861}
-  m_canvas: {fileID: 1329627394}
-  m_CanvasScaleFactor: 1
-  m_isFirstAllocation: 1
-  m_max_characters: 8
-  m_baseMaterial: {fileID: 0}
-  m_isScrollRegionSet: 0
-  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
-  m_EnvMapMatrix:
-    e00: 0
-    e01: 0
-    e02: 0
-    e03: 0
-    e10: 0
-    e11: 0
-    e12: 0
-    e13: 0
-    e20: 0
-    e21: 0
-    e22: 0
-    e23: 0
-    e30: 0
-    e31: 0
-    e32: 0
-    e33: 0
->>>>>>> Stashed changes
 --- !u!222 &1987722861
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -24100,15 +22711,9 @@ RectTransform:
   - {fileID: 1021874610}
   m_Father: {fileID: 1105023946}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-=======
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 175, y: -670.9733}
->>>>>>> Stashed changes
   m_SizeDelta: {x: 350, y: 240}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2090967846
@@ -24123,10 +22728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
-<<<<<<< Updated upstream
-=======
-  m_EnableCalled: 0
->>>>>>> Stashed changes
   m_Navigation:
     m_Mode: 3
     m_WrapAround: 0
@@ -24136,7 +22737,6 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 0
   m_Colors:
-<<<<<<< Updated upstream
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
@@ -24149,36 +22749,6 @@ MonoBehaviour:
     m_PressedSprite: {fileID: 0}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
-=======
-    m_NormalColor:
-      r: 1
-      g: 1
-      b: 1
-      a: 1
-    m_HighlightedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_PressedColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 1
-    m_SelectedColor:
-      r: 0.9607843
-      g: 0.9607843
-      b: 0.9607843
-      a: 1
-    m_DisabledColor:
-      r: 0.78431374
-      g: 0.78431374
-      b: 0.78431374
-      a: 0.5019608
-    m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
-  m_SpriteState: {m_HighlightedSprite: {fileID: 0}, m_PressedSprite: {fileID: 0}, m_SelectedSprite: {fileID: 0}, m_DisabledSprite: {fileID: 0}}
->>>>>>> Stashed changes
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -24187,7 +22757,6 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 1
   m_TargetGraphic: {fileID: 2090967847}
-<<<<<<< Updated upstream
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
@@ -24215,19 +22784,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-=======
-  m_GroupsAllowInteraction: 1
-  m_CurrentIndex: 0
-  <isPointerInside>k__BackingField: 0
-  <isPointerDown>k__BackingField: 0
-  <hasSelection>k__BackingField: 0
-  m_OnClick:
-    m_PersistentCalls:
-      m_Calls:
-      - {m_Target: {fileID: 1975598559}, m_TargetAssemblyTypeName: ForestDragon, Assembly-CSharp, m_MethodName: Heal, m_Mode: 3, m_Arguments: {m_ObjectArgument: {fileID: 0}, m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, m_IntArgument: 15, m_FloatArgument: 0, m_StringArgument: , m_BoolArgument: 0}, m_CallState: 2}
-      - {m_Target: {fileID: 1735380494}, m_TargetAssemblyTypeName: SpecialBarSystem, Assembly-CSharp, m_MethodName: AddSpecialEnergy, m_Mode: 1, m_Arguments: {m_ObjectArgument: {fileID: 0}, m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine, m_IntArgument: 0, m_FloatArgument: 0, m_StringArgument: , m_BoolArgument: 0}, m_CallState: 2}
-    m_CallsDirty: 1
->>>>>>> Stashed changes
 --- !u!114 &2090967847
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -24241,7 +22797,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-<<<<<<< Updated upstream
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
@@ -24249,23 +22804,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-=======
-  m_Color:
-    r: 1
-    g: 1
-    b: 1
-    a: 1
-  m_RaycastTarget: 1
-  m_RaycastTargetCache: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  <useLegacyMeshGeneration>k__BackingField: 0
-  m_Maskable: 1
-  m_IsMaskingGraphic: 0
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_CallsDirty: 1
->>>>>>> Stashed changes
   m_Sprite: {fileID: -1385968670661642874, guid: 1316e99cb4761cb4180a175904fe0195, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
@@ -24274,17 +22812,8 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-<<<<<<< Updated upstream
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
-=======
-  m_AlphaHitTestMinimumThreshold: 0
-  m_Tracked: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
-  m_CachedReferencePixelsPerUnit: 100
-  m_SecondaryTextures: []
->>>>>>> Stashed changes
 --- !u!222 &2090967848
 CanvasRenderer:
   m_ObjectHideFlags: 0

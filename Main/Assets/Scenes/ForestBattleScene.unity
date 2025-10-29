@@ -5236,8 +5236,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'Special: '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 3dde07bda1e067e4996649d635e70723, type: 2}
-  m_sharedMaterial: {fileID: 8222893419089321859, guid: 3dde07bda1e067e4996649d635e70723, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -5388,9 +5388,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1562890157}
+      - m_Target: {fileID: 1562890156}
         m_TargetAssemblyTypeName: Enemy, Assembly-CSharp
-        m_MethodName: TakeDamage
+        m_MethodName: 
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5984,7 +5984,7 @@ ParticleSystemRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 669640829
-  m_SortingLayer: 1
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_RenderMode: 0
   m_MeshDistribution: 0
@@ -16260,7 +16260,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!224 &1329627395
 RectTransform:
@@ -16603,9 +16603,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 100
-  m_WholeNumbers: 1
-  m_Value: 36
+  m_MaxValue: 1
+  m_WholeNumbers: 0
+  m_Value: 0
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -16696,7 +16696,6 @@ GameObject:
   - component: {fileID: 1562890160}
   - component: {fileID: 1562890159}
   - component: {fileID: 1562890158}
-  - component: {fileID: 1562890157}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Enemy
@@ -16704,29 +16703,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1562890157
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1562890156}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9fd753254aa80a94f8d58f1354dd3bf2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  maxHealth: 100
-  healthBar: {fileID: 453776710}
-  dragon: {fileID: 1975598553}
-  minDamage: 5
-  maxDamage: 10
-  minAttackDelay: 3
-  maxAttackDelay: 5
-  autoAttack: 1
-  isAttacking: 0
-  loadScene: controls
-  delayBeforeTransition: 0.5
 --- !u!61 &1562890158
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -16855,7 +16831,7 @@ SpriteRenderer:
   m_Size: {x: 5.49, y: 4.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1562890161
@@ -22348,7 +22324,7 @@ SpriteRenderer:
   m_Size: {x: 5.49, y: 4.37}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!114 &1975598559

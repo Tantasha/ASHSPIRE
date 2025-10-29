@@ -1,6 +1,5 @@
 {
   "dependencies": {
-<<<<<<< Updated upstream
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,
@@ -72,15 +71,12 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
       "source": "builtin",
       "dependencies": {}
     },
-<<<<<<< Updated upstream
     "com.unity.2d.spriteshape": {
       "version": "12.0.1",
       "depth": 0,
@@ -92,8 +88,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.2d.tilemap": {
       "version": "1.0.0",
       "depth": 0,
@@ -103,7 +97,6 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
-<<<<<<< Updated upstream
     "com.unity.2d.tilemap.extras": {
       "version": "5.0.1",
       "depth": 0,
@@ -115,8 +108,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.ads": {
       "version": "4.4.2",
       "depth": 0,
@@ -126,7 +117,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.ai.assistant": {
       "version": "1.0.0-pre.12",
       "depth": 0,
@@ -162,8 +152,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
@@ -173,7 +161,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.ai.toolkit": {
       "version": "1.0.0-pre.20",
       "depth": 1,
@@ -183,8 +170,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.analytics": {
       "version": "3.8.1",
       "depth": 0,
@@ -195,7 +180,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.burst": {
       "version": "1.8.24",
       "depth": 1,
@@ -208,16 +192,11 @@
     },
     "com.unity.collab-proxy": {
       "version": "2.9.2",
-=======
-    "com.unity.collab-proxy": {
-      "version": "2.8.2",
->>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.collections": {
       "version": "2.5.7",
       "depth": 1,
@@ -250,15 +229,12 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
-<<<<<<< Updated upstream
     "com.unity.feature.2d": {
       "version": "2.0.1",
       "depth": 0,
@@ -274,8 +250,6 @@
         "com.unity.2d.aseprite": "2.0.2"
       }
     },
-=======
->>>>>>> Stashed changes
     "com.unity.ide.rider": {
       "version": "3.0.36",
       "depth": 0,
@@ -294,7 +268,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.inputsystem": {
       "version": "1.14.2",
       "depth": 0,
@@ -320,8 +293,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.multiplayer.center": {
       "version": "1.0.0",
       "depth": 0,
@@ -330,7 +301,6 @@
         "com.unity.modules.uielements": "1.0.0"
       }
     },
-<<<<<<< Updated upstream
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.5",
       "depth": 2,
@@ -341,11 +311,6 @@
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 0,
-=======
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.2.1",
-      "depth": 2,
->>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -363,7 +328,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.render-pipelines.core": {
       "version": "17.2.0",
       "depth": 1,
@@ -424,8 +388,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.services.analytics": {
       "version": "6.1.0",
       "depth": 1,
@@ -437,7 +399,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.services.authentication": {
       "version": "3.5.2",
       "depth": 0,
@@ -475,10 +436,6 @@
     },
     "com.unity.services.core": {
       "version": "1.15.1",
-=======
-    "com.unity.services.core": {
-      "version": "1.14.0",
->>>>>>> Stashed changes
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -488,7 +445,6 @@
       },
       "url": "https://packages.unity.com"
     },
-<<<<<<< Updated upstream
     "com.unity.services.wire": {
       "version": "1.4.0",
       "depth": 1,
@@ -516,8 +472,6 @@
         "com.unity.searcher": "4.9.3"
       }
     },
-=======
->>>>>>> Stashed changes
     "com.unity.test-framework": {
       "version": "1.5.1",
       "depth": 0,
@@ -528,7 +482,6 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
-<<<<<<< Updated upstream
     "com.unity.test-framework.performance": {
       "version": "3.1.0",
       "depth": 2,
@@ -539,8 +492,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.timeline": {
       "version": "1.8.9",
       "depth": 0,
@@ -562,7 +513,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-<<<<<<< Updated upstream
     "com.unity.visualscripting": {
       "version": "1.9.7",
       "depth": 0,
@@ -573,8 +523,6 @@
       },
       "url": "https://packages.unity.com"
     },
-=======
->>>>>>> Stashed changes
     "com.unity.xr.legacyinputhelpers": {
       "version": "2.1.12",
       "depth": 0,
