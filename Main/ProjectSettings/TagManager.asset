@@ -3,6 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
+<<<<<<< Updated upstream
   tags:
 <<<<<<< HEAD
   - Enemy
@@ -12,6 +13,9 @@ TagManager:
   - Gem
   - Food
 >>>>>>> parent of d91f1e5 (forest battle scene commit)
+=======
+  tags: []
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -49,8 +53,11 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< Updated upstream
   - name: UI
     uniqueID: 669640829
     locked: 0
+=======
+>>>>>>> Stashed changes
   m_RenderingLayers:
   - Default
