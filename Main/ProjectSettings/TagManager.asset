@@ -4,8 +4,14 @@
 TagManager:
   serializedVersion: 3
   tags:
+<<<<<<< HEAD
   - Enemy
   - Dragon
+=======
+  - main
+  - Gem
+  - Food
+>>>>>>> parent of d91f1e5 (forest battle scene commit)
   layers:
   - Default
   - TransparentFX
