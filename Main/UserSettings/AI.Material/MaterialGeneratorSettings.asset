@@ -18,23 +18,13 @@ MonoBehaviour:
         serializedData:
         - key: 0
           value:
-<<<<<<< HEAD
-            rid: 2437643203503456310
+            rid: 2437643246015086598
         - key: 1
           value:
-            rid: 2437643203503456311
+            rid: 2437643246015086599
         - key: 2
           value:
-            rid: 2437643203503456312
-=======
-            rid: 2437643087991799808
-        - key: 1
-          value:
-            rid: 2437643087991799809
-        - key: 2
-          value:
-            rid: 2437643087991799810
->>>>>>> parent of d91f1e5 (forest battle scene commit)
+            rid: 2437643246015086600
       lastMaterialMappings:
         serializedData:
         - key: Invalid
@@ -71,27 +61,15 @@ MonoBehaviour:
           value: None
         - key: 11
           value: None
-<<<<<<< HEAD
-    - rid: 2437643203503456310
+    - rid: 2437643246015086598
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
         modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
-    - rid: 2437643203503456311
+    - rid: 2437643246015086599
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
         modelID: 
-    - rid: 2437643203503456312
-=======
-    - rid: 2437643087991799808
-      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
-      data:
-        modelID: 575ecf67-4425-4939-97b9-5e138b8ee234
-    - rid: 2437643087991799809
-      type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
-      data:
-        modelID: 
-    - rid: 2437643087991799810
->>>>>>> parent of d91f1e5 (forest battle scene commit)
+    - rid: 2437643246015086600
       type: {class: ModelSelection, ns: Unity.AI.Material.Services.Stores.States, asm: Unity.AI.Material}
       data:
         modelID: 
