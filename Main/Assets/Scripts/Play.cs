@@ -5,6 +5,6 @@ public class Play : MonoBehaviour
 {
     public void ReturnMain()
     {
-        SceneManager.LoadSceneAsync(0);
+        SceneManager.LoadSceneAsync(0);//changes the scene to the main menu
     }
 }
