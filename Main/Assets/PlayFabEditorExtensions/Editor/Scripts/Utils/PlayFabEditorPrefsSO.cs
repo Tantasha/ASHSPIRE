@@ -26,8 +26,8 @@ namespace PlayFab.PfEditor
                     return _instance;
 
                 _instance = CreateInstance<PlayFabEditorPrefsSO>();
-                if (!Directory.Exists(Path.Combine(Application.dataPath, "PlayFabEditorExtensions/Editor/Resources")))
-                    Directory.CreateDirectory(Path.Combine(Application.dataPath, "PlayFabEditorExtensions/Editor/Resources"));
+                if (!Directory.Exists(Path.Combine(Application.dataPath, "Assets/PlayFabEditorExtensions/Editor/Resources")))
+                    Directory.CreateDirectory(Path.Combine(Application.dataPath, "Assets/PlayFabEditorExtensions/Editor/Resources"));
 
                 // TODO: we know the location of this file will be under  PlayFabEditorExtensions/Editor/ 
                 // just need to pull that files path, and append /Resrouces/ and boom you have the below path.

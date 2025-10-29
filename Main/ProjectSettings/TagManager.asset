@@ -4,20 +4,16 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - main
-  - Gem
-  - Food
-  - Ability
   - Enemy
   - Dragon
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Background
+  - 
   - Water
   - UI
-  - Map
+  - 
   - 
   - 
   - 
@@ -47,15 +43,8 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Background
-    uniqueID: 2777733305
-    locked: 0
-  - name: Foreground
-    uniqueID: 2728909705
-    locked: 0
   - name: UI
-    uniqueID: 3164782971
+    uniqueID: 669640829
     locked: 0
   m_RenderingLayers:
   - Default
-  - map
