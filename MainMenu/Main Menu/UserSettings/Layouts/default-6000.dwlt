@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 900
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Simulator
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 61
+  controlID: 50
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 150}
   m_MaxSize: {x: 24288, y: 24288}
   vertical: 0
-  controlID: 91
+  controlID: 47
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 150}
   m_MaxSize: {x: 16192, y: 24288}
   vertical: 1
-  controlID: 92
+  controlID: 48
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 60
+  controlID: 49
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -931,7 +931,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 1349.3676, y: 534.4481, z: 6.9745855}
     speed: 2
-    m_Value: {x: 1349.7307, y: 534.8249, z: 6.9597406}
+    m_Value: {x: 1349.3676, y: 534.4481, z: 6.9745855}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -983,7 +983,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 988.1095
     speed: 2
-    m_Value: 989.594
+    m_Value: 988.1095
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1055,10 +1055,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 207.27753}
-      m_SelectedIDs: 
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 12820000
       m_LastClickedID: 0
-      m_ExpandedIDs: 00fbffff60bc00006abc0000b8bc00001abd00002abd000052bd0000d4bd0000e4bd00008abe00009cbe0000
+      m_ExpandedIDs: 00fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1130,7 +1130,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Animations
+    - Assets/Scripts/FreeRoam/QuestSystem
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1140,16 +1140,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Animations
+  - Assets/Scripts/FreeRoam/QuestSystem
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/mariagraciacatalan/ASHSPIRE/MainMenu/Main Menu
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 68.868774}
-    m_SelectedIDs: c0c10000
-    m_LastClickedID: 49600
-    m_ExpandedIDs: 0000000038c100003ac100003cc100003ec1000040c1000042c1000044c1000046c1000048c100004ac10000dec1000000c2000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 358.0088}
+    m_SelectedIDs: b0be0000
+    m_LastClickedID: 48816
+    m_ExpandedIDs: 00000000a8be0000aabe0000acbe0000aebe0000b0be0000b2be0000b4be0000b6be0000b8be0000babe0000bcbe000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1178,7 +1178,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000038c100003ac100003cc100003ec1000040c1000042c1000044c1000046c1000048c100004ac10000
+    m_ExpandedIDs: 00000000a8be0000aabe0000acbe0000aebe0000b0be0000b2be0000b4be0000b6be0000b8be0000babe0000bcbe0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
