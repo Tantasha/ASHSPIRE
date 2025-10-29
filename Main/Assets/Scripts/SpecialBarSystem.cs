@@ -7,7 +7,6 @@ public class SpecialBarSystem : MonoBehaviour
 {
     [Header("UI References")]
     public Slider specialBarSlider;
-
     public GameObject specialGlow;
     public TextMeshProUGUI specialBarText;
     public Button specialButton;
@@ -19,15 +18,15 @@ public class SpecialBarSystem : MonoBehaviour
 
     [Header("Special Bar Settings")]
     public float maxSpecialEnergy = 100f;
-    public float energyGainPerAction = 20f;  // Gain per attack/action
-    public float healAmount = 50f;           // HP restored when used
-    public float attackBoostAmount = 2f;     // Damage multiplier
-    public float boostDuration = 5f;         // How long boost lasts
+    public float energyGainPerAction = 20f;
+    public float healAmount = 50f;
+    public float attackBoostAmount = 2f;
+    public float boostDuration = 5f;
 
     [Header("Visual Settings")]
-    public float glowPulseSpeed = 2f;
+    public float glowPulseSpeed = 1f;
     public Color normalBarColor = Color.yellow;
-    public Color healingBarColor = Color.orange;
+    public Color healingBarColor = Color.green;
     public Color attackBarColor = Color.red;
 
     // Private variables
@@ -43,30 +42,26 @@ public class SpecialBarSystem : MonoBehaviour
 
     void Start()
     {
-        // Initialize
         currentSpecialEnergy = 0f;
         UpdateSpecialBar();
 
-        // Make sure glow is off
         if (specialGlow != null)
         {
             specialGlow.SetActive(false);
         }
 
-        // Disable button initially
         if (specialButton != null)
         {
             specialButton.interactable = false;
             specialButton.onClick.AddListener(OnSpecialButtonPressed);
         }
 
-        // Stop particles initially
         if (readyParticles != null)
         {
             readyParticles.Stop();
         }
 
-        if(specialBarSlider != null)
+        if (specialBarSlider != null)
         {
             specialBarSlider.value = 0f;
             SetSliderColor(normalBarColor);
@@ -75,24 +70,18 @@ public class SpecialBarSystem : MonoBehaviour
 
     void Update()
     {
-        // Animate glow when ready
         if (isSpecialReady && !isSpecialActive)
         {
             AnimateGlow();
         }
-
     }
 
-    // Call this method when player performs an action (attack, etc.)
     public void AddSpecialEnergy()
     {
-        if (isSpecialActive) return;  // Don't gain energy while active
+        if (isSpecialActive) return;
 
         currentSpecialEnergy += energyGainPerAction;
 
-        Debug.Log($"Special energy gained! Current: {currentSpecialEnergy}/{maxSpecialEnergy}");
-
-        // Check if full
         if (currentSpecialEnergy >= maxSpecialEnergy)
         {
             currentSpecialEnergy = maxSpecialEnergy;
@@ -104,31 +93,25 @@ public class SpecialBarSystem : MonoBehaviour
 
     void MakeSpecialReady()
     {
-        if (isSpecialReady) return;  // Already ready
+        if (isSpecialReady) return;
 
         isSpecialReady = true;
 
-        Debug.Log("SPECIAL READY!");
-
-        // Enable button
         if (specialButton != null)
         {
             specialButton.interactable = true;
         }
 
-        // Show glow
         if (specialGlow != null)
         {
             specialGlow.SetActive(true);
         }
 
-        // Play particles
         if (readyParticles != null)
         {
             readyParticles.Play();
         }
 
-        // Update text
         if (specialBarText != null)
         {
             specialBarText.text = "READY!";
@@ -140,11 +123,10 @@ public class SpecialBarSystem : MonoBehaviour
     {
         if (!isSpecialReady || isSpecialActive) return;
 
-        // Check if health is low
         float currentHealth = healthBar != null ? healthBar.value : maxHealth;
         float healthPercent = (currentHealth / maxHealth) * 100f;
 
-        if (healthPercent < 50f)  // If health below 50%
+        if (healthPercent < 50f)
         {
             UseSpecialForHealing();
         }
@@ -156,50 +138,31 @@ public class SpecialBarSystem : MonoBehaviour
 
     void UseSpecialForHealing()
     {
-        Debug.Log("SPECIAL USED: HEALING!");
-
         isSpecialReady = false;
         isSpecialActive = true;
 
-        // IMMEDIATELY HEAL
         if (healthBar != null)
         {
             healthBar.value += healAmount;
-
-            // Clamp to max
             if (healthBar.value > maxHealth)
             {
                 healthBar.value = maxHealth;
             }
-
-            Debug.Log($"Healed {healAmount} HP! Current HP: {healthBar.value}");
         }
 
-        // Change bar color to green
         SetSliderColor(healingBarColor);
-        // Hide glow and particles
         HideReadyEffects();
-
-        // Drain the bar
         StartCoroutine(DrainSpecialBar());
     }
 
     void UseSpecialForAttackBoost()
     {
-        Debug.Log("SPECIAL USED: ATTACK BOOST!");
-
         isSpecialReady = false;
         isSpecialActive = true;
         isAttackBoosted = true;
 
-        // Change bar color to red
         SetSliderColor(attackBarColor);
-
-
-        // Hide glow and particles
         HideReadyEffects();
-
-        // Drain the bar
         StartCoroutine(DrainSpecialBar());
     }
 
@@ -210,7 +173,6 @@ public class SpecialBarSystem : MonoBehaviour
         while (currentSpecialEnergy > 0)
         {
             currentSpecialEnergy -= drainRate * Time.deltaTime;
-
             if (currentSpecialEnergy < 0)
             {
                 currentSpecialEnergy = 0;
@@ -220,23 +182,18 @@ public class SpecialBarSystem : MonoBehaviour
             yield return null;
         }
 
-        // Special finished
         FinishSpecial();
     }
 
     void FinishSpecial()
     {
-        Debug.Log("Special ability finished!");
-
         currentSpecialEnergy = 0f;
         isSpecialActive = false;
         isSpecialReady = false;
         isAttackBoosted = false;
 
-        // Reset bar color
         SetSliderColor(normalBarColor);
 
-        // Disable button
         if (specialButton != null)
         {
             specialButton.interactable = false;
@@ -247,18 +204,13 @@ public class SpecialBarSystem : MonoBehaviour
 
     void UpdateSpecialBar()
     {
-        //if (specialBarFill == null) return;
-
-        // Update fill amount
         float fillAmount = currentSpecialEnergy / maxSpecialEnergy;
+
         if (specialBarSlider != null)
         {
             specialBarSlider.value = fillAmount;
         }
 
-
-
-        // Update text
         if (specialBarText != null && !isSpecialReady)
         {
             int percent = Mathf.RoundToInt(fillAmount * 100f);
@@ -270,13 +222,13 @@ public class SpecialBarSystem : MonoBehaviour
             specialBarText.text = "ACTIVE!";
         }
     }
-    
+
     void SetSliderColor(Color color)
     {
-        if(specialBarSlider != null && specialBarSlider.fillRect != null)
+        if (specialBarSlider != null && specialBarSlider.fillRect != null)
         {
             Image fillImage = specialBarSlider.fillRect.GetComponent<Image>();
-            if(fillImage != null)
+            if (fillImage != null)
             {
                 fillImage.color = color;
             }
@@ -287,44 +239,38 @@ public class SpecialBarSystem : MonoBehaviour
     {
         if (specialGlow == null) return;
 
-        // Pulse effect
         float pulse = Mathf.PingPong(Time.time * glowPulseSpeed, 1f);
 
         Image glowImage = specialGlow.GetComponent<Image>();
         if (glowImage != null)
         {
             Color glowColor = glowImage.color;
-            glowColor.a = 0.2f + (pulse * 0.5f);  // Pulse between 0.2 and 0.7
+            glowColor.a = 0.2f + (pulse * 0.5f);
             glowImage.color = glowColor;
         }
 
-        // Scale pulse
         float scale = 1f + (pulse * 0.1f);
         specialGlow.transform.localScale = new Vector3(scale, scale, 1f);
     }
 
     void HideReadyEffects()
     {
-        // Hide glow
         if (specialGlow != null)
         {
             specialGlow.SetActive(false);
         }
 
-        // Stop particles
         if (readyParticles != null)
         {
             readyParticles.Stop();
         }
     }
 
-    // Public method to check current energy (for debugging)
     public float GetCurrentEnergy()
     {
         return currentSpecialEnergy;
     }
 
-    // Public method to manually set energy (for testing)
     public void SetEnergy(float amount)
     {
         currentSpecialEnergy = Mathf.Clamp(amount, 0f, maxSpecialEnergy);
