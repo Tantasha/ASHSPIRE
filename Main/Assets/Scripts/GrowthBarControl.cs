@@ -33,7 +33,7 @@ public class GrowthBarControl : MonoBehaviour
 
     //Transdorm and Scaling
     public Transform dragonTransform;
-    public float growthScale = 0.2f;
+    public float growthScale = 0.1f;
     public int gemToGrow = 4; // Number of gems required to grow
     public int foodToGrow = 2; // Number of food items required to grow
     public int gemCount = 0; // Current gem count
@@ -123,6 +123,29 @@ public class GrowthBarControl : MonoBehaviour
                 colourTransition = false;
             }
         }
+    }
+
+    //set process
+    public void SetProgress(float progress)
+    {
+        growthValue = Mathf.Clamp(progress, 0f, 100f);
+        if (growthBar != null)
+        {
+            growthBar.value = growthValue / 100f;
+        }
+    }
+    
+    //advance colour manually
+    public void AdvanceColor()
+    {
+        if (!colour || palette == null || palette.Length == 0 || fillImage == null) return;
+
+        paletteIndex = (paletteIndex + 1) % palette.Length;
+        targetColour = palette[paletteIndex];
+        startColour = fillImage.color;
+        colourTransitionTime = 0f;
+        colourTransition = true;
+
     }
 
     // Check if the dragon can level up from collecting gems
