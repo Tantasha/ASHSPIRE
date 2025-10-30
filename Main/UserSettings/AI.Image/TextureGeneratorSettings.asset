@@ -35,7 +35,7 @@ MonoBehaviour:
           value:
             rid: 2437643203503456318
       previewSettings:
-        sizeFactor: 1
+        sizeFactor: 2
   references:
     version: 2
     RefIds:

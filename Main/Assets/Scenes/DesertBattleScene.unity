@@ -184,8 +184,12 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
+  m_AlphaHitTestMinimumThreshold: 0
+  m_Tracked: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+  m_CachedReferencePixelsPerUnit: 100
+  m_SecondaryTextures: []
 --- !u!222 &119499269
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5158,6 +5162,11 @@ MonoBehaviour:
     m_DisabledTrigger: Disabled
   m_Interactable: 0
   m_TargetGraphic: {fileID: 0}
+  m_GroupsAllowInteraction: 1
+  m_CurrentIndex: 1
+  <isPointerInside>k__BackingField: 0
+  <isPointerDown>k__BackingField: 0
+  <hasSelection>k__BackingField: 0
   m_FillRect: {fileID: 1190079299}
   m_HandleRect: {fileID: 0}
   m_Direction: 1
@@ -5168,6 +5177,14 @@ MonoBehaviour:
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
+    m_CallsDirty: 1
+  m_FillImage: {fileID: 1190079300}
+  m_FillTransform: {fileID: 1190079299}
+  m_FillContainerRect: {fileID: 619925018}
+  m_HandleTransform: {fileID: 0}
+  m_HandleContainerRect: {fileID: 0}
+  m_Offset: {x: 0, y: 0}
+  m_DelayedUpdateVisuals: 0
 --- !u!1 &534014357
 GameObject:
   m_ObjectHideFlags: 0

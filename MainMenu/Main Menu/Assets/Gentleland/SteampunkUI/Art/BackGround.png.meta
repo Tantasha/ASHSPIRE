@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:MainMenu/Main Menu/Assets/Gentleland/SteampunkUI/Art/BackGround.png.meta
 guid: b464ee8350ce3984aa31ea54d12d9236
 AssetOrigin:
   serializedVersion: 1
@@ -7,6 +8,16 @@ AssetOrigin:
   packageVersion: 1.0
   assetPath: Assets/Gentleland/SteampunkUI/Art/BackGround.png
   uploadId: 559104
+========
+guid: 105aa01b1530a1e48ba3df5d4a1cae8b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53276
+  packageName: Simple UI Elements
+  packageVersion: 1.0
+  assetPath: Assets/Assets/UI Elements/Extras/circle64.png
+  uploadId: 96991
+>>>>>>>> 4dce6619f5a7bbff63360ff92996285f72b76739:MainMenu/Main Menu/Assets/Assets/UI Elements/Extras/circle64.png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}

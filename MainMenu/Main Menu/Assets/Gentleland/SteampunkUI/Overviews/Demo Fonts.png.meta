@@ -1,11 +1,19 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:MainMenu/Main Menu/Assets/Gentleland/SteampunkUI/Overviews/Demo Fonts.png.meta
 guid: fd575485e5a17f442859c72d348f46c6
+========
+guid: b464ee8350ce3984aa31ea54d12d9236
+>>>>>>>> 4dce6619f5a7bbff63360ff92996285f72b76739:MainMenu/Main Menu/Assets/Gentleland/SteampunkUI/Art/BackGround.png.meta
 AssetOrigin:
   serializedVersion: 1
   productId: 238976
   packageName: SteampunkUI
   packageVersion: 1.0
+<<<<<<<< HEAD:MainMenu/Main Menu/Assets/Gentleland/SteampunkUI/Overviews/Demo Fonts.png.meta
   assetPath: Assets/Gentleland/SteampunkUI/Overviews/Demo Fonts.png
+========
+  assetPath: Assets/Gentleland/SteampunkUI/Art/BackGround.png
+>>>>>>>> 4dce6619f5a7bbff63360ff92996285f72b76739:MainMenu/Main Menu/Assets/Gentleland/SteampunkUI/Art/BackGround.png.meta
   uploadId: 559104
 TextureImporter:
   internalIDToNameTable: []
