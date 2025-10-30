@@ -11,6 +11,9 @@ public class Enemy : MonoBehaviour
     public int maxHealth = 100;
     private int currentHealth;
 
+    [Header("Attack Effects")]
+    public ParticleSystem attackEffect;
+
     [Header("UI")]
     public HealthBar healthBar;
 
@@ -20,7 +23,7 @@ public class Enemy : MonoBehaviour
 
     [Header("Attack Setting")]
     public int minDamage = 5;
-    public int maxDamage = 15;
+    public int maxDamage = 10;
     public float minAttackDelay = 3f; //Minimum seconds between attacks
     public float maxAttackDelay = 5f; //Maximum seconds between attacks
     public bool autoAttack = true; //Toggle for auto attack 
@@ -73,7 +76,7 @@ public class Enemy : MonoBehaviour
         //Wait before the first attack
         yield return new WaitForSeconds(Random.Range(minAttackDelay, maxAttackDelay));
 
-        while (isAlive() && dragonScript != null && dragonScript.isAlive())
+        while (IsAlive() && dragonScript != null && dragonScript.IsAlive())
         {
             //Attacking the dragon
             AttackDragon();
@@ -88,17 +91,24 @@ public class Enemy : MonoBehaviour
     //Attack the dragon
     public void AttackDragon()
     {
-        if (dragonScript == null || !dragonScript.isAlive())
+        if (dragonScript == null || !dragonScript.IsAlive())
         {
             Debug.Log("Enemy cannot attack. Dragon is dead.");
             return;
         }
-        if (!isAlive())
+        if (!IsAlive())
         {
             Debug.Log("Enemy cannot attack. Dragon is dead.");
             return;
         }
 
+        //Play the attack effect particle
+        if (attackEffect != null) 
+        {
+            attackEffect.Play();
+            Debug.Log("Enemy attack effect played.");
+        }
+        
         //To calculate random damages
         int damage = Random.Range(minDamage, maxDamage + 1);
         Debug.Log("Enemy attacks the Dragon for {damage} damages.");
@@ -152,7 +162,7 @@ public class Enemy : MonoBehaviour
         return currentHealth;
     }
 
-    public bool isAlive()
+    public bool IsAlive()
     {
         return currentHealth > 0;
     }

@@ -20,7 +20,7 @@ public class NPC_Talk : MonoBehaviour
 
     private void OnEnable()
     {
-        rb.velocity = Vector2.zero;
+        rb.linearVelocity = Vector2.zero;
         rb.isKinematic = true;
         interactAnim.Play("Open");
         isActive = true;
