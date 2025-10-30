@@ -5088,8 +5088,8 @@ MonoBehaviour:
   slider: {fileID: 453776711}
   gradient:
     serializedVersion: 2
-    key0: {r: 0.7106918, g: 0.1050393, b: 0.1050393, a: 1}
-    key1: {r: 0, g: 0.9607844, b: 0, a: 1}
+    key0: {r: 1, g: 0.1523969, b: 0, a: 0.5568628}
+    key1: {r: 0, g: 0.9607844, b: 0, a: 0.5568628}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -5682,12 +5682,12 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1735380494}
-        m_TargetAssemblyTypeName: SpecialBarSystem, Assembly-CSharp
-        m_MethodName: AddSpecialEnergy
-        m_Mode: 1
+        m_TargetAssemblyTypeName: SpecialBarSystem
+        m_MethodName: 
+        m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgumentAssemblyTypeName: 
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -16340,8 +16340,8 @@ MonoBehaviour:
   slider: {fileID: 1356158503}
   gradient:
     serializedVersion: 2
-    key0: {r: 0.7106918, g: 0.1050393, b: 0.1050393, a: 1}
-    key1: {r: 0, g: 0.9607844, b: 0, a: 1}
+    key0: {r: 1, g: 0.1523969, b: 0, a: 0.5568628}
+    key1: {r: 0, g: 0.9607844, b: 0, a: 0.5568628}
     key2: {r: 0, g: 0, b: 0, a: 0}
     key3: {r: 0, g: 0, b: 0, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
@@ -22337,7 +22337,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: -1566057591
-  m_SortingLayer: 2
+  m_SortingLayer: 0
   m_SortingOrder: 3
   m_Sprite: {fileID: 862759729671411747, guid: a9a345ffededc96459aa21c30d4543dd, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -22586,7 +22586,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1975598559}
-        m_TargetAssemblyTypeName: ForestDragon, Assembly-CSharp
+        m_TargetAssemblyTypeName: Dragon, Assembly-CSharp
         m_MethodName: Heal
         m_Mode: 3
         m_Arguments:
