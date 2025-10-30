@@ -6,14 +6,16 @@ TagManager:
   tags:
   - Enemy
   - Dragon
+  - Food
+  - Gem
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
-  - 
+  - Foreground
   - 
   - 
   - 
