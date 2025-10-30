@@ -11030,7 +11030,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 4.51001, y: -0.6850109}
+  m_AnchoredPosition: {x: 4.51001, y: -0.68499756}
   m_SizeDelta: {x: -9.02, y: -1.37}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &1136575640
@@ -21554,7 +21554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   maxHealth: 100
-  attackEffect: {fileID: 0}
+  attackEffect: {fileID: 1479138649}
   healthBar: {fileID: 453776710}
   dragon: {fileID: 1975598553}
   minDamage: 2

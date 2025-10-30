@@ -32,5 +32,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/VolcanoBattleScene.unity
     guid: bb1c64263197055448277c85ef1884ac
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: d31d4af79bda4bc449ad6b7c7ee10895
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 8408260f9f5791d4c915e2e7b622fcdb
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

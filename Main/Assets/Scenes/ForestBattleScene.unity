@@ -21554,7 +21554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Enemy
   maxHealth: 100
-  attackEffect: {fileID: 0}
+  attackEffect: {fileID: 1172091889}
   healthBar: {fileID: 453776710}
   dragon: {fileID: 1975598553}
   minDamage: 5
