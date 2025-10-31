@@ -1,7 +1,7 @@
 # ASHSPIRE - Dragon nurturing game 
 A unity story 2D game project about nurturing dragons and battle evil sorcerers to save the dragon race from extinction.
 ---
-## Description
+## Features
 -The game allows players to explore different environments across the map to raise their dragons and gain abilities based on the enviroment, where they can find treasures, food and NPCs to interact with.
 -These NPCs will give quests relating to the story and players can battle sorcerers with their dragons to gain rewards and experience. 
 -There's also in-app purchases for items that will help in the dragons growth and have in-game advantages.
@@ -21,6 +21,11 @@ A unity story 2D game project about nurturing dragons and battle evil sorcerers 
 -once the application launches, players can go through the tutorials or start straight away and press play.
 -controls: press the arrows.
 -objective: feed and nurture dragon in different environment to battle evil sorcerers.
+---
+## Dependencies
+-Mobile Notifications
+-TextMeshPro
+-Universal Render Pipeline (URP)
 ---
 ## Team members
 PRODUCT OWNER: Sou Jenny Yee ID:23195706

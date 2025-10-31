@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 7185cad730dd0aa4ba0b9268ec10410f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2168338957506236212
+    second: Supporter Dragon 4x_0
+  - first:
+      213: 5581457733715380550
+    second: Supporter Dragon 4x_1
+  - first:
+      213: 844426393416198899
+    second: Supporter Dragon 4x_2
+  - first:
+      213: -6416617840401038816
+    second: Supporter Dragon 4x_3
+  - first:
+      213: -574933664328864272
+    second: Supporter Dragon 4x_4
+  - first:
+      213: -1091597535891714063
+    second: Supporter Dragon 4x_5
+  - first:
+      213: 5928332469301320625
+    second: Supporter Dragon 4x_6
+  - first:
+      213: 1364455693021711959
+    second: Supporter Dragon 4x_7
+  - first:
+      213: 6903130566799081309
+    second: Supporter Dragon 4x_8
+  - first:
+      213: -1138021474575664959
+    second: Supporter Dragon 4x_9
+  - first:
+      213: -772676673694165533
+    second: Supporter Dragon 4x_10
+  - first:
+      213: -6733792906538743454
+    second: Supporter Dragon 4x_11
+  - first:
+      213: -8029016414863171215
+    second: Supporter Dragon 4x_12
+  - first:
+      213: -3289888668045230616
+    second: Supporter Dragon 4x_13
+  - first:
+      213: -6850495252537290259
+    second: Supporter Dragon 4x_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fccc22bcc771e10800000000000000
+      internalID: 2168338957506236212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 147
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64946faac32557d40800000000000000
+      internalID: 5581457733715380550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa6982b45108bb00800000000000000
+      internalID: 844426393416198899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 147
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0224673221893f6a0800000000000000
+      internalID: -6416617840401038816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 147
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda340e0ec6508f0800000000000000
+      internalID: -574933664328864272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff8b7b13ddd9d0f0800000000000000
+      internalID: -1091597535891714063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb9e1f98faa54250800000000000000
+      internalID: 5928332469301320625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 75
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e815e39358fe210800000000000000
+      internalID: 1364455693021711959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 75
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f33381da8dccf50800000000000000
+      internalID: 6903130566799081309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 75
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8b6259f7fe430f0800000000000000
+      internalID: -1138021474575664959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e59a3ab8a6e645f0800000000000000
+      internalID: -772676673694165533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_11
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 3
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26986b65703cc82a0800000000000000
+      internalID: -6733792906538743454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_12
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171ec483c14339090800000000000000
+      internalID: -8029016414863171215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb49edfa7f752d0800000000000000
+      internalID: -3289888668045230616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Supporter Dragon 4x_14
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 15
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1d3010dd62ee0a0800000000000000
+      internalID: -6850495252537290259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Supporter Dragon 4x_0: 2168338957506236212
+      Supporter Dragon 4x_1: 5581457733715380550
+      Supporter Dragon 4x_10: -772676673694165533
+      Supporter Dragon 4x_11: -6733792906538743454
+      Supporter Dragon 4x_12: -8029016414863171215
+      Supporter Dragon 4x_13: -3289888668045230616
+      Supporter Dragon 4x_14: -6850495252537290259
+      Supporter Dragon 4x_2: 844426393416198899
+      Supporter Dragon 4x_3: -6416617840401038816
+      Supporter Dragon 4x_4: -574933664328864272
+      Supporter Dragon 4x_5: -1091597535891714063
+      Supporter Dragon 4x_6: 5928332469301320625
+      Supporter Dragon 4x_7: 1364455693021711959
+      Supporter Dragon 4x_8: 6903130566799081309
+      Supporter Dragon 4x_9: -1138021474575664959
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
