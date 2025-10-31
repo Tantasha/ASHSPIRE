@@ -1,26 +1,16 @@
 using UnityEngine;
-using Unity.Notifications.Android;
-using UnityEngine.Android;
-using System.Collections;
-using System.Collections.Generic;
 
 public class NotifiicationController : MonoBehaviour
 {
-    [SerializeField] AndroidNotifications androidNotifications;
-
-    private void Start()
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
     {
-        androidNotifications.RequestAuthorization();
-        androidNotifications.RegisterNotificationChannel();
+        
     }
 
-    private void OnApplicationFocus(bool focus)
+    // Update is called once per frame
+    void Update()
     {
-        if(focus == false)
-        {
-            AndroidNotificationCenter.CancelAllNotifications();
-            androidNotifications.SendNotification("ASHSPIRE", "Next event in 2 days", 2);
-
-        }
+        
     }
 }

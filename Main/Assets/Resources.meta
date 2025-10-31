@@ -1,5 +1,9 @@
 fileFormatVersion: 2
-guid: ded1d14c4758c6c45ae217d4e605281c
+<<<<<<<< HEAD:Main/Assets/Temp.meta
+guid: cf3cdaa09bcc74b449f7416aebd9e466
+========
+guid: 37c1f6992c2c5a740b00fa301ef487f6
+>>>>>>>> mistake:Main/Assets/Resources.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

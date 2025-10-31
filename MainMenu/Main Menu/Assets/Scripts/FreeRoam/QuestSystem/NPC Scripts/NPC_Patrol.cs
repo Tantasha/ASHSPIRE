@@ -26,12 +26,12 @@ public class NPC_Patrol : MonoBehaviour
     {
         if (isPaused)
         {
-            rb.velocity = Vector2.zero;
+            rb.linearVelocity = Vector2.zero;
             return;
         }
 
         Vector2 direction = ((Vector3)target - transform.position).normalized;
-        rb.velocity = direction * speed;
+        rb.linearVelocity = direction * speed;
 
         if(Vector2.Distance(transform.position, target) < .1f)
             StartCoroutine(SetPatrolPoint());
