@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:MainMenu/Main Menu/Assets/Gentleland/SteampunkUI/Art/Silhouette.png.meta
 guid: d766a6cd5770e2e46b1f924c5b3e9efc
 AssetOrigin:
   serializedVersion: 1
@@ -7,6 +8,9 @@ AssetOrigin:
   packageVersion: 1.0
   assetPath: Assets/Gentleland/SteampunkUI/Art/Silhouette.png
   uploadId: 559104
+========
+guid: ae1381dce36f664428c3d783854cc8f9
+>>>>>>>> 4dce6619f5a7bbff63360ff92996285f72b76739:Main/Assets/Images/desertBattle (1).png.meta
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -46,13 +50,13 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 1
+    wrapW: 0
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -72,7 +76,7 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
@@ -120,7 +124,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 

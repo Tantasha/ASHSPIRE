@@ -146,6 +146,9 @@ public class LoginManager : MonoBehaviour
         LoginPanel.SetActive(true);
         RegisterPanel.SetActive(false);
         ForgotPanel.SetActive(false);
+
+        //To show mobile keyboard for input fields
+        LoginEmail.ActivateInputField();
     }
 
     public void OpenRegister()
@@ -153,6 +156,9 @@ public class LoginManager : MonoBehaviour
         LoginPanel.SetActive(false);
         RegisterPanel.SetActive(true);
         ForgotPanel.SetActive(false);
+
+        //To show mobile keyboard for input fields
+        RegisterUsername.ActivateInputField();
     }
 
     public void OpenForgot()
@@ -160,8 +166,11 @@ public class LoginManager : MonoBehaviour
         LoginPanel.SetActive(false);
         RegisterPanel.SetActive(false);
         ForgotPanel.SetActive(true);
+
+        //To show mobile keyboard for input fields
+        ForgotEmail.ActivateInputField();
     }
-    
+
     #endregion
 
 

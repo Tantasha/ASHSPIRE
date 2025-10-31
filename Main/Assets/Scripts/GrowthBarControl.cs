@@ -28,7 +28,7 @@ public class GrowthBarControl : MonoBehaviour
         palette = FilterPalette(palette);
         paletteIndex = 0;
 
-        if(palette.Length == 0)
+        if (palette.Length == 0)
         {
             Debug.LogWarning("Filtered palette is empty.");
             return;

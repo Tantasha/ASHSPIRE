@@ -6,14 +6,16 @@ TagManager:
   tags:
   - Enemy
   - Dragon
+  - Food
+  - Gem
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Background
   - Water
   - UI
-  - 
+  - Foreground
   - 
   - 
   - 
@@ -42,6 +44,15 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2236744459
+    locked: 0
+  - name: Foreground
+    uniqueID: 567540579
+    locked: 0
+  - name: UI
+    uniqueID: 669640829
     locked: 0
   m_RenderingLayers:
   - Default
