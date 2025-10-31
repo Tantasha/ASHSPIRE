@@ -1,0 +1,78 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mE8E0135250D0C91E4EB41DF10C8844451B7B61AB (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mBCA649D60B4B0507CD16CD45B154B7FECFFE2315 (void);
+extern void AnimatedTextInstace__ctor_mAA1A0994367E1099E669360C2DA883A46B27D70D (void);
+extern void PixelBattleTextController_GetNewText_m90455E83F80C7A7662C5BE3D3F2FB6133DCA615A (void);
+extern void PixelBattleTextController_GetFontMaterial_mB446ABAB322C879E4157D76D870A448C273D21D1 (void);
+extern void PixelBattleTextController_DisplayText_m11AE762EF610E6F878FAC22C3FD900B58CAA592B (void);
+extern void PixelBattleTextController__DisplayText_m712A694F68923B01E50EB8C1E30E1B0602107AB6 (void);
+extern void PixelBattleTextController_RemoveText_m769CDD1688A8B736175D9902199A4E23D8F6B187 (void);
+extern void PixelBattleTextController_Update_m89DB94101E877C446F5891F7C2ACA2E2D405CB68 (void);
+extern void PixelBattleTextController_Awake_m36A8B215C2D6EDB5CDDC5D4987024301F3E01DC3 (void);
+extern void PixelBattleTextController_Start_m88AE164A58AF50E113DAF45BA7BACF382337AEC0 (void);
+extern void PixelBattleTextController_Destroy_mAC2B17CD1F115FA35C34CBAE5FA0AC263C2C862B (void);
+extern void PixelBattleTextController__ctor_m8F5DF15DB23FDE97E4BF02531CDB66412482361C (void);
+extern void TextAnimation__ctor_m5CBDE0EE16C7A408562B1FCE1E06DBAB1165006A (void);
+static Il2CppMethodPointer s_methodPointers[14] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mE8E0135250D0C91E4EB41DF10C8844451B7B61AB,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mBCA649D60B4B0507CD16CD45B154B7FECFFE2315,
+	AnimatedTextInstace__ctor_mAA1A0994367E1099E669360C2DA883A46B27D70D,
+	PixelBattleTextController_GetNewText_m90455E83F80C7A7662C5BE3D3F2FB6133DCA615A,
+	PixelBattleTextController_GetFontMaterial_mB446ABAB322C879E4157D76D870A448C273D21D1,
+	PixelBattleTextController_DisplayText_m11AE762EF610E6F878FAC22C3FD900B58CAA592B,
+	PixelBattleTextController__DisplayText_m712A694F68923B01E50EB8C1E30E1B0602107AB6,
+	PixelBattleTextController_RemoveText_m769CDD1688A8B736175D9902199A4E23D8F6B187,
+	PixelBattleTextController_Update_m89DB94101E877C446F5891F7C2ACA2E2D405CB68,
+	PixelBattleTextController_Awake_m36A8B215C2D6EDB5CDDC5D4987024301F3E01DC3,
+	PixelBattleTextController_Start_m88AE164A58AF50E113DAF45BA7BACF382337AEC0,
+	PixelBattleTextController_Destroy_mAC2B17CD1F115FA35C34CBAE5FA0AC263C2C862B,
+	PixelBattleTextController__ctor_m8F5DF15DB23FDE97E4BF02531CDB66412482361C,
+	TextAnimation__ctor_m5CBDE0EE16C7A408562B1FCE1E06DBAB1165006A,
+};
+static const int32_t s_InvokerIndices[14] = 
+{
+	28327,
+	16137,
+	16137,
+	15916,
+	9922,
+	21223,
+	2556,
+	11880,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_BattleText_CodeGenModule;
+const Il2CppCodeGenModule g_BattleText_CodeGenModule = 
+{
+	"BattleText.dll",
+	14,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 236bf94cb56ef914fa487b2c2bd51eda
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173746
+  packageName: Strapi for Unity
+  packageVersion: 1.2
+  assetPath: Assets/StrapiForUnity/Libs/LitJson/JsonData.cs
+  uploadId: 424142

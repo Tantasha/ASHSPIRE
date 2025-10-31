@@ -1,0 +1,96 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m87971ACEFBFB0390A836E91D4CA4CEE55A7E3B17 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m3A43CC890DD19382FDDEC4B5F1856EB37F866594 (void);
+extern void ExampleTextManager_Start_m41B2A506536B790CDA79F599271F6FD6D88B90FD (void);
+extern void ExampleTextManager_SetColor_mF3A64682FEFBABFF1F062EE45F106906E66458B0 (void);
+extern void ExampleTextManager_SwapColors_m8BB988EEF240C6537759E6415174D83A20831F94 (void);
+extern void ExampleTextManager_SwapEffectPallete_m874F7319A6FCA7BC6408D79E6F4F6A679141BEC5 (void);
+extern void ExampleTextManager_ShowInputText_m9217AB57B97325A9A70252DFA52E9E9EFA36AD3E (void);
+extern void ExampleTextManager_DisplayPremium_mA97D94D1DEA4D46B56638F89465E6FDE56B1EBE3 (void);
+extern void ExampleTextManager_DisplaySpooky_mAF7EF4F995DFB9B0D100E2FD97D27D7FDBB174E3 (void);
+extern void ExampleTextManager_DisplayPyro_m620E000993CB83D81C50A37A70A4F76A3B3C46FC (void);
+extern void ExampleTextManager_DisplayMetallic_mE3BF7F0F0D559616854E8078AB9B7C3AA08BCC91 (void);
+extern void ExampleTextManager_DisplayFreeze_mB7332A9DCBC0D7036899F20FD244C21D8024621A (void);
+extern void ExampleTextManager_DisplayShock_m450EF53DAEC6CB7F2C513DE5F7CFCE63C6B592AF (void);
+extern void ExampleTextManager_DisplayLvlUp_m8154BDF1EA788481637D6ED021CBF6802C144B45 (void);
+extern void ExampleTextManager_DisplayDamage_mE17075494EF9788E553045C1D1E1AA6BCD91A3C6 (void);
+extern void ExampleTextManager_DisplayKO_m3D68FC0490E0BE0BD0BCDF9E57C4BA1C15A03A14 (void);
+extern void ExampleTextManager_DisplayVenom_m158F2D6CBD2ED51278985CFB0E07447EB90757E5 (void);
+extern void ExampleTextManager_DisplayHeal_m22B3019F69037490EE0164F321662B70D42E5D4E (void);
+extern void ExampleTextManager_DisplayCrit_m764124B50777823F0B142CB848A60FBE1AD322FC (void);
+extern void ExampleTextManager__ctor_m4B63EEEDF1056F06873513AFD2CC657B2DCC215E (void);
+static Il2CppMethodPointer s_methodPointers[20] = 
+{
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_m87971ACEFBFB0390A836E91D4CA4CEE55A7E3B17,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_m3A43CC890DD19382FDDEC4B5F1856EB37F866594,
+	ExampleTextManager_Start_m41B2A506536B790CDA79F599271F6FD6D88B90FD,
+	ExampleTextManager_SetColor_mF3A64682FEFBABFF1F062EE45F106906E66458B0,
+	ExampleTextManager_SwapColors_m8BB988EEF240C6537759E6415174D83A20831F94,
+	ExampleTextManager_SwapEffectPallete_m874F7319A6FCA7BC6408D79E6F4F6A679141BEC5,
+	ExampleTextManager_ShowInputText_m9217AB57B97325A9A70252DFA52E9E9EFA36AD3E,
+	ExampleTextManager_DisplayPremium_mA97D94D1DEA4D46B56638F89465E6FDE56B1EBE3,
+	ExampleTextManager_DisplaySpooky_mAF7EF4F995DFB9B0D100E2FD97D27D7FDBB174E3,
+	ExampleTextManager_DisplayPyro_m620E000993CB83D81C50A37A70A4F76A3B3C46FC,
+	ExampleTextManager_DisplayMetallic_mE3BF7F0F0D559616854E8078AB9B7C3AA08BCC91,
+	ExampleTextManager_DisplayFreeze_mB7332A9DCBC0D7036899F20FD244C21D8024621A,
+	ExampleTextManager_DisplayShock_m450EF53DAEC6CB7F2C513DE5F7CFCE63C6B592AF,
+	ExampleTextManager_DisplayLvlUp_m8154BDF1EA788481637D6ED021CBF6802C144B45,
+	ExampleTextManager_DisplayDamage_mE17075494EF9788E553045C1D1E1AA6BCD91A3C6,
+	ExampleTextManager_DisplayKO_m3D68FC0490E0BE0BD0BCDF9E57C4BA1C15A03A14,
+	ExampleTextManager_DisplayVenom_m158F2D6CBD2ED51278985CFB0E07447EB90757E5,
+	ExampleTextManager_DisplayHeal_m22B3019F69037490EE0164F321662B70D42E5D4E,
+	ExampleTextManager_DisplayCrit_m764124B50777823F0B142CB848A60FBE1AD322FC,
+	ExampleTextManager__ctor_m4B63EEEDF1056F06873513AFD2CC657B2DCC215E,
+};
+static const int32_t s_InvokerIndices[20] = 
+{
+	28325,
+	16137,
+	16137,
+	11880,
+	5791,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+	16137,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AnimatedBattleText_Example_Damage_CodeGenModule;
+const Il2CppCodeGenModule g_AnimatedBattleText_Example_Damage_CodeGenModule = 
+{
+	"AnimatedBattleText.Example.Damage.dll",
+	20,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
