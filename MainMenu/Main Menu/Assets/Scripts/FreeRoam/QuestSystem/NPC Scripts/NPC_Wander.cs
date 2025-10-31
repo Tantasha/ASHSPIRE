@@ -30,7 +30,7 @@ public class NPC_Wander : MonoBehaviour
     {
         if (isPaused)
         {
-            rb.velocity = Vector2.zero;
+            rb.linearVelocity = Vector2.zero;
             return;
         }
 
@@ -38,7 +38,7 @@ public class NPC_Wander : MonoBehaviour
             StartCoroutine(PauseAndPickNewDestination());
 
         Vector2 direction = (target - (Vector2)transform.position).normalized;
-        rb.velocity = direction * speed;
+        rb.linearVelocity = direction * speed;
     }
 
     IEnumerator PauseAndPickNewDestination()

@@ -4,9 +4,10 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - main
-  - Gem
+  - Enemy
+  - Dragon
   - Food
+  - Gem
   layers:
   - Default
   - TransparentFX
@@ -14,7 +15,7 @@ TagManager:
   - Background
   - Water
   - UI
-  - Map
+  - Foreground
   - 
   - 
   - 
@@ -45,14 +46,13 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: Background
-    uniqueID: 2777733305
+    uniqueID: 2236744459
     locked: 0
   - name: Foreground
-    uniqueID: 2728909705
+    uniqueID: 567540579
     locked: 0
   - name: UI
-    uniqueID: 3164782971
+    uniqueID: 669640829
     locked: 0
   m_RenderingLayers:
   - Default
-  - map
