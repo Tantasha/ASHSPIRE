@@ -15,274 +15,51 @@ MonoBehaviour:
   m_Session:
     settings:
       lastSelectedModels:
-<<<<<<< HEAD
         serializedData:
         - key: 0
           value:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-            rid: 6412654483567280701
+            rid: 6838500959705104387
         - key: 1
           value:
-            rid: 6412654483567280702
+            rid: 6838500959705104388
         - key: 2
           value:
-            rid: 6412654483567280703
+            rid: 6838500959705104389
         - key: 3
           value:
-            rid: 6412654483567280704
+            rid: 6838500959705104390
         - key: 4
           value:
-            rid: 6412654483567280705
+            rid: 6838500959705104391
         - key: 5
           value:
-            rid: 6412654483567280706
-=======
-            rid: 2437642770543017984
-        - key: 1
-          value:
-            rid: 2437642770543017985
-        - key: 2
-          value:
-            rid: 2437642770543017986
-        - key: 3
-          value:
-            rid: 2437642770543017987
-        - key: 4
-          value:
-            rid: 2437642770543017988
-        - key: 5
-          value:
-            rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-            rid: 2437642770543017984
-        - key: 1
-          value:
-            rid: 2437642770543017985
-        - key: 2
-          value:
-            rid: 2437642770543017986
-        - key: 3
-          value:
-            rid: 2437642770543017987
-        - key: 4
-          value:
-            rid: 2437642770543017988
-        - key: 5
-          value:
-            rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-        serializedData: []
->>>>>>> 655a139d177b66071e3c91c2c427e9d9ea3a142a
-=======
-            rid: 2437642770543017984
-        - key: 1
-          value:
-            rid: 2437642770543017985
-        - key: 2
-          value:
-            rid: 2437642770543017986
-        - key: 3
-          value:
-            rid: 2437642770543017987
-        - key: 4
-          value:
-            rid: 2437642770543017988
-        - key: 5
-          value:
-            rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-            rid: 2437642770543017984
-        - key: 1
-          value:
-            rid: 2437642770543017985
-        - key: 2
-          value:
-            rid: 2437642770543017986
-        - key: 3
-          value:
-            rid: 2437642770543017987
-        - key: 4
-          value:
-            rid: 2437642770543017988
-        - key: 5
-          value:
-            rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-            rid: 2437642770543017984
-        - key: 1
-          value:
-            rid: 2437642770543017985
-        - key: 2
-          value:
-            rid: 2437642770543017986
-        - key: 3
-          value:
-            rid: 2437642770543017987
-        - key: 4
-          value:
-            rid: 2437642770543017988
-        - key: 5
-          value:
-            rid: 2437642770543017989
->>>>>>> Stashed changes
+            rid: 6838500959705104392
       previewSettings:
         sizeFactor: 1
   references:
     version: 2
-<<<<<<< HEAD
     RefIds:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    - rid: 6412654483567280701
+    - rid: 6838500959705104387
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 6412654483567280702
+    - rid: 6838500959705104388
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 6412654483567280703
+    - rid: 6838500959705104389
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 6412654483567280704
+    - rid: 6838500959705104390
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 6412654483567280705
+    - rid: 6838500959705104391
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 6412654483567280706
-=======
-    - rid: 2437642770543017984
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017985
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017986
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017987
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017988
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-    - rid: 2437642770543017984
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017985
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017986
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017987
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017988
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-    - rid: 2437642770543017984
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017985
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017986
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017987
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017988
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-    - rid: 2437642770543017984
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017985
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017986
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017987
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017988
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017989
->>>>>>> Stashed changes
-=======
-    - rid: 2437642770543017984
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017985
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017986
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 94c4260f-b988-40e7-b3d3-435b9f449bd0
-    - rid: 2437642770543017987
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017988
-      type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
-      data:
-        modelID: 2d2d53fc-e209-4853-a358-738191781d9c
-    - rid: 2437642770543017989
->>>>>>> Stashed changes
+    - rid: 6838500959705104392
       type: {class: ModelSelection, ns: Unity.AI.Image.Services.Stores.States, asm: Unity.AI.Image}
       data:
         modelID: 
-=======
-    RefIds: []
->>>>>>> 655a139d177b66071e3c91c2c427e9d9ea3a142a
